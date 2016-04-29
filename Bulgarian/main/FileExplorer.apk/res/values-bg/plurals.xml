@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d елементи</item>
+        <item quantity="zero">%d елементи</item>
+        <item quantity="one">%d елемент</item>
+        <item quantity="two">%d елементи</item>
+        <item quantity="few">%d елементи</item>
+        <item quantity="many">%d елементи</item>
+    </plurals>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Да се изтрият ли %1$d файлове</item>
+        <item quantity="zero">Да се изтрият ли %1$d файлове</item>
+        <item quantity="one">Да се изтрият ли %1$d файл</item>
+        <item quantity="two">Да се изтрият ли %1$d файла</item>
+        <item quantity="few">Да се изтрият ли %1$d файла</item>
+        <item quantity="many">Да се изтрият ли %1$d файлове</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" и %1$d папки?"</item>
+        <item quantity="zero">" и %1$d папки?"</item>
+        <item quantity="one">" и %1$d папка?"</item>
+        <item quantity="two">" и %1$d папки?"</item>
+        <item quantity="few">" и %1$d папки?"</item>
+        <item quantity="many">" и %1$d папки?"</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Остават %1$d файла за изтегляне</item>
+        <item quantity="zero">Остават %1$d файла за изтегляне</item>
+        <item quantity="one">Остава %1$d файл за изтегляне</item>
+        <item quantity="two">Остават %1$d файла за изтегляне</item>
+        <item quantity="few">Остават %1$d файла за изтегляне</item>
+        <item quantity="many">Остават %1$d файла за изтегляне</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Остават %1$d файла за качване</item>
+        <item quantity="zero">Остават %1$d файла за качване</item>
+        <item quantity="one">Остава %1$d файл за качване</item>
+        <item quantity="two">Остават %1$d файла за качване</item>
+        <item quantity="few">Остават %1$d файла за качване</item>
+        <item quantity="many">Остават %1$d файла за качване</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d избрани</item>
+        <item quantity="zero">%1$d избрани</item>
+        <item quantity="one">%1$d избран</item>
+        <item quantity="two">%1$d избрани</item>
+        <item quantity="few">%1$d избрани</item>
+        <item quantity="many">%1$d избрани</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d елементи)</item>
+        <item quantity="zero"> (%1$d елементи)</item>
+        <item quantity="one"> (%1$d елемент)</item>
+        <item quantity="two"> (%1$d елементи)</item>
+        <item quantity="few"> (%1$d елементи)</item>
+        <item quantity="many"> (%1$d елементи)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d елементи)</item>
+        <item quantity="zero"> (%1$d елементи)</item>
+        <item quantity="one"> (%1$d елемент)</item>
+        <item quantity="two"> (%1$d елементи)</item>
+        <item quantity="few"> (%1$d елементи)</item>
+        <item quantity="many"> (%1$d елементи)</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Преди %1$d дни</item>
+        <item quantity="zero">Преди %1$d дни</item>
+        <item quantity="one">Преди %1$d ден</item>
+        <item quantity="two">Преди %1$d дни</item>
+        <item quantity="few">Преди %1$d дни</item>
+        <item quantity="many">Преди %1$d дни</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Получени %1$d файла от прил. %2$s</item>
+        <item quantity="zero">Получени %1$d файла от прил. %2$s</item>
+        <item quantity="one">Получен %1$d файл от прил. %2$s</item>
+        <item quantity="two">Получени %1$d файла от прил. %2$s</item>
+        <item quantity="few">Получени %1$d файла от прил. %2$s</item>
+        <item quantity="many">Получени %1$d файла от прил. %2$s</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">Открити нови файлове: %1$d</item>
+        <item quantity="zero">Открити нови файлове: %1$d</item>
+        <item quantity="one">Открити нови файлове: %1$d</item>
+        <item quantity="two">Открити нови файлове: %1$d</item>
+        <item quantity="few">Открити нови файлове: %1$d</item>
+        <item quantity="many">Открити нови файлове: %1$d</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Преди %1$d часа</item>
+        <item quantity="zero">Преди %1$d часа</item>
+        <item quantity="one">Преди %1$d час</item>
+        <item quantity="two">Преди %1$d часа</item>
+        <item quantity="few">Преди %1$d часа</item>
+        <item quantity="many">Преди %1$d часа</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Преди %1$d мин.</item>
+        <item quantity="zero">Преди %1$d мин.</item>
+        <item quantity="one">Преди %1$d мин.</item>
+        <item quantity="two">Преди %1$d мин.</item>
+        <item quantity="few">Преди %1$d мин.</item>
+        <item quantity="many">Преди %1$d мин.</item>
+    </plurals>
+    <plurals name="search_head_hint_app">
+        <item quantity="other">Файлове (%2$d) от прил. %1$s</item>
+        <item quantity="zero">Файлове (%2$d) от прил. %1$s</item>
+        <item quantity="one">Файл (%2$d) от прил. %1$s</item>
+        <item quantity="two">Файлове (%2$d) от прил. %1$s</item>
+        <item quantity="few">Файлове (%2$d) от прил. %1$s</item>
+        <item quantity="many">Файлове (%2$d) от прил. %1$s</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">Файлове %1$s (%2$d)</item>
+        <item quantity="zero">Файлове %1$s (%2$d)</item>
+        <item quantity="one">Файл %1$s (%2$d)</item>
+        <item quantity="two">Файлове %1$s (%2$d)</item>
+        <item quantity="few">Файлове %1$s (%2$d)</item>
+        <item quantity="many">Файлове %1$s (%2$d)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Файлове %1$s (%2$d)</item>
+        <item quantity="zero">Файлове %1$s (%2$d)</item>
+        <item quantity="one">Файл %1$s (%2$d)</item>
+        <item quantity="two">Файлове %1$s (%2$d)</item>
+        <item quantity="few">Файлове %1$s (%2$d)</item>
+        <item quantity="many">Файлове %1$s (%2$d)</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d елементи</item>
+        <item quantity="zero"> %1$d елементи</item>
+        <item quantity="one"> %1$d елемент</item>
+        <item quantity="two"> %1$d елементи</item>
+        <item quantity="few"> %1$d елементи</item>
+        <item quantity="many"> %1$d елементи</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">%1$d WeChat временни видеоклипове ще бъдат почистени, искате ли да им направите рез. копие?</item>
+        <item quantity="zero">%1$d WeChat временни видеоклипове ще бъдат почистени, искате ли да им направите рез. копие?</item>
+        <item quantity="one">%1$d WeChat временен видеоклип ще бъде почистен, искате ли да му направите рез. копие?</item>
+        <item quantity="two">%1$d WeChat временни видеоклипове ще бъдат почистени, искате ли да им направите рез. копие?</item>
+        <item quantity="few">%1$d WeChat временни видеоклипове ще бъдат почистени, искате ли да им направите рез. копие?</item>
+        <item quantity="many">%1$d WeChat временни видеоклипове ще бъдат почистени, искате ли да им направите рез. копие?</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Получени %1$d файла на WeChat</item>
+        <item quantity="zero">Получени %1$d файла на WeChat</item>
+        <item quantity="one">Получен %1$d файл на WeChat</item>
+        <item quantity="two">Получени %1$d файла на WeChat</item>
+        <item quantity="few">Получени %1$d файла на WeChat</item>
+        <item quantity="many">Получени %1$d файла на WeChat</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d WeChat видеоклипове са с изтичаща валидност</item>
+        <item quantity="zero">%1$d WeChat видеоклипове са с изтичаща валидност</item>
+        <item quantity="one">%1$d WeChat видеоклип е с изтичаща валидност</item>
+        <item quantity="two">%1$d WeChat видеоклипове са с изтичаща валидност</item>
+        <item quantity="few">%1$d WeChat видеоклипове са с изтичаща валидност</item>
+        <item quantity="many">%1$d WeChat видеоклипове са с изтичаща валидност</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d нови WeChat стикери днес</item>
+        <item quantity="zero">%1$d нови WeChat стикери днес</item>
+        <item quantity="one">%1$d нов WeChat стикер днес</item>
+        <item quantity="two">%1$d нови WeChat стикери днес</item>
+        <item quantity="few">%1$d нови WeChat стикери днес</item>
+        <item quantity="many">%1$d нови WeChat стикери днес</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Архивирани %1$d WeChat видеоклипове.</item>
+        <item quantity="zero">Архивирани %1$d WeChat видеоклипове.</item>
+        <item quantity="one">Архивиран 1 WeChat видеоклип.</item>
+        <item quantity="two">Архивирани %1$d WeChat видеоклипове.</item>
+        <item quantity="few">Архивирани %1$d WeChat видеоклипове.</item>
+        <item quantity="many">Архивирани %1$d WeChat видеоклипове.</item>
+    </plurals>
+    <plurals name="remote_video_update">
+        <item quantity="other">Намерени %1$s нови видеоклипове</item>
+        <item quantity="zero">Намерени %1$s нови видеоклипове</item>
+        <item quantity="one">Намерен %1$s нов видеоклип</item>
+        <item quantity="two">Намерени %1$s нови видеоклипове</item>
+        <item quantity="few">Намерени %1$s нови видеоклипове</item>
+        <item quantity="many">Намерени %1$s нови видеоклипове</item>
+    </plurals>
+    <plurals name="video_ad_download_tip">
+        <item quantity="other"> Изтеглени</item>
+        <item quantity="zero"> Изтеглени</item>
+        <item quantity="one">Изтеглени</item>
+        <item quantity="two">Изтеглени</item>
+        <item quantity="few">Изтеглени</item>
+        <item quantity="many">Изтеглени</item>
+    </plurals>
+</resources>

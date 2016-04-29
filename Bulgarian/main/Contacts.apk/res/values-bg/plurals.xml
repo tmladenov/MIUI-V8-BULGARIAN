@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Показани %d контакта с телефонни номера</item>
+        <item quantity="one">Показан 1 контакт с телефонен номер</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Показани %d контакта</item>
+        <item quantity="one">Показан 1 контакт</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Открити %d контакта</item>
+        <item quantity="one">Открит 1 контакт</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d контакта</item>
+        <item quantity="one">1 контакт</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Обединен от %0$d източника</item>
+        <item quantity="one">Необединен</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d групи</item>
+        <item quantity="one">1 група</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d души от %2$s</item>
+        <item quantity="one">%1$d човек от %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d души</item>
+        <item quantity="one">%1$d човек</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d номера</item>
+        <item quantity="one">%1$d номер</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Гласови съобщения: %1$d</item>
+        <item quantity="one">Гласова поща</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Избрано: %1$d</item>
+        <item quantity="one">Избрано: %1$d</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d добавени контакти"</item>
+        <item quantity="one">%1$d добавен контакт</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d души</item>
+        <item quantity="one">1 човек</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">Избрано: %1$d</item>
+        <item quantity="zero">Избрано: %1$d</item>
+        <item quantity="one">Избрано: %1$d</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">Любими: %1$d</item>
+        <item quantity="one">Любими: %1$d</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">Последни контакти: %1$d</item>
+        <item quantity="one">1 последен контакт</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">Контакти: %1$d</item>
+        <item quantity="one">Контакти: %1$d</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">Номера: %1$d</item>
+        <item quantity="one">Номера: %1$d</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">Имейли: %1$d</item>
+        <item quantity="one">1 Имейл</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">Любими: %1$d</item>
+        <item quantity="one">Любими: %1$d</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">Последни контакти: %1$d</item>
+        <item quantity="one">Последни контакти: %1$d</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">Импортирани контакти: %1$d</item>
+        <item quantity="one">Импортирани контакти: %1$d</item>
+    </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">Да се изтрият ли %d контакти?</item>
+        <item quantity="one">Да се изтрие ли %d контакт?</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Изтрий %d контакти</item>
+        <item quantity="one">Изтрий контакта</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Звънял %d пъти</item>
+        <item quantity="one">Звънял %d път</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Да се изтрият ли %d контакти от SIM картата?</item>
+        <item quantity="one">Да се изтрие ли %d контакт от SIM картата?</item>
+    </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Копирано: %d контакти</item>
+        <item quantity="one">Копирано: %d контакт</item>
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM картата може да запази %d контакти.</item>
+        <item quantity="one">SIM картата може да запази %d контакт.</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Блокиране на тези %1$d номера?</item>
+        <item quantity="one">Блокиране на този номер?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Деблокиране на тези %1$d номера?</item>
+        <item quantity="one">Деблокиране на този номер?</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%d контакти не са синхронизирани"</item>
+        <item quantity="one">"1 контакт не е синхронизиран"</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%1$d контакти</item>
+        <item quantity="one">%1$d контакт</item>
+    </plurals>
+    <plurals name="voip_contacts_count">
+        <item quantity="other">%1$d души</item>
+        <item quantity="one">%1$d човек</item>
+    </plurals>
+    <plurals name="number_of_items_available">
+        <item quantity="other">Остават %1$d</item>
+        <item quantity="one">Остава %1$d</item>
+    </plurals>
+</resources>

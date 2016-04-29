@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <string name="alphabet">Азбучен</string>
+    <string name="app_name">Инструменти на SIM</string>
+    <string name="app_name2">Инструменти на SIM 2</string>
+    <string name="app_name3">Инструменти на SIM 3</string>
+    <string name="button_cancel">Отказ</string>
+    <string name="button_no">Не</string>
+    <string name="button_ok">OK</string>
+    <string name="button_yes">Да</string>
+    <string name="default_call_setup_msg">Извършва се обаждане...</string>
+    <string name="default_close_channel_msg">Каналът е затворен</string>
+    <string name="default_open_channel_msg">Да се отвори ли каналът?</string>
+    <string name="default_receive_data_msg">Получаване на данни…</string>
+    <string name="default_send_data_msg">Изпращане на данни…</string>
+    <string name="default_setup_call_msg">В момента звъни...</string>
+    <string name="default_tone_dialog_msg">Възпроизвеждане на звука</string>
+    <string name="digits">Цифров (0-9, *, #, +)</string>
+    <string name="disable_app">Деактивирано</string>
+    <string name="enable_app">Активирано</string>
+    <string name="help">Помощ</string>
+    <string name="menu_back">Назад</string>
+    <string name="menu_end_session">Прекратяване на сесията</string>
+    <string name="no_sim_card_inserted">Please insert SIM to launch SIM Toolkit.</string>
+    <string name="service_name">Имe на услугата</string>
+    <string name="sim_type_sim_name">SIM Toolkit</string>
+    <string name="sim_type_uim_name">UIM Toolkit</string>
+    <string name="sim_type_usim_name">USIM Toolkit</string>
+    <string name="stk_app_state">Състояние на приложението</string>
+    <string name="stk_dialog_accept">Да</string>
+    <string name="stk_dialog_reject">Не</string>
+    <string name="stk_dialog_title">Инструментариум на SIM картата</string>
+    <string name="stk_intent_permission">Позволи взаимодействието с STK</string>
+    <string name="stk_no_service">Няма налична услуга</string>
+</resources>

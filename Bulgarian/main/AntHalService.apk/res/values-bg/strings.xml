@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+  <string name="app_name">Услуга ANT HAL</string>
+  <string name="permdesc_ant">Позволява на приложението да се свърже с ANT устройства, използвайки прокси услуга. Злонамерените приложения могат да придобиват или предават информация чрез ANT устройствата без ваше знание.</string>
+  <string name="permdesc_antAdmin">Позволява приложението директно да конфигурира ANT радиото през прокси услуга. Злонамерените приложения могат да попречат на други ANT приложения да се свържат към ANT устройствата.</string>
+  <string name="permdesc_antradio">Позволява приложението директно да конфигурира ANT радиото. Злонамерените приложения могат да попречат на ANT радио услугата да предостави ANT функционалност за други приложения.</string>
+  <string name="permlab_ant">Използване на интерфейса на ANT радиото</string>
+  <string name="permlab_antAdmin">Промяна на настройките на ANT услугата</string>
+  <string name="permlab_antradio">Използване на ANT хадруера</string>
+</resources>

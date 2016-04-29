@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d песни бяха открити</item>
+        <item quantity="one">%d песен беше открита</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">остават %d дни</item>
+        <item quantity="one">остава %d ден</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d песни ще бъдат изтеглени</item>
+        <item quantity="one">1 песен ще бъде изтеглена</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d песен</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d песни са премахнати от плейлиста.</item>
+        <item quantity="one">1 песен е премахната от плейлиста.</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d песни са добавени към плейлиста</item>
+        <item quantity="one">1 песен е добавена към плейлиста</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d песни</item>
+        <item quantity="one">1 песен</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d песни ще бъдат изпратени</item>
+        <item quantity="one">1 песен ще бъде изпратена</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d песни</item>
+        <item quantity="one">1 песен</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d нови</item>
+        <item quantity="one">1 нова</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d подобни песни</item>
+        <item quantity="one">%d подобна песен</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d добавени песни</item>
+        <item quantity="one">%d добавена песен</item>
+    </plurals>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Изтриване на %d плейлисти?</item>
+        <item quantity="one">Изтриване на %d плейлист?</item>
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d изпълнители</item>
+        <item quantity="one">%d изпълнител</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d групи</item>
+        <item quantity="one">%d група</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Музиката ще спре след %d минути</item>
+        <item quantity="one">Музиката ще спре след %d минута</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Изтриване на %d песни?</item>
+        <item quantity="one">Изтриване на %d песен?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Премахване на %d песни?</item>
+        <item quantity="one">Премахване на %d песен?</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">Избрани: %d елементи</item>
+        <item quantity="one">Избран %d елемент</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Песните са добавени към любими.</item>
+        <item quantity="one">Песента бе добавена към любими.</item>
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_limited">
+        <item quantity="other">Можете да изтеглите  %d платени песни този месец. Изтегляне на избраните песни?</item>
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+        <item quantity="other">Можете да изтеглите %d платени песни този месец. Надстройте  вашия профил до Премиум абонамент за изтегляне на още.</item>
+    </plurals>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> изтеглени</item>
+        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> изтеглена</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> се изтеглят</item>
+        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> се изтегля</item>
+    </plurals>
+</resources>

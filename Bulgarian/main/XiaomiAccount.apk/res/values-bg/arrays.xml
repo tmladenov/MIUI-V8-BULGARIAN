@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="education">
+       <item>Гимназия</item>
+       <item>Начално училище</item>
+       <item>Университет</item>
+       <item>Професионална гимназия</item>
+       <item>Колеж</item>
+       <item>Магистърска степен</item>
+       <item>Докторска степен</item>
+    </string-array>
+    <string-array name="income">
+       <item>&lt; 2000</item>
+       <item>2001~4000</item>
+       <item>4001~6000</item>
+       <item>6001~8000</item>
+       <item>8001~12000</item>
+       <item>> 12000</item>
+    </string-array>
+    <string-array name="question_no1">
+       <item>Фамилно име</item>
+       <item>Моминско име на баба ви</item>
+       <item>Ергенско име на дядо ви</item>
+       <item>Име на бащата на дядо ви</item>
+       <item>Име на майката на баба ви</item>
+       <item>Рожденния ден на баща ви</item>
+       <item>Рожденния ден на майка ви</item>
+       <item>Каква е разликата във възрастта на родителите ви (в години и месеци)?"</item>
+    </string-array>
+    <string-array name="question_no2">
+       <item>Университет</item>
+       <item>Име на класния ръководител в гимназията?</item>
+       <item>Име на класния ръководител в прогимназията?</item>
+       <item>Вашият студентски факултетен номер в Университета и/или Колежа?</item>
+       <item>Име на съквартиранта ви в Колежа?</item>
+       <item>Име на училищния инспектор в Колежа?</item>
+    </string-array>
+    <string-array name="question_no3">
+       <item>Лична информация</item>
+       <item>Как те наричат галено твоите родители?</item>
+       <item>Последните 6 цифри от номера на паспорта ви?</item>
+       <item>В коя болница сте роден/</item>
+       <item>Име на най-добрия ви приятел?</item>
+    </string-array>
+    <string-array name="question_no4">
+       <item>Име</item>
+       <item>Име на първия ви домашен любимец?</item>
+       <item>Име на първата ви приятелка/приятел?</item>
+       <item>Име на първата ви работа?</item>
+    </string-array>
+    <string-array name="question_no5">
+       <item>Семейно положение</item>
+       <item>Къде сключихте брак?</item>
+       <item>Име на съпруг/съпруга?</item>
+       <item>Рожденият ден на съпруг/съпруга? </item>
+    </string-array>
+</resources>

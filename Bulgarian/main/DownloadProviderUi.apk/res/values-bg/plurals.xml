@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Изтриване на %d елементи?</item>
+        <item quantity="one">Изтриване на този елемент?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <string-array name="weather_type">
+        <item>Слънчево</item>
+        <item>Облачно</item>
+        <item>Облачно</item>
+        <item>Мъгливо</item>
+        <item>Силна дъждовна буря</item>
+        <item>Порой</item>
+        <item>Дъждовна буря</item>
+        <item>Гръмотевична буря</item>
+        <item>Преваляване</item>
+        <item>Силни валежи</item>
+        <item>Умерен дъжд</item>
+        <item>Слаб дъжд</item>
+        <item>Дъжд и сняг</item>
+        <item>Снежна виелица</item>
+        <item>Сняг</item>
+        <item>Силен снеговалеж</item>
+        <item>Умерен снеговалеж</item>
+        <item>Слаб сняг</item>
+        <item>Силна пясъчна буря</item>
+        <item>Пясъчна буря</item>
+        <item>Пясък</item>
+        <item>Ветровито</item>
+        <item>Градушка</item>
+        <item>Прах</item>
+        <item>Мараня</item>
+        <item>Леден дъжд</item>
+        <item>Няма данни</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Най-слабо</item>
+        <item>Слабо</item>
+        <item>Средно</item>
+        <item>Силно</item>
+        <item>Най-силно</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Вятър С</item>
+        <item>Вятър СИ</item>
+        <item>Вятър И</item>
+        <item>Вятър ЮИ</item>
+        <item>Вятър Ю</item>
+        <item>Вятър ЮЗ</item>
+        <item>Вятър З</item>
+        <item>Вятър СЗ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">1 минута</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">1 мин.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">за 1 час</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">1 ден</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">%d седмица</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d събития</item>
+        <item quantity="one">1 събитие</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d събития</item>
+        <item quantity="one">+1 събитие</item>
+    </plurals>
+</resources>

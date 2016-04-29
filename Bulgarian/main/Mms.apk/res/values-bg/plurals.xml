@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Ще изтриете ли избраните разговори: %1$s?</item>
+        <item quantity="one">Ще изтриете ли този разговор?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s секунди</item>
+        <item quantity="one">%s секунда</item>
+        <item quantity="few">%s секунди</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%s секунди</item>
+        <item quantity="one">%s секунда</item>
+        <item quantity="few">%s секунди</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s резултата за \"%2$s\"</item>
+        <item quantity="one">%1$s резултат за \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s чов.</item>
+        <item quantity="one">1 човек</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">Съобщения: %1$s</item>
+        <item quantity="one">%1$s съобщение</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d съобщения</item>
+        <item quantity="zero">0 съобщения</item>
+        <item quantity="one">1 съобщение</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%d съобщения не са синхронизирани"</item>
+        <item quantity="one">"1 съобщение не е синхронизирано"</item>
+    </plurals>
+</resources>

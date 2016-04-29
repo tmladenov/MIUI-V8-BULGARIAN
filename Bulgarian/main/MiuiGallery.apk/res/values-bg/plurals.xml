@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Да се изтрият ли %s снимки от облака?</item>
+        <item quantity="one">Да се изтрие ли %s снимка от облака?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Да се изтрият ли %s снимки?</item>
+        <item quantity="one">Да се изтрие ли %s снимка?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Да се изтрият ли %s видеоклипа от облака?</item>
+        <item quantity="one">Да се изтрие ли %s видеоклип от облака?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Да се изтрият ли %s видеоклипа?</item>
+        <item quantity="one">Да се изтрие ли %s видеоклип?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Да се изтрият ли %s снимки локално и от облака?</item>
+        <item quantity="one">Да се изтрие ли %s снимка локално и от облака?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Да се изтрият ли %s видеоклипа локално и от облака?</item>
+        <item quantity="one">Да се изтрие ли %s видеоклип локално и от облака?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Избрани: %1$d</item>
+        <item quantity="zero">Избрани: %1$d</item>
+        <item quantity="one">Избрани: %1$d</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">Изображения: %1$d</item>
+        <item quantity="zero">Изображения: %1$d</item>
+        <item quantity="one">Изображения: %1$d</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d елементи</item>
+        <item quantity="zero">%1$d елементи</item>
+        <item quantity="one">%1$d елемент</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d снимки</item>
+        <item quantity="one">%d снимка</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d папки</item>
+        <item quantity="one">%d папка</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d видеота</item>
+        <item quantity="one">%d видео</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">"Нямате разрешение за изтриване на тези %d файла."</item>
+        <item quantity="one">"Нямате разрешение за изтриване на този %d файл."</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Може да изберте %d елемента</item>
+        <item quantity="one">Може да изберте %d елемент</item>
+    </plurals>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Да се изтрият ли %1$s албуми (общо %2$s)?</item>
+        <item quantity="one">Да се изтрие ли %1$s албум (общо %2$s)?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" "&lt;Data> Да се изтрият ли &lt;xliff:g id=ITEM>%1$d видеоклипа&lt;/xliff:g> от %2$d албума?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Да се изтрие ли &lt;xliff:g id=ITEM>%1$d видеоклип&lt;/xliff:g> от %2$d албума?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s снимки на %2$s</item>
+        <item quantity="one">%1$s снимка на %2$s</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_day">
+        <item quantity="other">%1$d дни</item>
+        <item quantity="one">%1$d ден</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_month">
+        <item quantity="other">"%1$d мес. "</item>
+        <item quantity="one">"%1$d мес. "</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"%1$d г. "</item>
+        <item quantity="one">"%1$d г. "</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d снимки на %2$s ще бъдат добавени</item>
+        <item quantity="one">%1$d снимка на %2$s ще бъде добавена</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d снимки на %2$s ще бъдат добавени</item>
+        <item quantity="one">%1$d снимка на %2$s ще бъде добавена</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">&lt;Data>Избраните елементи са снимки в Mi Cloud, да се изтрият ли &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> снимки от Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Избраният елемент е снимка в Mi Cloud, да се изтрие ли &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> от Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">&lt;Data>Да се изтрият ли &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> елементи от този албум?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">&lt;Data>Избраните елементи са снимки или клипове в Mi Cloud, да се изтрият ли &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> елементи от Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">&lt;Data>Избраните елементи съдържат снимки в Mi Cloud, да се изтрият ли &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> снимки от това устройство и от Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Избраният елемент съдържа снимка в Mi Cloud, да се изтрие ли &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> от това устройство и от Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">&lt;Data>Избраните елементи съдържат видеота и снимки в Mi Cloud, да се изтрият ли &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> елементи от това устройство и от Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">&lt;Data>Избраните елементи съдържат видеота в Mi Cloud, да се изтрият ли &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> видеоклипа от това устройство и от Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Избраният елемент съдържа видео в Mi Cloud, да се изтрие ли &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> от това устройство и от Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">&lt;Data>Избраните елементи са видеота в Mi Cloud, да се изтрият ли &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> видеоклипа от Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Избраният елемент е видео в Mi Cloud, да се изтрие ли &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> от Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">Да се изтрият ли %s елементи?</item>
+    </plurals>
+    <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">&lt;Data>Да се изтрият ли &amp;lt;xliff:g id=ITEM>%1$d снимки&amp;lt;/xliff:g> от %2$d албуми?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Да се изтрие ли &amp;lt;xliff:g id=ITEM>%1$d снимка&amp;lt;/xliff:g> от %2$d албуми?&lt;/Data></item>
+    </plurals>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">"Да не се ли показват тези лица?"</item>
+        <item quantity="one">"Да не се ли показва това лице?"</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">1 секунда</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d елементи чакат за синхронизация</item>
+        <item quantity="one">1 елемент чака за синхронизация</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d снимки чакат за синхронизация</item>
+        <item quantity="one">1 снимка за качване</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Синхр. се %1$d снимки…</item>
+        <item quantity="one">Синхр. се 1 снимка…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Синхр. се %1$d елементи…</item>
+        <item quantity="one">Синхр. се 1 елемент…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Синхр. се %1$d видеоклипа…</item>
+        <item quantity="one">Синхр. се 1 видеоклип…</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d видеота чакат за синхронизация</item>
+        <item quantity="one">1 видео за качване</item>
+    </plurals>
+    <plurals name="baby_album_share_user_count_tip">
+        <item quantity="other">%1$d последователи</item>
+        <item quantity="one">%1$d последовател</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d месеци</item>
+        <item quantity="one">%d месец</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d години</item>
+        <item quantity="one">%d година</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Вече споделен с %d души</item>
+        <item quantity="one">Вече споделен с %d човек</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d снимки</item>
+        <item quantity="one">%d снимка</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d елементи | %2$s</item>
+        <item quantity="one">%1$d елемент | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(общо %d елементи)</item>
+        <item quantity="one">(общо %d елемент)</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">Изтриване на %1$d елементи %2$s?</item>
+        <item quantity="one">Изтриване на %1$d елемент %2$s?</item>
+    </plurals>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">Изтриване на %1$d снимки %2$s?</item>
+        <item quantity="one">Изтриване на тази снимка %2$s?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">Изтриване на %1$d видеота %2$s?</item>
+        <item quantity="one">Изтриване на това видео %2$s?</item>
+    </plurals>
+</resources>

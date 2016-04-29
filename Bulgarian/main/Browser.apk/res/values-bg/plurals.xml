@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="webview_matches_found">
+        <item quantity="other">%1$d от %2$d</item>
+        <item quantity="one">1 съвпадение</item>
+    </plurals>
+    <plurals name="webview_last_num_days">
+        <item quantity="other">Последните %d дни</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">Избрани: %1$d</item>
+        <item quantity="one">Избрани: %1$d</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d съвпадения</item>
+        <item quantity="one">%d съвпадение</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d блокирани елементи</item>
+        <item quantity="one">%d блокиран елемент</item>
+    </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d песен</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">%d албуми</item>
+        <item quantity="one">%d албум</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">%d популярни песни</item>
+        <item quantity="one">%d популярна песен</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Последните %d дни</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d от %2$d</item>
+        <item quantity="one">1 съответствие</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">Премахнахте успешно %1$d видеота.</item>
+        <item quantity="one">Премахнахте успешно %1$d видео.</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Да се изтрият ли %1$d видеота?</item>
+        <item quantity="one">Да се изтрие ли %1$d видео?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d елементи са премахнати от историята.</item>
+        <item quantity="one">%1$d елемент е премахнат от историята.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">Да се изтрият ли %1$d елементи от историята?</item>
+        <item quantity="one">Да се изтрие ли %1$d елемент от историята?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+  <string name="app_name">Wfd Service</string>
+  <string name="perm_desc">Access Qualcomm WLAN Display Stack APIs</string>
+  <string name="perm_label">QC WLAN Display Stack</string>
+</resources>

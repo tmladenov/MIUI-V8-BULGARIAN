@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s изтеглени</item>
+        <item quantity="one">%1$s изтеглено</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s потребители</item>
+        <item quantity="one">%1$s потребител</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d налични марки</item>
+        <item quantity="one">1 налична марка</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">преди %1$d дни</item>
+        <item quantity="zero">преди %1$d дни</item>
+        <item quantity="one">преди %1$d ден</item>
+        <item quantity="two">преди %1$d дни</item>
+        <item quantity="few">преди %1$d дни</item>
+        <item quantity="many">преди %1$d дни</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">преди %1$d часа</item>
+        <item quantity="zero">преди %1$d часа</item>
+        <item quantity="one">преди %1$d час</item>
+        <item quantity="two">преди %1$d часа</item>
+        <item quantity="few">преди %1$d часа</item>
+        <item quantity="many">преди %1$d часа</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">преди %1$d мин.</item>
+        <item quantity="zero">преди %1$d мин.</item>
+        <item quantity="one">преди %1$d мин.</item>
+        <item quantity="two">преди %1$d мин.</item>
+        <item quantity="few">преди %1$d мин.</item>
+        <item quantity="many">преди %1$d мин.</item>
+    </plurals>
+</resources>

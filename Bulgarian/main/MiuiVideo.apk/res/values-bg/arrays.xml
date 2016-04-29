@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <string-array name="channel_tabs">
+        <item>Горещи</item>
+        <item>Популярни</item>
+        <item>Най-нови</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Избрани</item>
+        <item>Популярни</item>
+        <item>Най-нови</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Онлайн</item>
+        <item>Телефон</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Сериал</item>
+        <item>Описание</item>
+    </string-array>
+    <string-array name="addon_list_tabs">
+        <item>Всички промоции</item>
+        <item>Моите промоции</item>
+    </string-array>
+    <string-array name="movie_channel_tabs">
+        <item>Препоръчани</item>
+        <item>Популярни</item>
+        <item>Горещи</item>
+        <item>Най-нови</item>
+    </string-array>
+    <string-array name="variety_channel_tabs">
+        <item>Препоръчани</item>
+        <item>Горещи</item>
+    </string-array>
+    <string-array name="server_list_entries">
+        <item>Тестов сървър</item>
+        <item>Онлайн сървър</item>
+    </string-array>
+</resources>

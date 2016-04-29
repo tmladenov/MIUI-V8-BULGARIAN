@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+    <string-array name="ims_call_cap_types">
+        <item>Глас</item>
+        <item>Видео</item>
+    </string-array>
+    <string-array name="ims_call_types">
+        <item>Глас</item>
+        <item>Видео</item>
+        <item>CSVoice</item>
+    </string-array>
+    <string-array name="ims_video_cs_call_types">
+        <item>Видео</item>
+        <item>CSVoice</item>
+    </string-array>
+    <string-array name="ims_voice_cs_call_types">
+        <item>Глас</item>
+        <item>CSVoice</item>
+    </string-array>
+    <string-array name="cs_call_type">
+        <item>CSVoice</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA/LTE</item>
+        <item>TD-SCDMA/GSM/WCDMA</item>
+        <item>TD-SCDMA/GSM/LTE</item>
+        <item>TD-SCDMA/GSM</item>
+        <item>TD-SCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA</item>
+        <item>Само TD-SCDMA</item>
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Само EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>Авт. CDMA/EvDo</item>
+        <item>Авт. GSM/WCDMA</item>
+        <item>Само WCDMA</item>
+        <item>Само GSM</item>
+        <item>Предпочита се GSM/WCDMA</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Само „Начало“</item>
+        <item>Автоматично</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>английски</item>
+        <item>френски</item>
+        <item>испански</item>
+        <item>японски</item>
+        <item>корейски</item>
+        <item>китайски</item>
+        <item>иврит</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Троен режим</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Мрежа по подразбиране</item>
+        <item>Скриване на номера</item>
+        <item>Номерът да се показва</item>
+     </string-array>
+</resources>

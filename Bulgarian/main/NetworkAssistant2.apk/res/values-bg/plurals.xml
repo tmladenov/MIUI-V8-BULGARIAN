@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Използвано преди %d дни</item>
+        <item quantity="one">Използвано вчера</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Търсене на %d приложения</item>
+        <item quantity="one">Търсене на %d приложение</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d прил. могат да използват моб. данни при роуминг</item>
+        <item quantity="one">%d прил. може да използва моб. данни при роуминг</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"%d прил. не могат да използват моб. данни при роуминг"</item>
+        <item quantity="one">"%d прил. не може да използва моб. данни при роуминг"</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Открити са %d прил.</item>
+        <item quantity="one">Открито е %d прил.</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Следят се използваните данни за %d прил.</item>
+        <item quantity="one">Следят се използваните данни за %d прил.</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Не се следи изп. данни за %d прил.</item>
+        <item quantity="one">Не се следи изп. данни за %d прил.</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d прил. не използват Спестяване на данни</item>
+        <item quantity="one">%d прил. не използва Спестяване на данни</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d прил. използват Спестяване на данни</item>
+        <item quantity="one">%d прил. използва Спестяване на данни</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d прил. могат да се оптимизират</item>
+        <item quantity="one">%d прил. може да се оптимизира</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">Оптимизирани са %d прил.</item>
+        <item quantity="one">Оптимизирано е %d прил.</item>
+    </plurals>
+</resources>

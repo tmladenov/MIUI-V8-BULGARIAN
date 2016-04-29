@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d дни "</item>
+        <item quantity="one">"%d ден "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d часа "</item>
+        <item quantity="one">"%d час "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d мин. "</item>
+        <item quantity="one">"%d мин. "</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Налични са актуал. за %d прил.</item>
+        <item quantity="one">Налична е актуал. за %d прил.</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d разрешения</item>
+        <item quantity="one">%d разрешение</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">"%d прил. нямат право на автостарт"</item>
+        <item quantity="one">"%d прил. няма право на автостарт"</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d прил. имат право на автостарт</item>
+        <item quantity="one">%d прил. има право на автостарт</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">"%d прил. нямат ROOT достъп"</item>
+        <item quantity="one">"%d прил. няма ROOT достъп"</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d прил. имат ROOT достъп</item>
+        <item quantity="one">%d прил. има ROOT достъп</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d прил.</item>
+        <item quantity="one">%d прил.</item>
+    </plurals>
+    <plurals name="find_applications">
+       <item quantity="other">Търсене сред %d прил.</item>
+       <item quantity="one">Търсене сред %d прил.</item>
+    </plurals>
+    <plurals name="found_apps_title">
+       <item quantity="other">%d открити прил.</item>
+       <item quantity="zero">0 открити прил.</item>
+       <item quantity="one">%d открито прил.</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+       <item quantity="other">Използвано преди %d дни</item>
+       <item quantity="one">Използвано вчера</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+       <item quantity="other">"%d прил. не могат да използват роуминг на данни"</item>
+       <item quantity="one">"%d прил. не може да използва роуминг на данни"</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+       <item quantity="other">%d прил. могат да използват роуминг на данни</item>
+       <item quantity="one">%d прил. може да използва роуминг на данни</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+       <item quantity="other">%d открити прил.</item>
+       <item quantity="one">%d открито прил.</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+       <item quantity="other">Следене на изп. данни за %d прил.</item>
+       <item quantity="one">Следене на изп. данни за %d прил.</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+       <item quantity="other">Без следене на изп. данни за %d прил.</item>
+       <item quantity="one">Без следене на изп. данни за %d прил.</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+       <item quantity="other">%d прил. не използват спестяване на данни</item>
+       <item quantity="one">%d прил. не използва спестяване на данни</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+       <item quantity="other">%d прил. използват спестяване на данни</item>
+       <item quantity="one">%d прил. използва спестяване на данни</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+       <item quantity="other">%d прил. могат да се оптимизират</item>
+       <item quantity="one">%d прил. може да се оптимизира</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+       <item quantity="other">%d прил. са оптимизирани</item>
+       <item quantity="one">%d прил. е оптимизирано</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+       <item quantity="other">Паролата трябва да съдържа най-малко %d букви.</item>
+       <item quantity="one">Паролата трябва да съдържа най-малко 1 буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+       <item quantity="other">Паролата трябва да съдържа най-малко %d малки букви.</item>
+       <item quantity="one">Паролата трябва да съдържа най-малко 1 малка буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+       <item quantity="other">Паролата трябва да съдържа най-малко %d знаци, различни от букви.</item>
+       <item quantity="one">Паролата трябва да съдържа най-малко 1 знак, различен от буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+       <item quantity="other">Паролата трябва да съдържа най-малко %d цифри.</item>
+       <item quantity="one">Паролата трябва да съдържа най-малко 1 цифра.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+       <item quantity="other">Паролата трябва да съдържа най-малко %d специални символи.</item>
+       <item quantity="one">Паролата трябва да съдържа най-малко 1 специален символ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+       <item quantity="other">Паролата трябва да съдържа най-малко %d главни букви.</item>
+       <item quantity="one">Паролата трябва да съдържа най-малко 1 главна буква.</item>
+    </plurals>
+    <plurals name="number_locked">
+       <item quantity="other">%d прил. са заключени</item>
+       <item quantity="one">%d прил. е заключено</item>
+    </plurals>
+    <plurals name="number_to_lock">
+       <item quantity="other">%d прил. не са заключени</item>
+       <item quantity="one">%d прил. не е заключено</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+       <item quantity="other">Търсене на %d прил.</item>
+       <item quantity="one">Търсене на %d прил.</item>
+    </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d прил. съдържат риск за поверителността</item>
+        <item quantity="one">%d прил. съдържа риск за поверителността</item>
+    </plurals>
+</resources>

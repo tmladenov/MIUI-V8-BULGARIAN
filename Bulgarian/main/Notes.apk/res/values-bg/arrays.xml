@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <string-array name="contact_entries">
+        <item>Име</item>
+        <item>Псевдоним</item>
+        <item>Телефон</item>
+        <item>Имейл</item>
+        <item>Организация</item>
+        <item>IM</item>
+        <item>Интернет-телефон</item>
+        <item>Рожден ден</item>
+        <item>Уеб сайт</item>
+        <item>Адрес</item>
+        <item>Бележка</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Малък</item>
+        <item>Среден</item>
+        <item>Голям</item>
+        <item>Огромен</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>Чукнете, за да създадете бележка
+"</item>
+        <item>За да добавите картина, или да се показват тикчета , чукнете върху бутона по-долу
+"</item>
+        <item>Натиснете и задръжте върху бележка, за да я закачите, преместите или изтриете.
+"</item>
+        <item>Добавете още страхотни функции!
+  - Синхронизирайте с  Mi Cloud
+  - Задайте напомняне</item>
+    </string-array>
+</resources>

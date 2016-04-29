@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <string name="app_label">HTML визуализ.</string>
+    <string name="app_name_which_call">Приложение:%s</string>
+    <string name="app_version_which_call">Версия на приложението:%s</string>
+    <string name="license_host_unreachable">"Не можа да се свърже с мрежата. За да видите информацията, отидете на %s"</string>
+    <string name="loading">Зареждане…</string>
+    <string name="mibi_license">Условия за ползване на Mi Credit</string>
+    <string name="open_wifi_connect_summary">Натиснете, за да настроите</string>
+    <string name="open_wifi_connect_title">Свързване към %1$s</string>
+    <string name="permdesc_accessDrm">Разрешава достъп на приложението до съдържание, защитено с DRM.</string>
+    <string name="policy_name">Политика:%s</string>
+    <string name="settings_license_activity_loading">Зарежда се…</string>
+    <string name="settings_license_activity_title">Лицензи с отворен код</string>
+    <string name="settings_license_activity_unavailable">Възникна проблем при зареждането на лицензите.</string>
+    <string name="settings_safetylegal_activity_loading">Зарежда се…</string>
+    <string name="settings_safetylegal_activity_title">Информация за безопасност</string>
+    <string name="settings_safetylegal_activity_unreachable">"Нямате връзка за данни. За да видите тази информация сега, отворете %s от всеки компютър, свързан с интернет."</string>
+    <string name="settings_safetylegal_title">Информация за безопасност</string>
+</resources>

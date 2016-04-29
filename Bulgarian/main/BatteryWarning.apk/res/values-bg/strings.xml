@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+  <string name="btn_cancel_msg">Отхвърляне</string>
+  <string name="btn_ok_msg">Отлагане</string>
+  <string name="msg_battery_low_temperature">Температурата на батерията е много ниска, трябва да откачите зарядното!</string>
+  <string name="msg_battery_over_temperature">Батерията е прегряла - извадете я!</string>
+  <string name="msg_battery_over_voltage">Свърхнапрежение на батерията - извадете я!</string>
+  <string name="msg_charger_over_voltage">Свръхнапрежение на зарядното - изключете го!</string>
+  <string name="msg_over_current_protection">Защита срещу токово претоварване на батерията - извадете я!</string>
+  <string name="msg_safety_timer_timeout">Твърде дълго време за зареждане - откачете зарядното!</string>
+  <string name="title_battery_low_temperature">Ниска температура на батерията</string>
+  <string name="title_battery_over_temperature">Прегряване на батерията</string>
+  <string name="title_battery_over_voltage">Свръхнапрежение на батерията</string>
+  <string name="title_charger_over_voltage">Свръхнапрежение на зарядно</string>
+  <string name="title_over_current_protection">Защита срещу токово претоварване</string>
+  <string name="title_safety_timer_timeout">Превишено време на зареждане</string>
+</resources>

@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Известие</item>
+        <item>Имейл</item>
+        <item>Съобщение</item>
+        <item>Аларма</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Без напомняне</item>
+        <item>0 минути</item>
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>15 минути</item>
+        <item>30 минути</item>
+        <item>1 час</item>
+        <item>1 ден</item>
+        <item>2 дни</item>
+        <item>1 седмица</item>
+    </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Без напомняне</item>
+        <item>0 минути</item>
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>15 минути</item>
+        <item>30 минути</item>
+        <item>1 час</item>
+        <item>1 ден</item>
+        <item>2 дни</item>
+        <item>1 седмица</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Според региона</item>
+        <item>Събота</item>
+        <item>Неделя</item>
+        <item>Понеделник</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Маршалови острови</item>
+        <item>Остров Мидуей</item>
+        <item>Хавай</item>
+        <item>Аляска</item>
+        <item>Тихоок. време</item>
+        <item>Тихуана</item>
+        <item>Аризона</item>
+        <item>Чихуахуа</item>
+        <item>Планинско време</item>
+        <item>Центр. Америка</item>
+        <item>Централно време</item>
+        <item>Мексико</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Източно време</item>
+        <item>Венецуела</item>
+        <item>Атлантическо (Барбадос)</item>
+        <item>Атлантическо (Канада)</item>
+        <item>Манаус</item>
+        <item>Сантияго</item>
+        <item>Нюфаундленд</item>
+        <item>Бразилия</item>
+        <item>Буенос Айрес</item>
+        <item>Гренландия</item>
+        <item>Монтевидео</item>
+        <item>Среден Атлантик</item>
+        <item>Азорски острови</item>
+        <item>Острови Кабо Верде</item>
+        <item>Казабланка</item>
+        <item>Лондон, Дъблин</item>
+        <item>Амстердам, Берлин</item>
+        <item>Белград</item>
+        <item>Брюксел</item>
+        <item>Сараево</item>
+        <item>Виндхук</item>
+        <item>Зап. африк. време</item>
+        <item>Аман, Йордания</item>
+        <item>София, Атина</item>
+        <item>Бейрут, Ливан</item>
+        <item>Кайро</item>
+        <item>Хелзинки</item>
+        <item>Йерусалим</item>
+        <item>Минск</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувейт</item>
+        <item>Найроби</item>
+        <item>Техеран</item>
+        <item>Баку</item>
+        <item>Тбилиси</item>
+        <item>Ереван</item>
+        <item>Дубай</item>
+        <item>Кабул</item>
+        <item>Исламабад, Карачи</item>
+        <item>Уралск</item>
+        <item>Екатеринбург</item>
+        <item>Калкута</item>
+        <item>Шри Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Красноярск</item>
+        <item>Банкок</item>
+        <item>Пекин</item>
+        <item>Хонконг</item>
+        <item>Иркутск</item>
+        <item>Куала Лумпур</item>
+        <item>Пърт</item>
+        <item>Тайпе</item>
+        <item>Сеул</item>
+        <item>Токио, Осака</item>
+        <item>Якутск</item>
+        <item>Аделаида</item>
+        <item>Дарвин</item>
+        <item>Брисбейн</item>
+        <item>Хоубарт</item>
+        <item>Сидни, Канбера</item>
+        <item>Владивосток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окланд</item>
+        <item>Фиджи</item>
+        <item>Тонга</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Зает</item>
+        <item>Достъпен</item>
+        <item>Колеблив</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>По подразбиране</item>
+        <item>Частно</item>
+        <item>Обществено</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>Последн.</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Без отговор)</item>
+        <item>Да</item>
+        <item>Може би</item>
+        <item>Не</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Само това събитие</item>
+        <item>Това и бъдещите събития</item>
+        <item>Всички събития</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Това и бъдещите събития</item>
+        <item>Всички събития</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Само това събитие</item>
+        <item>Всички събития от серията</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Ден</item>
+        <item>Седмица</item>
+        <item>Месец</item>
+        <item>Дневен ред</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Ще закъснея малко.</item>
+        <item>Ще бъда там след 10 минути.</item>
+        <item>Започнете без мен.</item>
+        <item>"Съжалявам, но няма да успея. Трябва да го отложим за друг път."</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Винаги</item>
+        <item>Само в \"Тих режим\"</item>
+        <item>Никога</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Черно прозрачно</item>
+        <item>Бял фон</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1-ви</item>
+        <item>2-ри</item>
+        <item>3-ти</item>
+        <item>4-ти</item>
+        <item>5-ти</item>
+        <item>6-ти</item>
+        <item>7-ми</item>
+        <item>8-ми</item>
+        <item>9-ти</item>
+        <item>10-ти</item>
+        <item>11-ти</item>
+        <item>12-ти</item>
+        <item>13-ти</item>
+        <item>14-ти</item>
+        <item>15-ти</item>
+        <item>16-ти</item>
+        <item>17-ти</item>
+        <item>18-ти</item>
+        <item>19-ти</item>
+        <item>20-ти</item>
+        <item>21-ви</item>
+        <item>22-ри</item>
+        <item>23-ти</item>
+        <item>24-ти</item>
+        <item>25-ти</item>
+        <item>26-ти</item>
+        <item>27-ми</item>
+        <item>28-ми</item>
+        <item>29-ти</item>
+        <item>30-ти</item>
+        <item>31-ви</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Никога</item>
+        <item>След опр. време</item>
+        <item>След опр. повторения</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Яну</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Юни</item>
+        <item>Юли</item>
+        <item>Авг</item>
+        <item>Сеп</item>
+        <item>Окт</item>
+        <item>Ное</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>Първи(а)</item>
+        <item>Втори(а)</item>
+        <item>Трети(а)</item>
+        <item>Четвърти(а)</item>
+        <item>Последен(на)</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Пон - Пет</item>
+        <item>Уикенд</item>
+        <item>Цяла седмица</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Пон</item>
+        <item>Вто</item>
+        <item>Сря</item>
+        <item>Чет</item>
+        <item>Пет</item>
+        <item>Съб</item>
+        <item>Нед</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>ден</item>
+        <item>седмица</item>
+        <item>месец</item>
+        <item>година</item>
+    </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Без напомняне</item>
+        <item>0 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>15 мин.</item>
+        <item>30 мин.</item>
+        <item>1 час</item>
+        <item>1 ден</item>
+        <item>2 дни</item>
+        <item>1 седмица</item>
+    </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Без напомняне</item>
+        <item>0 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>15 мин.</item>
+        <item>30 мин.</item>
+        <item>1 час</item>
+        <item>1 ден</item>
+        <item>2 дни</item>
+        <item>1 седмица</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>дни</item>
+        <item>седмици</item>
+        <item>месеци</item>
+        <item>години</item>
+    </string-array>
+</resources>
