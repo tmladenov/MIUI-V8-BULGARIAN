@@ -14,7 +14,7 @@
   <string name="account_updating_device_failed">Неуспешно вписване</string>
   <string name="account_verify_password">Използвате тази услуга на друго устройство. Трябва да се провери вашият Mi профил на това устройство.</string>
   <string name="account_yellowpage_favorite">Любими</string>
-  <string name="account_yellowpage_followed">Потвърден профил</string>
+  <string name="account_yellowpage_followed">Потвърдени профили</string>
   <string name="account_yellowpage_recent">Вижте историята</string>
   <string name="agree">Приемам</string>
   <string name="all_resources">Всички</string>
