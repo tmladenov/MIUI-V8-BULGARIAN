@@ -80,7 +80,7 @@
   <string name="minute">1 минута</string>
   <string name="minutes">%s минути</string>
   <string name="never">Никога</string>
-  <string name="oneshot_alarm">Delete after goes off</string>
+  <string name="oneshot_alarm">Изтрий след изключване</string>
   <string name="pause">Пауза</string>
   <string name="remind_ringtone">Тон на звънене</string>
   <string name="reset">Нулиране</string>

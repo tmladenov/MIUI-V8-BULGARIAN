@@ -1555,4 +1555,19 @@ For more info check the message you received from your carrier"</string>
   <string name="wifi_exception_summary">Тест на достъпните за свързване Wi-Fi мрежи</string>
   <string name="wifi_exception_title">Тест на Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Няма връзка с интернет</string>
+  <string name="ac_enable_title">Вкл. на заключване на прил.</string>
+  <string name="after_the_lock_screen">"Приложението се заключва заедно с екрана. Може да промените това от Настройки за заключване."</string>
+  <string name="lock_mode_title">Настройки за заключване</string>
+  <string name="summary_xiaomi_roaming">Само за Китай.</string>
+  <string name="title_xiaomi_roaming">Mi Roaming</string>
+  <string name="ac_firstUseApplock_subTitle">Използвайте заключване на приложения за защита на личните данни</string>
+  <string name="ac_firstUseApplock_title">Изисква се парола за отваряне на избрани приложения</string>
+  <string name="ac_enter_applock">Вход в закл. на прил.</string>
+  <string name="ac_summaryOff">Изключено, не се изисква парола за вход в приложенията</string>
+  <string name="ac_summaryOn">Включено, изисква се парола за вход в приложенията</string>
+  <string name="activity_title_other_permission_manager">Други разрешения</string>
+  <string name="notification_subtitle">Чукнете за включване</string>
+  <string name="operator_mi_sim">Mi SIM</string>
+  <string name="pref_mi_sim_settings">Настройки на Mi SIM</string>
+  <string name="warning_open_mi_sim">Включване на Mi SIM</string>
 </resources>

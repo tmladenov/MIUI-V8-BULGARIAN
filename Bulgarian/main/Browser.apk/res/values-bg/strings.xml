@@ -1051,4 +1051,25 @@
   <string name="webview_yesterday">Вчера</string>
   <string name="webviewchromium_private_browsing_warning">Функционалността не се поддържа в тази версия на Android.</string>
   <string name="week_picker_dialog_title">Задай седмица</string>
+  <string name="action_menu_account_not_login">Не сте вписани</string>
+  <string name="action_menu_account_not_login_hint">Впишете се за синхронизиране с Mi Cloud</string>
+  <string name="action_menu_bookshelf">Bookshelf</string>
+  <string name="action_menu_toolbox">Инструменти</string>
+  <string name="action_menu_useful_page">Пряк път</string>
+  <string name="action_menu_useful_page_added">Добавено на началната страница</string>
+  <string name="bookmark_btn_select_all">Избери всички</string>
+  <string name="bookmark_btn_select_none">Размаркирай всички</string>
+  <string name="comment_app_menu">Коментар</string>
+  <string name="comment_menu">Коментар</string>
+  <string name="custom_head_card_text">"Always believe that something wonderful
+is about to happen"</string>
+  <string name="custom_head_card_text_incognito">"You're incognito!
+Pages you view won't appear in history."</string>
+  <string name="data_traffic_prompt_message_short">Използването на мобилни данни за стриймване на видео може да коства превишаване на лимита ви за данни.</string>
+  <string name="login_failed_toast">"Неуспешно вписване, опреснете и опитайте отново"</string>
+  <string name="send_comment_button">Изпрати</string>
+  <string name="send_comment_title">Коментар</string>
+  <string name="video_float_window">Изскачащ прозорец</string>
+  <string name="video_float_window_playing">Възпроизвеждане на видео</string>
+  <string name="video_float_window_text">Изскачащ прозорец</string>
 </resources>

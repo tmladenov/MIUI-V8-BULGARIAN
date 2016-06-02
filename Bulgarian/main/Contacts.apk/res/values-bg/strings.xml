@@ -1343,4 +1343,12 @@
   <string name="yellowpage_search_the_yellowpage">Търсене в списъка</string>
   <string name="yellowpage_user_profile">Профил</string>
   <string name="zero_items_selected">Нищо не е избрано</string>
+  <string name="hybrid_check_network">Настройки на мрежата</string>
+  <string name="hybrid_data_error">Възникна грешка</string>
+  <string name="hybrid_locating_fail">Не може да се определи местоположението ви</string>
+  <string name="hybrid_network_unavaliable">Няма връзка с мрежата</string>
+  <string name="hybrid_service_unavailiable">Услугата е недостъпна</string>
+  <string name="hybrid_try_again">Нов опит</string>
+  <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
+  <string name="preference_key_trash_bin_title">Преглеждане на архивирани контакти, които са изтрити наскоро</string>
 </resources>

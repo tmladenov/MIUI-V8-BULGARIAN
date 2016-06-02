@@ -193,4 +193,28 @@
         <item quantity="few">Изтеглени</item>
         <item quantity="many">Изтеглени</item>
     </plurals>
+    <plurals name="user_upload_items">
+        <item quantity="other">видеота</item>
+        <item quantity="zero">видеота</item>
+        <item quantity="one">видео</item>
+        <item quantity="two">видеота</item>
+        <item quantity="few">видеота</item>
+        <item quantity="many">видеота</item>
+    </plurals>
+    <plurals name="video_num">
+        <item quantity="other">%1$s видеота</item>
+        <item quantity="zero">%1$s видеота</item>
+        <item quantity="one">%1$s видео</item>
+        <item quantity="two">%1$s видеота</item>
+        <item quantity="few">%1$s видеота</item>
+        <item quantity="many">%1$s видеота</item>
+    </plurals>
+    <plurals name="video_play_num">
+        <item quantity="other">%1$s гледания</item>
+        <item quantity="zero">%1$s гледания</item>
+        <item quantity="one">%1$s гледане</item>
+        <item quantity="two">%1$s гледания</item>
+        <item quantity="few">%1$s гледания</item>
+        <item quantity="many">%1$s гледания</item>
+    </plurals>
 </resources>

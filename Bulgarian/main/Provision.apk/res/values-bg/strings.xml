@@ -59,4 +59,12 @@
   <string name="title_fingerprint">Добавете пръстов отпечатък</string>
   <string name="user_agreement">Потребителско споразумение</string>
   <string name="welcome">Добре дошли в</string>
+  <string name="alert_dialog_btn_close">Деактивирай</string>
+  <string name="alert_dialog_btn_open">Отказ</string>
+  <string name="alert_dialog_msg">"Някои от основните услуги и функции на MIUI няма да могат да работят по предназначение без тези разрешения (напр. устройството няма да може да показва данни за контакта по време на разговор). Ако деактивирате тези разрешения, приложенията на MIUI ще питат за всяко индивидуално разрешение, когато то се изисква при определено действие."</string>
+  <string name="alert_dialog_title">Някои услуги може да не работят...</string>
+  <string name="desc_extra_fingerprint" />
+  <string name="desc_extra_international_fingerprint" />
+  <string name="other_settings_permission">Разрешения на услугите в MIUI</string>
+  <string name="other_settings_permission_summary">Дава на Mi Cloud, Телефон и други основни функции и услуги разрешенията, които изискват, за да работят нормално</string>
 </resources>

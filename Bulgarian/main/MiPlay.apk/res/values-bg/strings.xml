@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">MiPlay</string>
+  <string name="cancel">Отказ</string>
+  <string name="media_feature_projection">Огледален екран</string>
+  <string name="media_status_error">Грешка</string>
+  <string name="media_status_started">Свързан</string>
+  <string name="media_status_starting">Свързва се…</string>
+  <string name="media_status_stopped">Спрян</string>
+  <string name="media_status_stopping">Спира се…</string>
+  <string name="search_for_devices">Опресняване</string>
+  <string name="wifi_display_autonomous_go">Разрешаване на автостарт</string>
+  <string name="wifi_display_certification_heading">Сертифициране</string>
+  <string name="wifi_display_details">Настройки за дисплея</string>
+  <string name="wifi_display_enable_menu_item">Активиране на безжичния дисплей</string>
+  <string name="wifi_display_listen_channel">Listen channel</string>
+  <string name="wifi_display_listen_mode">Enable listen mode</string>
+  <string name="wifi_display_no_devices_found">Няма намерени устройства в района.</string>
+  <string name="wifi_display_operating_channel">Operating channel</string>
+  <string name="wifi_display_options_done">Готово</string>
+  <string name="wifi_display_options_forget">Забравяне</string>
+  <string name="wifi_display_options_name">Име</string>
+  <string name="wifi_display_options_title">Опции на безжичния дисплей</string>
+  <string name="wifi_display_pause">Пауза</string>
+  <string name="wifi_display_resume">Подновяване</string>
+  <string name="wifi_display_session_info">Данни за сесията</string>
+  <string name="wifi_display_settings_title">Cast</string>
+  <string name="wifi_display_status_connected">Установена е връзка</string>
+  <string name="wifi_display_status_connecting">Установява се връзка</string>
+  <string name="wifi_display_status_in_use">Използва се</string>
+  <string name="wifi_display_status_not_available">Не е налице</string>
+  <string name="wifi_display_wps_config">WPS конфигурация</string>
+</resources>

@@ -3,9 +3,9 @@
 <resources>
   <string name="Accounts_settings_title">Профили</string>
   <string name="aaid_info">"
-Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you.
+Рекламите идентифицират временно вашето устройство. Търговците използват това  за да избират реклами с подходящо за вас съдържание.
 
-If you choose not to use personalized ads, the amount of advertising won't be reduced, but the amount of ads useful to you will decrease significantly."</string>
+Ако изберете да не използвате персонализирани реклами, тяхното количество няма да бъде намалено, но те няма да бъдат с подходящо съдържание за вас."</string>
   <string name="about_settings">Всичко за устройството</string>
   <string name="about_settings_summary">Преглед на състоянието, правната информация и версията на софтуера</string>
   <string name="ac_enable_summary">Ще се изисква парола, за да отворите приложението</string>
@@ -104,7 +104,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="active_input_method_subtypes">Активни методи за въвеждане</string>
   <string name="activity_not_found">Приложението не е инсталирано на телефона ви.</string>
   <string name="activity_picker_label">Избор на активност</string>
-  <string name="ad_service">Ad services</string>
+  <string name="ad_service">Услуга за реклами</string>
   <string name="adb_keys_warning_message">Да се отмени ли достъпът до отстраняването на грешки през USB от всички по-рано упълномощени от вас компютри?</string>
   <string name="adb_warning_message">Отстраняването на грешки през USB е предназначено само за програмни цели. Използвайте го за копиране на данни между компютъра и устройството си, за инсталиране на приложения на устройството си без известяване и за четене на регистрационни данни.</string>
   <string name="adb_warning_title">Разрешаване на отстраняването на грешки през USB?</string>
@@ -794,9 +794,9 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="close_dialog">ОК</string>
   <string name="close_miui_optimization_title">Изключване на MIUI оптимизация</string>
   <string name="close_miui_optimization_warning_message">Устройството ви ще се рестартира, за да приложи тази промяна. Забележка: изключването на тази функция ще доведе до големи промени в слоевете и други елементи от ПИ.</string>
-  <string name="cmcc_dm_settings_disable_summary">Disable auto boot</string>
-  <string name="cmcc_dm_settings_enable_summary">Enable auto boot</string>
-  <string name="cmcc_dm_settings_title">Device Management Permission</string>
+  <string name="cmcc_dm_settings_disable_summary">Изключване на auto boot</string>
+  <string name="cmcc_dm_settings_enable_summary">Включване на auto boot</string>
+  <string name="cmcc_dm_settings_title">Права за мениджър устройство</string>
   <string name="cmcc_hardware_version">Версия на хардуера</string>
   <string name="color_black">Черен</string>
   <string name="color_blue">Син</string>
@@ -842,7 +842,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="contributors_title">Сътрудници</string>
   <string name="controls_label">Контроли</string>
   <string name="controls_subtitle">Настройване на захранването</string>
-  <string name="convenience_key_category_title">Convenience key</string>
+  <string name="convenience_key_category_title">Бързи команди</string>
   <string name="copyright_title">Авторски права</string>
   <string name="country_name">%s (системно)</string>
   <string name="create">Създаване</string>
@@ -914,8 +914,8 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="current_backup_pw_prompt">Въведете текущата си парола за пълно резервно копие тук</string>
   <string name="current_input_method">По подразбиране</string>
   <string name="current_screen_lock">Текущо заключване на екрана</string>
-  <string name="current_use_ese">Using embedded secure element</string>
-  <string name="current_use_uicc_se">Using secure element on SIM card</string>
+  <string name="current_use_ese">Използване на запомнящи се елементи за сигурност</string>
+  <string name="current_use_uicc_se">Използване на елементи за сигурност на СИМ картата.</string>
   <string name="daltonizer_mode_deuteranomaly">Деутераномалия (червено – зелено)</string>
   <string name="daltonizer_mode_disabled">Деактивирано</string>
   <string name="daltonizer_mode_monochromacy">Монохромазия</string>
@@ -1395,18 +1395,18 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="failed_to_shut_down_find_device_content">\"Открий устройството\" не може да се изключи. Изчакайте малко и опитайте отново.</string>
   <string name="failed_to_shut_down_find_device_title">\"Открий устройството\" не може да се изключи</string>
   <string name="fcc_equipment_id">Идент. № на оборудването</string>
-  <string name="field_info_card_label">Choose card:</string>
-  <string name="field_info_frequency_band_label">Frequency band:</string>
-  <string name="field_info_location_area_label">Location area code:</string>
-  <string name="field_info_mobile_country_label">Mobile country code:</string>
-  <string name="field_info_mobile_network_label">Mobile network code:</string>
+  <string name="field_info_card_label">Избери карта:</string>
+  <string name="field_info_frequency_band_label">Честота:</string>
+  <string name="field_info_location_area_label">Код на населено място:</string>
+  <string name="field_info_mobile_country_label">Код на страна:</string>
+  <string name="field_info_mobile_network_label">Код на мобилната мрежа:</string>
   <string name="field_info_radio_frequency_channel_label">ARFCN:</string>
-  <string name="field_info_routing_area_label">Routing area code:</string>
+  <string name="field_info_routing_area_label">Код на маршрут:</string>
   <string name="field_info_rssi_label">RSSI:</string>
   <string name="field_info_rx_tx_port_label">Rx/Tx Port:</string>
-  <string name="field_info_tracking_area_label">Tracking area code:</string>
+  <string name="field_info_tracking_area_label">Регионален код:</string>
   <string name="field_info_tx_power_label">Tx Power:</string>
-  <string name="field_test_info_label">Field test info</string>
+  <string name="field_test_info_label">Полета за тест на информация</string>
   <string name="filter">Филтриране</string>
   <string name="filter_all_apps">Всички приложения</string>
   <string name="filter_apps_all">Всички</string>
@@ -2129,11 +2129,11 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="mock_location_app_not_set">Няма зададено приложение за мнимо местоположение</string>
   <string name="mock_location_app_set">Приложение за мнимо местоположение: %1$s</string>
   <string name="model_number">Номер на модел</string>
-  <string name="modem_tool_log">Capture Modem Logs</string>
-  <string name="modem_tool_log_start">Start Capturing</string>
-  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
-  <string name="modem_tool_log_stop">Stop Capturing</string>
-  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+  <string name="modem_tool_log">Заснемане на логовете на Модема</string>
+  <string name="modem_tool_log_start">Стартирай заснемането</string>
+  <string name="modem_tool_log_start_toast">Стартиране разтоварване на лога на модема от %s"</string>
+  <string name="modem_tool_log_stop">Спри заснемането</string>
+  <string name="modem_tool_log_stop_toast">"Спиране разтоварването на лога на модема от  %s"</string>
   <string name="move_app">Преместване</string>
   <string name="move_app_failed_dlg_text">Приложението не можа да бъде преместено. %1$s</string>
   <string name="move_app_failed_dlg_title"/>
@@ -2333,15 +2333,15 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="oem_unlock_enable">Фабрично откл.: Актив.</string>
   <string name="oem_unlock_enable_summary">Разрешаване на фабричното отключване на у-вото</string>
   <string name="okay">ОК</string>
-  <string name="oldman_mode_confirm_title">Reboot to enter Lite mode?</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">Exit Lite mode?</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">Your phone will reboot and enter Lite mode.</string>
+  <string name="oldman_mode_confirm_title">Рестартиране за влизане в Lite mode?</string>
+  <string name="oldman_mode_confirm_will_normal_mode_text">Изход от Lite mode?</string>
+  <string name="oldman_mode_confirm_will_oldman_mode_text">Вашият телефон ще се рестартира и влезе в Lite mode.</string>
   <string name="oldman_mode_enabled_name">Lite mode</string>
   <string name="oldman_mode_entry_name">Lite mode</string>
   <string name="oldman_mode_entry_title">Lite mode</string>
-  <string name="oldman_mode_settings_caption">Lite mode settings</string>
-  <string name="oldman_mode_summary">Use simplified Home screen and menus</string>
-  <string name="oldman_mode_summary_cta">Lite mode needs to connect to the internet and read your contacts, messages, and location info to work normally.</string>
+  <string name="oldman_mode_settings_caption">Lite mode настройки</string>
+  <string name="oldman_mode_summary">Използване на опростен начален екран и менюта</string>
+  <string name="oldman_mode_summary_cta">Lite mode се нуждае от връзка с интернет и достъп до вашите контакти, съобщения и местоположение за да работи нормално.</string>
   <string name="onekey_migrate">Експорт към ново устройство</string>
   <string name="online_resource_entry">Онлайн ресурси</string>
   <string name="only_one_home_message">Настройките за началния екран ще бъдат скрити, докато не инсталирате друго приложение за него.</string>
@@ -2947,7 +2947,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="search_wallpaper">тапет</string>
   <string name="search_wifi">Wi-Fi</string>
   <string name="search_wifi_display">Wi-Fi дисплей</string>
-  <string name="secure_keyguard_business_title">Lock screen password</string>
+  <string name="secure_keyguard_business_title">Парола на заключен екран</string>
   <string name="secure_lock_encryption_warning">Тъй като сте включили услуга за достъпност, устройството ви няма да използва заключването на екрана ви за подобряване на шифроването на данни.</string>
   <string name="security_enable_widgets_disabled_summary">Деактивирано от администратора</string>
   <string name="security_enable_widgets_title">Приспособления: Акт.</string>
@@ -4518,4 +4518,36 @@ Wi‑Fi асистента за Wi‑Fi"</string>
   <string name="zone_auto_summaryOn">Използване на часовата зона, предоставена от мрежата</string>
   <string name="zone_list_menu_sort_alphabetically">Сортиране по азбучен ред</string>
   <string name="zone_list_menu_sort_by_timezone">Сортиране по часова зона</string>
+  <string name="attempt_other_network">Избиране на друга мрежа</string>
+  <string name="battery_light_summary">Включване на индикацията докато устройството се зарежда</string>
+  <string name="confirm_reset_aaid">OK</string>
+  <string name="dial_application_title">Набиране</string>
+  <string name="erase_sd_data">Форматиране на SD картата</string>
+  <string name="erase_sd_data_description">Форматирането ще изтрие всички файлове и данни на вашата SD карта</string>
+  <string name="fingerprint_for_keyguard_disabled">Отпечатъка беше деактивиран от настройките за сигурност.</string>
+  <string name="fingerprint_removal_failed">"Отпечатъка не може да се премахне, опитайте по-късно"</string>
+  <string name="internal_storage_sentence">Вътрешно хранилище</string>
+  <string name="key_position_cat">Позиция на бутоните</string>
+  <string name="max_cpu10_info">"Десетядрен Max "</string>
+  <string name="screen_key_position">Бутони за навигация</string>
+  <string name="security_encryption_alert_dialog_info_first">Настройте заключването на екрана, за да включите услугата. Ще трябва да въвеждате паролата след всеки рестарт, за да дешифрирате и използвате устройството си нормално.</string>
+  <string name="security_encryption_alert_dialog_title_first">Първо настройте заключването на екрана.</string>
+  <string name="security_encryption_attention_1">Няма да може да ползвате алармите при изключено устройство.</string>
+  <string name="security_encryption_attention_2">Ще трябва да въвеждате паролата за отключване след всяко рестартиране, за да дешифрирате устройството. Рестартирането може да продължи повече от обикновеното.</string>
+  <string name="security_encryption_attention_3">Вие сте на път да промените вашата парола за отключване на екрана.</string>
+  <string name="security_encryption_attention_4">Уверете се, че сте запомнили вашата парола за заключване на екрана, в противен случай ще се наложи да извършите пълно нулиране и изтриване на цялата информация във вашето устройство.</string>
+  <string name="security_encryption_attention_info">Вие можете да криптирате акаунти, настройки, инсталирани приложения и тяхната информация, медия или други файлове.</string>
+  <string name="security_encryption_attention_title">Важно</string>
+  <string name="security_encryption_close_dialog_info">Ако изберете да не криптирате устройството, използвайки парола за заключване на екрана, е възможно някои услуги на Google да не работят след това.</string>
+  <string name="security_encryption_close_dialog_title">Връщане обратно към стандартната защита с парола</string>
+  <string name="security_encryption_diaglog_continue">Напред</string>
+  <string name="security_encryption_is_used">Вкл.</string>
+  <string name="security_encryption_title">Криптирайте устройството си, като използвате парола за заключване на екрана.</string>
+  <string name="touch_assistant">Тъч асистент</string>
+  <string name="use_this_wlan">Използване на това Wi-Fi</string>
+  <string name="virtual_sim_global_category_title">Mi SIM</string>
+  <string name="virtual_sim_global_description">Свързване към мобилни данни без SIM карта</string>
+  <string name="virtual_sim_global_title">Услуги за мобилни данни</string>
+  <string name="wifi_enable_data_and_wifi_roam">Превкл. м/у данни и Wi-Fi</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Запазване на вкл. данни и Wi-Fi за превключване към данни при слаба вкъзка през Wi-Fi.</string>
 </resources>

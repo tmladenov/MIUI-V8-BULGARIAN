@@ -205,4 +205,36 @@
         <item quantity="other">Изтриване на %1$d видеота %2$s?</item>
         <item quantity="one">Изтриване на това видео %2$s?</item>
     </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">Избрани %d елементи</item>
+        <item quantity="one">Избран %d елемент</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">Грешка при изтегляне: %1$d файла</item>
+        <item quantity="one">Грешка при изтегляне: %1$d файл</item>
+    </plurals>
+    <plurals name="backup_waiting">
+        <item quantity="other">%1$d елементи чакат за архивиране</item>
+        <item quantity="one">%1$d елемент чака за архивиране</item>
+    </plurals>
+    <plurals name="backuped">
+        <item quantity="other">%1$d елементи бяха архивирани</item>
+        <item quantity="one">%1$d елемент беше архивиран</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+        <item quantity="other">Mi Cloud е пълен. %1$d елементи чакат за архивиране</item>
+        <item quantity="one">Mi Cloud е пълен. %1$d елемент чака за архивиране</item>
+    </plurals>
+    <plurals name="local_space_full">
+        <item quantity="other">Недостатъчно локално хранилище. %1$d елементи чакат за архивиране</item>
+        <item quantity="one">Недостатъчно локално хранилище. %1$d елемент чака за архивиране</item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+        <item quantity="other">Грешка в мрежата. %1$d елементи чакат за архивиране</item>
+        <item quantity="one">Грешка в мрежата. %1$d елемент чака за архивиране</item>
+    </plurals>
+    <plurals name="sync_off">
+        <item quantity="other">Синхр. е изкл. %1$d елементи чакат за архивиране</item>
+        <item quantity="one">Синхр. е изкл. %1$d елемент чака за архивиране</item>
+    </plurals>
 </resources>

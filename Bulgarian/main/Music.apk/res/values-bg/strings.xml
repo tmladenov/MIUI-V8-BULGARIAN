@@ -766,4 +766,9 @@
 
 Чукнете %s за стартиране на изтеглянето веднага, щом се свържете с Wi-Fi.</string>
   <string name="wifi_required_title">Изтеглянето е прекалено дълго за използване на мобилни данни.</string>
+  <string name="desktop_lyric_lock_toast">Заключено. Използвайте Mini Player в лентат с известия, за да отключите</string>
+  <string name="permission_declaration_message">Дайте достъп до хранилището от Оптимизация &gt; Разрешения &gt; Разрешения &gt; Хранилище &gt; Музика, за да може Музика да работи нормално.</string>
+  <string name="permission_declaration_negative_text">По-късно</string>
+  <string name="permission_declaration_positive_text">Към Оптимизация</string>
+  <string name="permission_declaration_title">Даване на достъп</string>
 </resources>

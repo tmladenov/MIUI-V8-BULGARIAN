@@ -167,4 +167,9 @@
         <item>Само за изключения</item>
         <item>Никога</item>
     </string-array>
+    <string-array name="lock_mode">
+        <item>При заключено устройство</item>
+        <item>След изход от приложението</item>
+        <item>1 мин. след изход от прил.</item>
+    </string-array>
 </resources>

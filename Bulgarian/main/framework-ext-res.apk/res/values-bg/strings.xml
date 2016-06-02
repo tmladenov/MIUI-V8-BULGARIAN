@@ -131,6 +131,9 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi VPN</string>
   <string name="subinfo_default_name">SIM %d</string>
-  <string name="turn_off">Turn Off</string>
+  <string name="turn_off">Изключване</string>
   <string name="unknown_caller">Неизвестен</string>
+  <string name="add_frequent_phrases">Добавяне на чести фрази</string>
+  <string name="frequent_phrases">Чести фрази</string>
+  <string name="status_bar_toggle_cast">Предаване</string>
 </resources>

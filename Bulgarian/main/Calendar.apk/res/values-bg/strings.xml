@@ -401,4 +401,20 @@
   <string name="yearly">Ежегодно (%s)</string>
   <string name="yearly_plain">Годишно</string>
   <string name="zhushen"/>
+  <string name="dropdown_delete_button_desc">Премахване на %s от получателите</string>
+  <string name="event_info_from">От</string>
+  <string name="event_title">Заглавие</string>
+  <string name="download">Изтегляне</string>
+  <string name="event_info_jump_to_email">Към Имейл</string>
+  <string name="insert_event_dialog_btn_negative">Не</string>
+  <string name="insert_event_dialog_btn_positive">Да</string>
+  <string name="insert_event_dialog_message">Добавяне на събитието към календара?</string>
+  <string name="insert_event_dialog_title">Внимание</string>
+  <string name="insert_event_toast_add_failed">Неуспешно добавяне</string>
+  <string name="insert_event_toast_add_success">Събитието е създадено</string>
+  <string name="menu_reminder_preferences">Настройки за напомняне</string>
+  <string name="preferences_history_events">Показване на минали събития</string>
+  <string name="preferences_holidays">Показване на празници</string>
+  <string name="setting_holiday">Празници</string>
+  <string name="setting_others">Други</string>
 </resources>

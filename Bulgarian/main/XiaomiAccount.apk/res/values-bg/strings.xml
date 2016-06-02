@@ -473,4 +473,22 @@
   <string name="wipe_data_dialog_title">Някои елементи не са синхронизирани.</string>
   <string name="wrong_captcha">Captcha кодът, който сте въвели е грешен</string>
   <string name="wrong_vcode">Грешен код</string>
+  <string name="account_error_all_space_user_name">Невалидно име</string>
+  <string name="find_device_access_denied">Не може да се получи информация за статус, достъпът е забранен.</string>
+  <string name="find_device_account_error">Не може да се получи информация за статус поради грешка в Mi Account.</string>
+  <string name="find_device_bad_response_error">Не може да се получи информация за статус поради грешка в сървъра, опитайте по-късно.</string>
+  <string name="find_device_error_password_not_confirmed">"Не може да се изключи "Открий устройството". Въведете вашата Mi Account парола отново."</string>
+  <string name="find_device_error_password_recently_changed">"Вече сте променили паролата си веднъж през последните три дни. Не може да изключите "Открий устройството" от съображения за сигурност."</string>
+  <string name="find_device_interrupted">Действието беше прекъснато, опитайте по-късно.</string>
+  <string name="find_device_io_error">Няма връзка с мрежата</string>
+  <string name="find_device_null_credential_error">Не мога да получа информация за устройството, свържете се с Xiaomi-център за услуги.</string>
+  <string name="find_device_operation_failed_error">Грешка в услугата</string>
+  <string name="find_device_operation_failed_error_unknown">Неочаквана грешка, опитайте по-късно.</string>
+  <string name="find_device_remote_exception">RPC error</string>
+  <string name="find_device_request_error">Не може да се изпрати запитване за статус, опитайте по-късно.</string>
+  <string name="find_device_request_prepare_error">Не може да се получи информация за статус, моля, опитайте по-късно.</string>
+  <string name="find_device_unknown_error">Не може да се получи информация за статус. Моля, опитайте по-късно.</string>
+  <string name="passport_find_device_display_id">Номер за отключване:%s</string>
+  <string name="turn_off_find_device_failed_title">Не може да се изключи Открий устройството</string>
+  <string name="turning_off_find_device">Изключване на Открий устройството…</string>
 </resources>

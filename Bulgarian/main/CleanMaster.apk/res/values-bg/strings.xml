@@ -399,4 +399,6 @@
   <string name="white_list_title">Изключения</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yesterday">Вчера</string>
+  <string name="activity_title_main">Clean Master</string>
+  <string name="function_app_lock_title">%d прил. съдържат риск за поверителността​</string>
 </resources>

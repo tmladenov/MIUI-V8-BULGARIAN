@@ -80,4 +80,6 @@
     <string name="xl_speedup_experience_notify_title">Xunlei членство</string>
     <string name="xl_speedup_notify_button_experience">Тествай пробен период</string>
     <string name="xl_speedup_notify_button_member">Стани член</string>
+    <string name="notify_disabled_net_by_app">Връзката с интернет е ограничена от Оптимизация</string>
+    <string name="notify_only_wifi_download">Изчаква се Wi-Fi</string>
 </resources>

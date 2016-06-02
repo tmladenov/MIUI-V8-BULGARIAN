@@ -26,7 +26,7 @@
   <string name="add_event">Добавяне на събитие</string>
   <string name="add_event_hint">Поставяне на етикет</string>
   <string name="add_sharer">Добави член</string>
-  <string name="add_to_album">Добавяне в албум</string>
+  <string name="add_to_album">Добави в албум</string>
   <string name="add_to_album_bulk_result">Грешка (%d)</string>
   <string name="add_to_album_exist">Тази снимка вече съществува</string>
   <string name="add_to_album_failed">Не може да се добави в албума</string>
@@ -324,7 +324,7 @@
   <string name="dcim_opaipic">Opaipic</string>
   <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">Мобилен</string>
-  <string name="delete">Изтриване</string>
+  <string name="delete">Изтрий</string>
   <string name="delete_album_failed">"Албумът не може да се изтрие"</string>
   <string name="delete_album_msg_format">Изтриване на \"%2$s\" албум %1$s%3$s?</string>
   <string name="delete_album_success">Албумът е изтрит.</string>
@@ -676,7 +676,7 @@
   <string name="open_sync_title">Включване на синхронизацията</string>
   <string name="operation_add_album">Добави в албум</string>
   <string name="operation_add_picture">Добавяне на снимки</string>
-  <string name="operation_add_secret">Добави в скрит албум</string>
+  <string name="operation_add_secret">Скрит албум</string>
   <string name="operation_add_secret_button">Скрий</string>
   <string name="operation_delete">Изтрий</string>
   <string name="operation_delete_confirm_message_folder">"Съдържанието на всички папки ще бъде изтрито. "</string>
@@ -1070,4 +1070,30 @@
   <string name="yellow_page">Папка</string>
   <string name="yes">Да</string>
   <string name="yunyi_pocket_camera">Фотоапарат</string>
+  <string name="auto_upload_disable_tip">AutoBackup е деактивирано</string>
+  <string name="auto_upload_disable_toast_long_press_menu">AutoBackup е деактивирано и е добавено в друг албум</string>
+  <string name="auto_upload_enable_toast_long_press_menu">AutoBackup е активирано, върнете се в страницата на албума, за да прегледате</string>
+  <string name="other_album">Други албуми</string>
+  <string name="custom_select_title_deselect_all">Размаркиране</string>
+  <string name="custom_select_title_select_all">Избери всички</string>
+  <string name="custom_select_title_select_item">Избери елементи</string>
+  <string name="debugging_tip">Генериране на данни за отстр. на грешки</string>
+  <string name="download_retry_message">Грешка при изтегляне на снимки, проверете мрежата и повторете.</string>
+  <string name="download_retry_text">Нов опит</string>
+  <string name="download_retry_title">Грешка при изтегляне</string>
+  <string name="download_title">Файловете се подготвят...</string>
+  <string name="more_album_hint">, и др.</string>
+  <string name="runtime_permission_ungranted">Галерия се затвори, няма необходимите разрешения</string>
+  <string name="start_debug">Отстраняване на грешки</string>
+  <string name="album_detail_clear_local_page_empty">Няма архивирани снимки или видео за изтриване</string>
+  <string name="backup_detail_page_title">Mi Cloud резервни копия</string>
+  <string name="backup_waiting_button_text">Архивирай сега</string>
+  <string name="backuping">Архивира се %1$d/%2$d</string>
+  <string name="clear_local_photo_direction">Ако изтриете снимки или видео от вашето устройство, те все още ще бъдат на разположение в Mi Cloud</string>
+  <string name="cloud_space_full_button_text">Вземи още Mi Cloud хранилище</string>
+  <string name="network_unsatisfied_button_text">Свързване с мрежата</string>
+  <string name="operation_do_delete_local_thumnail">Изтрий от устройството</string>
+  <string name="operation_enter_delte_thumbnail">Изтриване на архивирани снимки или видео от устройството</string>
+  <string name="release_space_finish_format">Освободени %s от локалното хранилище</string>
+  <string name="sync_off_button_text">Turn on sync</string>
 </resources>

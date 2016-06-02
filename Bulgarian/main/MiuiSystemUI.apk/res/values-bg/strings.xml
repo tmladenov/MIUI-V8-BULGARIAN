@@ -283,4 +283,6 @@ d MMMM yyyy"</string>
   <string name="vpn_text_long">Свързване към %s. Чукнете за подробности.</string>
   <string name="vpn_title">VPN е активно</string>
   <string name="vpn_title_long">Свързване към VPN чрез %s</string>
+  <string name="status_bar_date_format_12">"EEEE
+d MMMM"</string>
 </resources>
