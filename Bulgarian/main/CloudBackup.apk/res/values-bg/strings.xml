@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_to_recover">Един момент…</string>
   <string name="app_name">Рез. копие на прил.​</string>
@@ -10,9 +9,14 @@
   <string name="backing_up_to_micloud">Архивира се…</string>
   <string name="backup_fail">Неуспех при архив на прил. от нач. екран</string>
   <string name="backup_finished_notification_content">Backed up Home screen apps, system settings, etc.</string>
+  <string name="backup_now">Архивирай</string>
   <string name="backup_size">Размер: %s</string>
   <string name="backup_success">Успешен архив на прил. от нач. екран</string>
+  <string name="backup_successfully">Успешно архивиране</string>
   <string name="backup_to_cloud">Архив на прил.</string>
+  <string name="btn_back">Back</string>
+  <string name="btn_continue">Continue</string>
+  <string name="btn_skip">Skip this step</string>
   <string name="button_cancel">Отказ</string>
   <string name="button_delete">Изтрий</string>
   <string name="button_next">Напред</string>
@@ -105,6 +109,7 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="restore_from_cloud">Възстановяване от рез. копие в Mi Cloud</string>
   <string name="restore_from_this_device">Restore using this backup</string>
   <string name="restore_home_screen_apps">Restore from Mi Cloud backup</string>
+  <string name="restore_task_unfinished">Възстановяване на прил., опитайте по-късно</string>
   <string name="restoreing_file_tile">Възстановяване на %d файла</string>
   <string name="retry">Нов опит</string>
   <string name="self_phone">Този телефон</string>
@@ -114,8 +119,4 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="success_open_cloudbackup">Turned on backups for Home screen apps</string>
   <string name="wait_icon_download">Изтегляне на икони на приложения</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="backup_now">Архивирай</string>
-  <string name="backup_successfully">Успешно архивиране</string>
-  <string name="restore_task_unfinished">Възстановяване на прил., опитайте по-късно</string>
-  <string name="account_error">Грешка в профила</string>
 </resources>

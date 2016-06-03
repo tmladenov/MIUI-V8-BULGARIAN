@@ -1,5 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="add_alarm">Добавяне</string>
   <string name="alarm_alert">Мелодия</string>
@@ -25,7 +24,6 @@
   <string name="analog_gadget">Аналогов часовник</string>
   <string name="app_label">Часовник</string>
   <string name="auto_silence_never">Никога</string>
-  <string name="auto_silence_summary">%d минути</string>
   <string name="auto_silence_title">Заглушаване след</string>
   <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">Будилник на рожден ден</string>
@@ -42,7 +40,6 @@
   <string name="default_alarm_alert">Тон по подразбиране</string>
   <string name="default_alarm_title">Мелодия по подразбиране</string>
   <string name="default_label">Будилник</string>
-  <string name="delelte_selected_timezone">Да се изтрият ли избраните часови зони?</string>
   <string name="delete">Изтрий</string>
   <string name="delete_alarm">Изтрий будилника</string>
   <string name="delete_alarm_confirm">Да се изтрие ли този будилник?</string>
@@ -72,7 +69,6 @@
   <string name="loading_ringtone">Зареждане на мелодии...</string>
   <string name="menu_add_worldclock">Часова зона</string>
   <string name="menu_desk_clock">Часовник</string>
-  <string name="menu_edit_systemtime">Дата и час</string>
   <string name="menu_edit_timer_item">Редактиране на задачата на таймера</string>
   <string name="menu_item_dock_settings">Настройки за док-станция</string>
   <string name="menu_item_sort_by_gmt_offset">Сортиране по време</string>
@@ -96,7 +92,6 @@
   <string name="slider_text">Плъзнете нагоре за изключване</string>
   <string name="snooze_confirm_cancel">Изключи</string>
   <string name="snooze_duration_title">Отложи за</string>
-  <string name="snooze_message">Заглуши за %d мин.</string>
   <string name="start">Старт</string>
   <string name="start_up">Старт</string>
   <string name="stopwatch_lap_empty_text">Няма обиколки</string>
@@ -113,12 +108,6 @@
   <string name="timer_item_picker_hour">Час</string>
   <string name="timer_item_picker_minute">мин.</string>
   <string name="timer_item_picker_second">сек.</string>
-  <string name="timer_message">%1$d минути и %2$d секунди</string>
-  <string name="timer_message_00">%1$d минута и %2$d секунди</string>
-  <string name="timer_message_01">%1$d минута и %2$d секунди</string>
-  <string name="timer_message_10">%1$d минути и %2$d секунди</string>
-  <string name="timer_message_with_hour">%1$d часа и %2$d минути</string>
-  <string name="timer_message_with_seconds">%1$d секунди</string>
   <string name="timer_new_item">Добави таймер</string>
   <string name="timer_notify_text">Заглушаване или отмяна на таймера.</string>
   <string name="timer_start_alarm">Времето изтече</string>

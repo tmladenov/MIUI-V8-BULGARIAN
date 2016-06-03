@@ -2754,7 +2754,7 @@
   <string name="search_dndm_wristband">Активиране с Mi Band</string>
   <string name="search_do_not_disturb">Тих режим;Настройка на времето;Изключения;Повтарящи се обаждания</string>
   <string name="search_dtmf_tone_enable_title">Тонове при набиране</string>
-  <string name="search_empty">Не са открити елементи от Настройки</string>
+  <string name="search_empty">Няма резултати от търсенето</string>
   <string name="search_equalizer">Еквалайзер</string>
   <string name="search_font">шрифт</string>
   <string name="search_gps">GPS</string>
@@ -4343,4 +4343,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="zone_auto_summaryOn">Използване на часовата зона, предоставена от мрежата</string>
   <string name="zone_list_menu_sort_alphabetically">Сортиране по азбучен ред</string>
   <string name="zone_list_menu_sort_by_timezone">Сортиране по часова зона</string>
+  <string name="vpn_off">Изкл</string>
+  <string name="vpn_on">Вкл</string>
+  <string name="connecting_to_vpn">Свързване към VPN</string>
 </resources>

@@ -1,5 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Dashboard_App">Приложения</string>
   <string name="Dashboard_HIPS_Disable_Content">MIUI няма да следи заявките за разрешения от приложението.</string>
@@ -27,8 +26,6 @@
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Изтегляне на MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.http://miui.bg/community/</string>
   <string name="Dashboard_Perm_SU_Switch">ROOT достъп</string>
-  <string name="Dashboard_Su_Enable_Content">Разрешаването на ROOT достъп на приложения от трети страни може да предизвика нестабилност на системата, загуба на данни и дори повреди по системата и хардуера.</string>
-  <string name="Dashboard_Su_Enable_Title">Предупреждение за ROOT достъп</string>
   <string name="Generic_Canceling">Отмяна...</string>
   <string name="Generic_Check">Проверка</string>
   <string name="Generic_Clean">Почистване</string>
@@ -227,6 +224,8 @@
   <string name="HIPS_Perm_process_nfc_Desc">Достъп до NFC хардуер</string>
   <string name="HIPS_Perm_process_outgoing_calls">Достъп до Телефон</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Наблюдение и прекратяване на обаждания</string>
+  <string name="HIPS_Perm_read_notification_sms">Сервизни SMS</string>
+  <string name="HIPS_Perm_read_notification_sms_Desc">Четене на сервизни SMS</string>
   <string name="HIPS_Perm_use_sip">Видео услуги</string>
   <string name="HIPS_Perm_use_sip_Desc">Използване на SIP протокол за стрийминг на видео</string>
   <string name="HIPS_SecurityPrompt_Accept">Разрешено (%d)</string>
@@ -286,4 +285,5 @@
   <string name="screen_overlay_button">Отваряне на настройки</string>
   <string name="screen_overlay_message">За да промените тази настройка, първо трябва да изключите слоеве на екрана от Настройки - Приложения</string>
   <string name="screen_overlay_title">Открит е слой на екрана</string>
+  <string name="wakepath_confirm_start_activity">Позволявате ли на %1$s да отвори %2$s?</string>
 </resources>

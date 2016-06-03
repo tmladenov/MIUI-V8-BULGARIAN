@@ -1,5 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abort_backup_confirm">Резервното копие не е завършено! Да спре ли въпреки това?</string>
   <string name="account_contact_backup_info">Google профил, Mi профил и данни от Контакти</string>
@@ -40,7 +39,6 @@
   <string name="backup_items_sysdata_tailer">" системни данни, "</string>
   <string name="backup_new">Ново:</string>
   <string name="backup_progress">Архивиране…;</string>
-  <string name="backup_recently">" (последно) "</string>
   <string name="backup_report">Вижте детайли за архива</string>
   <string name="backup_update">Актуализиране</string>
   <string name="batch_delete_backup_confirm">Да се изтрият ли избраните резервни копия?</string>
@@ -79,7 +77,6 @@
   <string name="current_sim">Текуща SIM карта</string>
   <string name="custom_progress">%d елементи</string>
   <string name="data_item_desc">Данни</string>
-  <string name="data_no_enough_space">Няма достатъчно място в паметта</string>
   <string name="data_no_enough_space_message">Няма достатъчно свободно място във вътрешната памет на телефона ви</string>
   <string name="date_format">dd-MMMM-yyyy HH:mm:ss</string>
   <string name="delete">Изтрий</string>
@@ -118,7 +115,6 @@
   <string name="findlost_contact">Възстановяване на контакти</string>
   <string name="findlost_contact_online">Възстановяване на изтрити контакти от Mi Cloud</string>
   <string name="guarded_mode_dialog_backup_message">Архивирането не е позволено в режим Гост.</string>
-  <string name="guarded_mode_dialog_message">Тази функция не е разрешена в режим Гост</string>
   <string name="guarded_mode_dialog_title">Вие сте в режим Гост</string>
   <string name="guarded_mode_dialog_transfer_message">Не може да използвате Mi Mover в режим Гост.</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Изтеглете приложението MiTalk и се впишете.
@@ -140,7 +136,6 @@
   <string name="local_select_sysdata">Система</string>
   <string name="local_select_userapp">Приложения</string>
   <string name="local_select_video">Видео</string>
-  <string name="menu_patch_delete">Изтрий архивите</string>
   <string name="miliao_account_guide">Създайте си Mi профил, за да се насладите на всички онлайн услуги от Xiaomi.</string>
   <string name="miliao_account_login">Влизане с MiTalk</string>
   <string name="mms_title">MMS съобщения</string>
@@ -329,7 +324,6 @@
   <string name="trans_start_failed_message">Неуспешен старт на прехвърлянето, опитайте отново или рестартирайте устройството.</string>
   <string name="trans_start_failed_title">Неуспешен старт на прехвърлянето</string>
   <string name="trans_time_format_second">по-малко от минута</string>
-  <string name="trans_time_remained">, готово след</string>
   <string name="trans_time_spent">"
 Изтекло време: %s"</string>
   <string name="trans_wait_trans_data">"Свързано към старото устройство.
