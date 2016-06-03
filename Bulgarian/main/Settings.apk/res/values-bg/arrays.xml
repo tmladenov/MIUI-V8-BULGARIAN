@@ -391,6 +391,7 @@
         <item>Достъпете монтираната директория: mtpfs /media/mtp чрез файлове; също както локална директория</item>
         <item>"Деинсталирайте устройството: fusermount -u /media/mtp
 Забележка: Само за Ubuntu 8.04!"</item>
+     </string-array>
      <string-array name="network_speed_slow_summary">
         <item>Връзката е бавна поради засилен трафик</item>
         <item>Връзката е бавна поради слаб сигнал</item>
