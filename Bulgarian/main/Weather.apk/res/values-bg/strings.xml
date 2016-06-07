@@ -18,7 +18,7 @@
      <string name="activity_main_clickable">&gt;</string>
      <string name="activity_main_one_alert" />
      <string name="activity_main_refresh_fail">Няма връзка с мрежата</string>
-     <string name="activity_main_time_format">dd.MM.</string>
+     <string name="activity_main_time_format">EEEE</string>
      <string name="activity_main_update_time">Обновено %1$s</string>
      <string name="activity_main_update_time_right_now">Току-що</string>
      <string name="activity_weathermain_locationg">Локализиране…</string>
@@ -47,14 +47,14 @@
      <string name="aqi_sub_desc">AQI</string>
      <string name="aqi_top_pollution">Max Pollution</string>
      <string name="button_abandon">Отмени промените</string>
-     <string name="button_add_city">Add city</string>
+     <string name="button_add_city">Добавяне на място</string>
      <string name="button_allow">Позволи</string>
      <string name="button_confirm">ОК</string>
      <string name="button_exit">Изход</string>
      <string name="button_not_allow">Забрани</string>
      <string name="close">Close</string>
      <string name="daily_forcast_drawer_on_bottom">Скрий</string>
-     <string name="daily_forcast_drawer_on_top">%1$s Days Forecast</string>
+     <string name="daily_forcast_drawer_on_top">%1$s-дневна прогноза</string>
      <string name="daily_forcast_no_stable_direction">No wind</string>
      <string name="daily_forcast_no_wind">Безветрие</string>
      <string name="daily_forcast_temperature_connect" />
@@ -104,7 +104,7 @@
 Tap the screen to manually add or reposition city"</string>
      <string name="location_management">Места</string>
      <string name="location_tag">Локализиране</string>
-     <string name="menu_add_city">Add Or Delete city</string>
+     <string name="menu_add_city">Промяна на локация</string>
      <string name="menu_location">Места</string>
      <string name="network_not_available">Няма връзка с мрежата</string>
      <string name="network_unavailable">Няма връзка с мрежата.</string>

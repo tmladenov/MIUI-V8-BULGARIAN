@@ -736,4 +736,14 @@
      <string name="xiaomi_account_not_exists_toast">"Не съществува Mi профил"</string>
      <string name="yes">Да</string>
      <string name="you_are">"You're the baby's"</string>
+     <string name="download_canceled">Download canceled</string>
+     <string name="picker_cancel_download">Cancel Download</string>
+     <string name="picker_continue_download">Continue Download</string>
+     <string name="picker_continue_with_exists">Continue with local photos</string>
+     <string name="picker_download">Download</string>
+     <string name="picker_download_progress_message">Downloading, Finished: %1$d/%2$d</string>
+     <string name="picker_image_need_download">%d of selected photos not on device, download using mobile data?</string>
+     <string name="picker_image_will_download">%d of selected photos not on device, downloading</string>
+     <string name="picker_mobile_data_video">"Can't download videos with mobile data, skip %d."</string>
+     <string name="picker_origin_need_download">%1$d of selected photos not on device (%2$dMB), download using mobile data?</string>
 </resources>

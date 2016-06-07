@@ -76,4 +76,5 @@
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Резултати</string>
   <string name="xiaomi_suggest_base"/>
+  <string name="xiaomi_homepage_hint"/>
 </resources>

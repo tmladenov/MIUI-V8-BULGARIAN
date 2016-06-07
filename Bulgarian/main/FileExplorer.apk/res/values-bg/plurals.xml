@@ -8,6 +8,14 @@
         <item quantity="few">%1$d WeChat временни видеоклипове ще бъдат почистени, искате ли да им направите рез. копие?</item>
         <item quantity="many">%1$d WeChat временни видеоклипове ще бъдат почистени, искате ли да им направите рез. копие?</item>
      </plurals>
+     <plurals name="days">
+        <item quantity="other">%1$d days</item>
+        <item quantity="zero">%1$d days</item>
+        <item quantity="one">%1$d day</item>
+        <item quantity="two">%1$d days</item>
+        <item quantity="few">%1$d days</item>
+        <item quantity="many">%1$d days</item>
+     </plurals>
      <plurals name="days_ago">
         <item quantity="other">Преди %1$d дни</item>
         <item quantity="zero">Преди %1$d дни</item>
@@ -104,6 +112,14 @@
         <item quantity="few">Открити нови файлове: %1$d</item>
         <item quantity="many">Открити нови файлове: %1$d</item>
      </plurals>
+     <plurals name="hours">
+        <item quantity="other">%1$d hours</item>
+        <item quantity="zero">%1$d hours</item>
+        <item quantity="one">%1$d hour</item>
+        <item quantity="two">%1$d hours</item>
+        <item quantity="few">%1$d hours</item>
+        <item quantity="many">%1$d hours</item>
+     </plurals>
      <plurals name="hours_ago">
         <item quantity="other">Преди %1$d часа</item>
         <item quantity="zero">Преди %1$d часа</item>
@@ -127,6 +143,14 @@
         <item quantity="two"> (%1$d елементи)</item>
         <item quantity="few"> (%1$d елементи)</item>
         <item quantity="many"> (%1$d елементи)</item>
+     </plurals>
+     <plurals name="mins">
+        <item quantity="other">%1$d mins</item>
+        <item quantity="zero">%1$d mins</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="two">%1$d mins</item>
+        <item quantity="few">%1$d mins</item>
+        <item quantity="many">%1$d mins</item>
      </plurals>
      <plurals name="mins_ago">
         <item quantity="other">Преди %1$d мин.</item>
@@ -183,6 +207,14 @@
         <item quantity="two">Файлове %1$s (%2$d)</item>
         <item quantity="few">Файлове %1$s (%2$d)</item>
         <item quantity="many">Файлове %1$s (%2$d)</item>
+     </plurals>
+     <plurals name="seconds">
+        <item quantity="other">%1$d seconds</item>
+        <item quantity="zero">%1$d seconds</item>
+        <item quantity="one">%1$d second</item>
+        <item quantity="two">%1$d seconds</item>
+        <item quantity="few">%1$d seconds</item>
+        <item quantity="many">%1$d seconds</item>
      </plurals>
      <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">Остават %1$d файла за изтегляне</item>

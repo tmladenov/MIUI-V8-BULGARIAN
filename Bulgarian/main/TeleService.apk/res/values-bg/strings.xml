@@ -1260,9 +1260,8 @@
      <string name="tty_mode_not_allowed_video_call">Промяната на режима на TTY не е разрешена по време на видеообаждане</string>
      <string name="tty_mode_option_summary">Set TTY mode</string>
      <string name="tty_mode_option_title">TTY mode</string>
-     <string name="turnover_mute_summary">Обърнете за изключване на звука, докато телефона е в хоризонтално положение</string>
+     <string name="turnover_mute_summary">Обърнете за изключване на звука, докато телефона е в хоризонтално положение. Тази функция не работи, когато вибрацията при входящи повиквания е включена.</string>
      <string name="turnover_mute_title">Обръщане за заглушаване</string>
-     <string name="ui_default_package">com.android.dialer</string>
      <string name="undefined">Неопределено</string>
      <string name="unknown">Неизвестен</string>
      <string name="unlock_failed">Заявката за отключване на мрежата не бе успешна.</string>
@@ -1319,4 +1318,11 @@
      <string name="wrong_password">Грешна парола</string>
      <string name="xdivert_summary">Настройки на CFNRc</string>
      <string name="xdivert_title">X-Divert</string>
+     <string name="mi_sim_settings_summary">Use mobile data without a SIM card</string>
+     <string name="mi_sim_settings_title">Mi SIM</string>
+     <string name="preference_data_usage_summary">Set your data plan to control the usage of mobile data</string>
+     <string name="preference_data_usage_title">Set data plan</string>
+     <string name="sim_roaming_settings_summary">Connect to mobile data networks while roaming</string>
+     <string name="sim_roaming_settings_title">Mi Roaming</string>
+     <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
 </resources>
