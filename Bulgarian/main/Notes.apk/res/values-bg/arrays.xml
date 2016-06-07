@@ -26,6 +26,7 @@
         <item>Среден</item>
         <item>Голям</item>
         <item>Огромен</item>
+     </string-array>
      <string-array name="welcome_notes_content">
         <item>"Добре дошли в Бележки
 "</item>
