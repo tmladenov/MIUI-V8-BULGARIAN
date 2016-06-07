@@ -1,5 +1,4 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="alwaysUsePrompt">Запомни този избор</string>
   <string name="android_ringtone_default_with_actual">Стандартна мелодия (%1$s)</string>
@@ -205,7 +204,7 @@
   <string name="device_pad">Mi Pad</string>
   <string name="edit_frequent_phrases">Редактиране на чести фрази</string>
   <string name="frequent_phrases_des">Въвеждайте чести фрази само с няколко чуквания, когато редактирате текст</string>
-  <string name="frequent_phrases_size_exceeded">Може да добавите до 10 чести фрази. Изтрийте ненужните, за да добавите други</string>
+  <string name="frequent_phrases_size_exceeded">Може да добавите до %1$d чести фрази. Изтрийте ненужните, за да добавите други</string>
   <string name="menu_add_frequent_phrases">Добавяне</string>
   <string name="menu_delete">Изтриване</string>
   <string name="menu_edit">Редактиране</string>

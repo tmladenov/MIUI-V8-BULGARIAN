@@ -28,6 +28,15 @@
         <item>Блокирано</item>
         <item>Временно избягване на лоши връзки</item>
     </string-array>
+    <string-array name="aqi_title_prefix">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
     <string-array name="weather_type">
         <item>Слънчево</item>
         <item>Облачно</item>
