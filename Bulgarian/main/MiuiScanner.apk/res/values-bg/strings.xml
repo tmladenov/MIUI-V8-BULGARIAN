@@ -28,7 +28,6 @@
   <string name="crop_done_description">Done</string>
   <string name="crop_title_study">Crop the photo</string>
   <string name="crop_title_translation">Select text to translate</string>
-  <string name="default_language">@string/language_value_chinese_cn</string>
   <string name="dialog_dismiss">Dismiss</string>
   <string name="dialog_report">Report</string>
   <string name="document_color_picture">Color</string>
@@ -66,7 +65,6 @@
   <string name="feedback_description_camera_access">"Scanner can't connect to Camera"</string>
   <string name="feedback_description_save_photo">"Couldn't save photo or video"</string>
   <string name="flash_lable">Flash</string>
-  <string name="global_default_language">@string/language_value_english</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Import contact</string>
   <string name="impunity_declaration_content">This app needs to connect to the internet to work normally.</string>

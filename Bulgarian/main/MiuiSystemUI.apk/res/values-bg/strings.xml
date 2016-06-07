@@ -165,7 +165,6 @@
      <string name="ext_media_safe_unmount_notification_title">USB е безопасно за премахване</string>
      <string name="ext_media_unmountable_notification_message">USB хранилището е повредено. Опитайте да го преформатирате.</string>
      <string name="ext_media_unmountable_notification_title">Повредено USB хранилище</string>
-     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
      <string name="float_incall_ignore">Ignore</string>
      <string name="float_incall_message">Message</string>
      <string name="gps_notification_found_text">Местоположението е зададено от GPS</string>

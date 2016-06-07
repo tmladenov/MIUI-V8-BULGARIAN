@@ -16,7 +16,6 @@
      <string name="administrative_disable">Администраторските права са деактивирани</string>
      <string name="administrative_enable">Администраторските права са активирани</string>
      <string name="advanced_settings">Разширени настройки</string>
-     <string name="advanced_settings_container">advanced settings container</string>
      <string name="advanced_settings_hide">▽ Докоснете за скриване на всички</string>
      <string name="advanced_settings_show">▷ Докоснете за показване на всички</string>
      <string name="advertisements_disable">Рекламите са деактивирани</string>
@@ -46,7 +45,6 @@
      <string name="audio_mode_earpiece">Телефонна слушалка</string>
      <string name="audio_mode_speaker">Високоговорител</string>
      <string name="audio_mode_wired_headset">Слушалки с кабел</string>
-     <string name="auth_username">AuthUserName</string>
      <string name="auth_username_summary">Потребителско име, използвано за удостоверяване</string>
      <string name="auth_username_title">Потребителско име за удостов.</string>
      <string name="auto_answer_delay_entries_delay_10s">10 сек.</string>
@@ -322,9 +320,7 @@
      <string name="default_area_code_setting">Код по подразбиране</string>
      <string name="default_areacode">Код по подразбиране</string>
      <string name="default_notification_description">Тон по подразбиране (%1$s)</string>
-     <string name="default_port">5060</string>
      <string name="default_preference_summary">&lt;Не е зададено&gt;</string>
-     <string name="default_transport">UDP</string>
      <string name="delete">Изтриване</string>
      <string name="deleteAllSimEntries">Изтрий всички контакти от SIM карта</string>
      <string name="deleteSimContacts">Изтриване на контактите от SIM картата</string>
@@ -391,11 +387,9 @@
      <string name="disable_fdn_ok">Активиране на ФНН</string>
      <string name="disable_pin_ok">PIN кодът за SIM картата бе деактивиран</string>
      <string name="disable_sim_pin">Деактивиране на PIN кода за SIM карта</string>
-     <string name="display_name">DisplayName</string>
      <string name="display_name_summary">&lt;Същото като потребителското име&gt;</string>
      <string name="display_name_title">Екранно име</string>
      <string name="do_not_ask">Не питай повече</string>
-     <string name="domain_address">SipDomain</string>
      <string name="domain_address_title">Сървър</string>
      <string name="domestic_calls">Само домашни</string>
      <string name="doneButton">Готово</string>
@@ -843,7 +837,6 @@
      <string name="other_settings">Други настройки за обаждане</string>
      <string name="other_settings_category">Други</string>
      <string name="overseas_roaming_setting">Международен роуминг</string>
-     <string name="password">Password</string>
      <string name="password_changed">Паролата е променена успешно</string>
      <string name="password_title">Парола</string>
      <string name="path_answer_state_setting_title">System apps/Phone/Incoming call settings</string>
@@ -925,7 +918,6 @@
      <string name="please_connect_network_message">Please conntect network</string>
      <string name="please_connect_network_title">No network</string>
      <string name="please_login_mi_accout">Login</string>
-     <string name="port">Port</string>
      <string name="port_title">Номер на порта</string>
      <string name="preference_auto_ip_summary_disable">Деактивирано</string>
      <string name="preference_category_ringtone">Мелодия</string>
@@ -1120,10 +1112,8 @@
      <string name="select_voice_call_sim">изберете</string>
      <string name="sendSms">Изпрати текстово съобщение</string>
      <string name="send_button">Изпращане</string>
-     <string name="send_keepalive">SendKeepAlive</string>
      <string name="send_keepalive_title">Изпращане на съобщение за проверка на връзката</string>
      <string name="send_order_failed">Не мога да изпратя заявката.</string>
-     <string name="set_primary">SetPrimary</string>
      <string name="set_primary_summary">Използва се за изходящи обаждания</string>
      <string name="set_primary_title">Задай за осн. профил</string>
      <string name="set_smsc_address_error">Неуспешно задаване на номера</string>
@@ -1154,10 +1144,7 @@
      <string name="sip_accounts">Профили за интернет обаждания</string>
      <string name="sip_accounts_title">Профили</string>
      <string name="sip_add_account_tip_text">Добавете SIP профил, за да ползвате интернет обаждане</string>
-     <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-     <string name="sip_always">SIP_ALWAYS</string>
      <string name="sip_always_send_keepalive">Да се изпращат винаги</string>
-     <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
      <string name="sip_call_options_entry_1">За всички обаждания, когато е налице мрежа за данни</string>
      <string name="sip_call_options_entry_2">Само интернет обаждания</string>
      <string name="sip_call_options_entry_3">Да се пита за всяко обаждане</string>
@@ -1268,8 +1255,6 @@
      <string name="time_start">From</string>
      <string name="time_start_hour">time start hour</string>
      <string name="time_start_minute">time start minute</string>
-     <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
-     <string name="transport">Protocol</string>
      <string name="transport_title">Тип транспорт</string>
      <string name="tty_mode_key">button_tty_mode_key</string>
      <string name="tty_mode_not_allowed_video_call">Промяната на режима на TTY не е разрешена по време на видеообаждане</string>
@@ -1293,7 +1278,6 @@
      <string name="use_history">Активност</string>
      <string name="use_history_duration_min">%1$s mins</string>
      <string name="use_range">Функции</string>
-     <string name="username">UserName</string>
      <string name="username_title">Потребителско име</string>
      <string name="ussdRunning">USSD кодът се изпълнява…</string>
      <string name="ussd_dialog_sep">----------</string>
