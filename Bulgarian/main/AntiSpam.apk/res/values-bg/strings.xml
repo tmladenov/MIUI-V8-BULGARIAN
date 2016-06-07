@@ -108,11 +108,11 @@
   <string name="mark_agent_time_setting">Блокиране на номера, докладвани като телемаркетъри повече от опр. брой пъти</string>
   <string name="mark_fraud">Измамник</string>
   <string name="mark_fraud_block">Маркиран като измамник</string>
-  <string name="mark_fraud_block_large">Fraud</string>
+  <string name="mark_fraud_block_large">Измамник</string>
   <string name="mark_fraud_time_setting">Блокиране на номера, докладвани като измамници повече от опр. брой пъти</string>
   <string name="mark_harass">Тормоз</string>
   <string name="mark_harass_block">Докладвай за тормоз</string>
-  <string name="mark_harass_block_large">Harassment</string>
+  <string name="mark_harass_block_large">Тормоз</string>
   <string name="mark_harass_time_setting">Блокиране на номера, докладвани за тормоз повече от опр. брой пъти</string>
   <string name="mark_number_agent">Агент</string>
   <string name="mark_number_fraud">Измамник</string>
@@ -127,7 +127,7 @@
   <string name="mark_number_setting_guide_title">Блокиране на докладвани номера</string>
   <string name="mark_sell">Телемаркетър</string>
   <string name="mark_sell_block">Маркиран като телемаркетър</string>
-  <string name="mark_sell_block_large">Telemarketer</string>
+  <string name="mark_sell_block_large">Телемаркетър</string>
   <string name="mark_sell_time_setting">Блокиране на номера, докладвани като търговци повече от опр. брой пъти</string>
   <string name="mark_time_setting_dialog_title">Настройки за брой докладвания</string>
   <string name="mark_time_text">%d</string>

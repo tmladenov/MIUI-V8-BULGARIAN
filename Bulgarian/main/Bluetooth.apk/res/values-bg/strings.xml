@@ -144,7 +144,7 @@
   <string name="permdesc_bluetoothShareManager">Разреши на приложението достъп до BluetoothShare мениджър и използването му за прехвърляне на файлове.</string>
   <string name="permdesc_bluetoothWhitelist">Позволи на приложението временно да изпраща файлове на друго устройство без изрично позволение.</string>
   <string name="permdesc_handoverStatus">Позволи достъп до информация за състоянието чрез Bluetooth.</string>
-  <string name="permlab_bluetoothAvrcpDataManager">Access avrcp metadata.</string>
+  <string name="permlab_bluetoothAvrcpDataManager">Достъп до avrcp metadata.</string>
   <string name="permlab_bluetoothShareManager">Достъп до Файлове за изтегляне.</string>
   <string name="permlab_bluetoothWhitelist">Бял списък с bluetooth устройства.</string>
   <string name="permlab_handoverStatus">Приемане BT handover transfer broadcasts.</string>
