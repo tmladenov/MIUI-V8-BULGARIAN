@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="accept_modify_call_request_prompt">Приемате ли запитването за промяна на обаждането?</string>
   <string name="accessibility_bluetooth_headset_selected">Избрахте слушалки с Bluetooth</string>
@@ -762,4 +761,19 @@
 "</string>
   <string name="waiting_close_airplane_mode">Изчаква изключване на самолетен режим ...</string>
   <string name="wild_prompt_str">Замяна на заместващия символ с:</string>
+  <string name="antispam_local_marked">Local marked</string>
+  <string name="call_button_dialer_text">Keyboard</string>
+  <string name="call_button_tools_text">Feature</string>
+  <string name="can_not_use">"Can't use"</string>
+  <string name="incoming_circle_text_answer">Loosen answer</string>
+  <string name="incoming_circle_text_answer_p">Answering slide</string>
+  <string name="incoming_circle_text_message">Loosen SMS reply</string>
+  <string name="incoming_circle_text_message_p">SMS reply slide</string>
+  <string name="incoming_circle_text_reject">Loosen reject</string>
+  <string name="incoming_circle_text_reject_p">Rejecting slide</string>
+  <string name="onscreen_mi_support_calls_text">MiSupport</string>
+  <string name="onscreen_note_calls_text">Note</string>
+  <string name="select_audio_dialog_title">Please select answering mode</string>
+  <string name="select_one_sim_title">Can only use SIM %1$d</string>
+  <string name="time_left_livetalk">(%ds)</string>
 </resources>

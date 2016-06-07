@@ -1,175 +1,113 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>След 1 минута</item>
-        <item>След 5 минути</item>
-        <item>След 10 минути</item>
-        <item>Никога</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 секунди</item>
-        <item>30 секунди</item>
-        <item>1 минута</item>
-        <item>2 минути</item>
-        <item>5 минути</item>
-        <item>10 минути</item>
-        <item>Никога</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Производително</item>
-        <item>Балансирано</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>Никога</item>
-        <item>Само при тих режим</item>
-        <item>Винаги</item>
-    </string-array>
-    <string-array name="cache_sort_type">
-        <item>Размер</item>
-        <item>Име</item>
-    </string-array>
-    <string-array name="large_file_sort_type">
-        <item>Размер</item>
-        <item>Име</item>
-    </string-array>
-    <string-array name="installed_app_sort_type">
-        <item>Често използвани</item>
-        <item>Размер</item>
-    </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Изключване</item>
-        <item>Включване</item>
-        <item>Както е зададено</item>
-    </string-array>
-    <string-array name="auto_clean_size">
-        <item>100 МБ</item>
-        <item>300 МБ</item>
-        <item>500 МБ</item>
-        <item>1 ГБ</item>
-    </string-array>
-    <string-array name="auto_clean_time">
-        <item>Всеки ден</item>
-        <item>На 3 дни</item>
-        <item>На 7 дни</item>
-    </string-array>
-    <string-array name="auto_memory_clean">
-        <item>След 1 минута</item>
-        <item>След 5 минути</item>
-        <item>След 10 минути</item>
-        <item>След 30 минути</item>
-        <item>Никога</item>
-    </string-array>
-    <string-array name="auto_process_mode">
-        <item>Запитване с известие</item>
-        <item>Почистване на заден план</item>
-        <item>Известие след почистване</item>
-    </string-array>
-    <string-array name="alarm_repeat_type">
+     <string-array name="alarm_repeat_type">
         <item>Веднъж</item>
         <item>Ежедневно</item>
         <item>Работни дни (в Китай)</item>
         <item>Понеделник-Петък</item>
         <item>По избор</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
         <item>Веднъж</item>
         <item>Ежедневно</item>
         <item>Понеделник-Петък</item>
         <item>По избор</item>
-    </string-array>
-    <string-array name="preferred_app_entries">
-        <item>Launcher</item>
-        <item>Телефон</item>
-        <item>Съобщения</item>
-        <item>Браузър</item>
-        <item>Камера</item>
-        <item>Галерия</item>
-        <item>Музика</item>
-        <item>Имейл</item>
-    </string-array>
-    <string-array name="date_of_app">
-       <item>Мобилни данни вчера</item>
-       <item>Мобилни данни днес</item>
-       <item>Мобилни данни този месец</item>
-    </string-array>
-    <string-array name="date_of_app_all">
-       <item>Мобилни данни вчера</item>
-       <item>Мобилни данни днес</item>
-       <item>Мобилни данни този месец</item>
-       <item>Wi-Fi вчера</item>
-       <item>Wi-Fi днес</item>
-       <item>Wi-Fi този месец</item>
-    </string-array>
-    <string-array name="date_of_traffic">
-       <item>"Вчера "</item>
-       <item>"Днес "</item>
-       <item>"Този месец "</item>
-    </string-array>
-    <string-array name="date_of_traffic_cmcc">
-       <item>"Тази седмица "</item>
-       <item>"Днес "</item>
-       <item>"Този месец "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix">
-       <item>"Вчера: "</item>
-       <item>"Днес: "</item>
-       <item>"Този месец: "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix_cmcc">
-       <item>"Тази седмица: "</item>
-       <item>"Днес: "</item>
-       <item>"Този месец: "</item>
-    </string-array>
-    <string-array name="mi_service_traffic_type">
-       <item>"Мобилни данни "</item>
-       <item>"Използване на Wi-Fi "</item>
-    </string-array>
-    <string-array name="network_speed_update_internals">
-       <item>3 сек</item>
-       <item>4 сек</item>
-       <item>5 сек</item>
-       <item>6 сек</item>
-       <item>7 сек</item>
-       <item>8 сек</item>
-       <item>9 сек</item>
-    </string-array>
-    <string-array name="over_limit_traffic_waring_style">
-       <item>Показване на предупреждение</item>
-       <item>Предупреждение и изкл. на моб. данни</item>
-    </string-array>
-    <string-array name="roaming_apps_sorted_type">
-       <item>Най-използвани</item>
-       <item>Име</item>
-    </string-array>
-    <string-array name="traffic_saving_compress_level_string_array">
-       <item>Няма</item>
-       <item>Ниско</item>
-       <item>Средно</item>
-       <item>Високо</item>
-    </string-array>
-    <string-array name="traffic_setting_sms_template">
-       <item>Вземи автоматично</item>
-       <item>Задай ръчно</item>
-    </string-array>
-    <string-array name="traffic_sort_type">
-       <item>"Изп. мобилни данни "</item>
-       <item>"Изп. Wi-Fi "</item>
-       <item>"Спестени данни "</item>
-    </string-array>
-    <string-array name="traffic_type">
-       <item>"Изп. мобилни данни "</item>
-       <item>"Изп. Wi-Fi "</item>
-       <item>"Спестени данни "</item>
-    </string-array>
-    <string-array name="roaming_network_type">
-        <item>Винаги</item>
-        <item>Само за изключения</item>
-        <item>Никога</item>
-    </string-array>
-    <string-array name="lock_mode">
+     </string-array>
+     <string-array name="date_of_app">
+        <item>Мобилни данни вчера</item>
+        <item>Мобилни данни днес</item>
+        <item>Мобилни данни този месец</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+        <item>Мобилни данни вчера</item>
+        <item>Мобилни данни днес</item>
+        <item>Мобилни данни този месец</item>
+        <item>Wi-Fi вчера</item>
+        <item>Wi-Fi днес</item>
+        <item>Wi-Fi този месец</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>"Вчера "</item>
+        <item>"Днес "</item>
+        <item>"Този месец "</item>
+     </string-array>
+     <string-array name="date_of_traffic_cmcc">
+        <item>"Тази седмица "</item>
+        <item>"Днес "</item>
+        <item>"Този месец "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+        <item>"Вчера: "</item>
+        <item>"Днес: "</item>
+        <item>"Този месец: "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Тази седмица: "</item>
+        <item>"Днес: "</item>
+        <item>"Този месец: "</item>
+     </string-array>
+     <string-array name="lock_mode">
         <item>При заключено устройство</item>
         <item>След изход от приложението</item>
         <item>1 мин. след изход от прил.</item>
-    </string-array>
+     </string-array>
+     <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="mi_service_traffic_type">
+        <item>"Мобилни данни "</item>
+        <item>"Използване на Wi-Fi "</item>
+     </string-array>
+     <string-array name="network_speed_update_internals">
+        <item>3 сек</item>
+        <item>4 сек</item>
+        <item>5 сек</item>
+        <item>6 сек</item>
+        <item>7 сек</item>
+        <item>8 сек</item>
+        <item>9 сек</item>
+     </string-array>
+     <string-array name="over_limit_traffic_waring_style">
+        <item>Показване на предупреждение</item>
+        <item>Предупреждение и изкл. на моб. данни</item>
+     </string-array>
+     <string-array name="power_dialog_auto_clean_memory_items">
+        <item>След 1 минута</item>
+        <item>След 5 минути</item>
+        <item>След 10 минути</item>
+        <item>След 30 минути</item>
+        <item>Никога</item>
+     </string-array>
+     <string-array name="roaming_apps_sorted_type">
+        <item>Най-използвани</item>
+        <item>Име</item>
+     </string-array>
+     <string-array name="roaming_network_type">
+        <item>Винаги</item>
+        <item>Само за изключения</item>
+        <item>Никога</item>
+     </string-array>
+     <string-array name="traffic_saving_compress_level_string_array">
+        <item>Няма</item>
+        <item>Ниско</item>
+        <item>Средно</item>
+        <item>Високо</item>
+     </string-array>
+     <string-array name="traffic_setting_sms_template">
+        <item>Вземи автоматично</item>
+        <item>Задай ръчно</item>
+     </string-array>
+     <string-array name="traffic_sort_type">
+        <item>"Изп. мобилни данни "</item>
+        <item>"Изп. Wi-Fi "</item>
+        <item>"Спестени данни "</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Изп. мобилни данни "</item>
+        <item>"Изп. Wi-Fi "</item>
+        <item>"Спестени данни "</item>
+        <item>Mi план за данни (Китай)</item>
+     </string-array>
 </resources>

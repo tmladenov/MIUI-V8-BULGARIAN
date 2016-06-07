@@ -1,12 +1,9 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="access_error">Не можете да записвате докато сте в режим Гост</string>
   <string name="alert_message_delete_record">Желаете ли да изтриете избрания звукозапис?</string>
   <string name="alert_message_delete_record_title">Изтриване на записа</string>
   <string name="app_name">Звукозапис</string>
   <string name="back">Назад</string>
-  <string name="button_ok">OK</string>
   <string name="button_queue_for_wifi">Чрез Wi-Fi</string>
   <string name="button_start_now">Изтегляне</string>
   <string name="call_record">Записване на разговор (%d)</string>
@@ -24,6 +21,7 @@
   <string name="delete">Изтрий</string>
   <string name="delete_dialog_message">Желаете ли да изтриете текущия звукозапис?</string>
   <string name="deleting_message">Изтриване...</string>
+  <string name="details">Details</string>
   <string name="dialog_content_storage_full">Поради липса на място за съхранение звукозаписът беше спрян. Желаете ли да отворите Файловия мениджър, за да изтриете ненужни файлове?</string>
   <string name="dialog_title_storage_full">Малко място</string>
   <string name="duration_format_hour">%s ч</string>
@@ -36,16 +34,13 @@
   <string name="error_filename_too_long">Името на файла е твърде дълго</string>
   <string name="error_sdcard_access">Няма достъп до външното или вътрешното място за съхранение</string>
   <string name="error_sdcard_unmounted">SD картата е демонтирана, моля поставете SD карта</string>
+  <string name="export_to_note">Export Note</string>
   <string name="fm_record">FM звукозапис (%d)</string>
-  <string name="hour">%d час(а)</string>
-  <string name="loading_recording">Зареждане на записите</string>
+  <string name="invalid_argument">Illegal argument</string>
   <string name="low_battery_error">Остава по-малко от 5% батерия. Звукозаписът беше спрян и съхранен, за да се избегне загуба.</string>
-  <string name="low_battery_message_title">Изтощена батерия</string>
-  <string name="low_battery_warning">Неочакваното изключване може да доведе до изгубен звукозапис. Препоръчително е да записвате с напълно заредена батерия.</string>
-  <string name="menu_settings">Настройки</string>
+  <string name="mark_point_list_title">Mark point List</string>
   <string name="message_file_size_error">Звукозаписът достигна максималната поддържана от %s дължина</string>
-  <string name="minute">%d минути</string>
-  <string name="no_downloading_file">Няма изтеглящ се файл</string>
+  <string name="new_record_name">New record</string>
   <string name="no_file">Няма звукозаписи</string>
   <string name="notification_message_all_paused">Възможно е повишаване на трафика на мобилни данни.</string>
   <string name="notification_playback">Пускане на звукозаписа...</string>
@@ -54,29 +49,29 @@
   <string name="notification_stopped">Звукозаписът спря</string>
   <string name="notification_title_all_paused">Изтеглянето е на пауза</string>
   <string name="notification_warning">Малко място (по-малко от %d минути)...</string>
+  <string name="path_soundrecorder_setting">System apps/Recorder</string>
   <string name="pause">Пауза</string>
-  <string name="play_record">Пусни</string>
+  <string name="playback_delete_records">Delete the record</string>
+  <string name="playback_share_records">Share the record</string>
   <string name="preference_enable_earpiece_summary">Използване на изхода за слушалки за възпроизвеждане на външно устройство</string>
   <string name="preference_enable_earpiece_title">Външен изход</string>
   <string name="preference_led_indicator">Индикатор за записване при заключен екран</string>
   <string name="preference_led_indicator_prompt">По време на звукозапис индикирай с LED и в лентата на състоянието, когато екранът е заключен</string>
   <string name="preference_record_scenes_dialog_title">Избор на сцена</string>
-  <string name="preference_record_type_dialog_title">Избор на вид звукозапис</string>
-  <string name="preference_record_type_title">Вид звукозапис</string>
   <string name="preference_scenes">Настройки на сцените</string>
   <string name="preference_silent_mode">Тих звукозапис</string>
   <string name="preference_tip_rename">Показване на диалог за преименуване след край на записа</string>
+  <string name="recognition_error_cancel">Canceled</string>
+  <string name="recognition_error_engine">Recognition Engine out of order</string>
+  <string name="recognition_error_engine_singleton">Recognition Engine is busy</string>
+  <string name="recognition_error_format">Illegal audio format</string>
+  <string name="recognition_error_internal">Internal error</string>
+  <string name="recognition_error_stopped">Recognition Stop</string>
   <string name="record_back_pressed_hint">Докоснете отново, за да спрете записа</string>
   <string name="record_download">Изтегляне от Mi Cloud</string>
-  <string name="record_download_activity">Изтегляне на записи</string>
   <string name="record_download_complete">Завършено</string>
-  <string name="record_download_failed">Неуспешно</string>
-  <string name="record_download_manager">Изтегляния</string>
   <string name="record_download_msg">Записите могат да бъдат прослушани само след като изтеглянето им завърши.</string>
   <string name="record_download_msg_reload">Този запис не съществува</string>
-  <string name="record_download_paused">На пауза</string>
-  <string name="record_download_pending">В очакване</string>
-  <string name="record_download_progress">%d%%</string>
   <string name="record_downloading_notification">Изтегляне...</string>
   <string name="record_downloading_notification_complete">Изтеглянето завърши</string>
   <string name="record_downloading_notification_count">Изтегляне: %d</string>
@@ -86,41 +81,53 @@
   <string name="record_list_cloud_call">Записи на обаждания в облака</string>
   <string name="record_list_cloud_fm">FM записи в облака</string>
   <string name="record_list_fm">FM Записи</string>
-  <string name="record_loading">Зареждане на звукозаписа, моля изчакайте...</string>
   <string name="record_mark_point">%sмарка</string>
   <string name="record_name_hour">.</string>
-  <string name="record_name_minute"/>
-  <string name="record_picker_title">Избор на звукозапис</string>
+  <string name="record_name_minute" />
   <string name="record_quliaty_preference_title">Качество на записа</string>
-  <string name="record_saving">Запазване на звукозаписа, моля изчакайте...</string>
   <string name="recording">Записване...</string>
+  <string name="recording_quality_high">High quality</string>
+  <string name="recording_quality_low">Low quality</string>
+  <string name="recording_quality_standard">Standard quality</string>
   <string name="recording_stopped">Звукозаписът спря</string>
   <string name="rename">Преименуване</string>
   <string name="rename_dialog_title">Преименуване на звукозаписа</string>
   <string name="rename_duplicate">Името вече съществува, моля въведете друго:</string>
   <string name="rename_no_more_tip">Без ново запитване</string>
   <string name="retry">Нов опит</string>
-  <string name="search_for_recordings_in_folders">Търсене на звукозаписи в папки</string>
-  <string name="second">%d секунди</string>
-  <string name="send_to">Изпращане</string>
+  <string name="search_app">Recorder</string>
+  <string name="search_enable_earpiece_title">Use receiver to play audio</string>
+  <string name="search_led_indicator">Lock screen notifications</string>
+  <string name="search_led_indicator_prompt">While recording, show in status bar and pulse notification light at lock screen</string>
+  <string name="search_quliaty_title">Recording quality</string>
+  <string name="search_scenes">Recording type</string>
+  <string name="search_silent_mode">Mute ringer when recording</string>
+  <string name="search_tip_rename">Name recordings manually</string>
+  <string name="share">Share</string>
+  <string name="share_dialog_title">Share with</string>
   <string name="sound_recorder_settings">Настройки на звукозаписа</string>
+  <string name="speech_recognition_complete">complete</string>
+  <string name="speech_recognition_running_tip">running</string>
   <string name="start">Възобновяване</string>
-  <string name="start_recording">Започни записване</string>
   <string name="status_bar_back">За да се върнете назад, докоснете тук</string>
   <string name="status_bar_recording">Записване...</string>
   <string name="status_bar_recording_pause">"Записването е сложено на пауза. "</string>
-  <string name="stop_recording">Спри записването</string>
-  <string name="sync_only_in_wifi">Синхр. само по Wi-Fi</string>
-  <string name="sync_only_in_wifi_summary">Приложението ще използва мобилни данни за изтегляне и изпращане на записи когато опцията е изключена</string>
-  <string name="sync_records">Синхр. с Mi Cloud</string>
+  <string name="text_btn_complete">Complete</string>
+  <string name="text_btn_list">List</string>
+  <string name="text_btn_mark">Mark</string>
+  <string name="text_btn_pause">Pause</string>
+  <string name="text_btn_play">Playback</string>
+  <string name="text_btn_recognize">Recognition</string>
+  <string name="text_btn_recording">Recording</string>
+  <string name="text_btn_wave">Wave</string>
+  <string name="text_finish">Confirm</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="toast_file_is_downloading">Файлът се изтегля, моля изчакайте</string>
+  <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">App: %1$s максимално време за запис %2$s</string>
   <string name="toast_uninstall_fileexplorer">Не е инсталиран файлов мениджър</string>
-  <string name="view_list_of_recordings">Виж звукозаписите</string>
   <string name="wifi_recommended_body" formatted="false">"Започването на това изтегляне (%s) може бързо да изразходва батерията ви и/или да използва голямо количество мобилни данни, което може да ви начисли допълнителни такси.
 
- Докоснете %s, за да започнете това изтегляне следващия път, когато сте свързан към Wi-Fi мрежа."</string>
+Докоснете %s, за да започнете това изтегляне следващия път, когато сте свързан към Wi-Fi мрежа."</string>
   <string name="wifi_recommended_title">Предупреждение за трафик</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

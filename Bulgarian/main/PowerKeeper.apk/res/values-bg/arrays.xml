@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
-    <string-array name="group_name_translate">
-        <item>Стандартно</item>
-        <item>Скрит режим</item>
-        <item>Режим четене</item>
-        <item>Режим медиа</item>
-    </string-array>
-    <string-array name="event_name_translate">
-        <item>Приложение на преден план</item>
-        <item>Включен екран</item>
-        <item>Изключен екран</item>
-        <item>Изкл. екран над 10 мин.</item>
-        <item>Цял екран</item>
-        <item>Изход от цял екран</item>
-        <item>Приложение на заден план</item>
-        <item>Телефона се зарежда</item>
-        <item>Телефона не се зарежда</item>
-        <item>Телефона не е активен</item>
-    </string-array>
-    <string-array name="action_name_translate">
+     <string-array name="action_name_translate">
         <item>Макс. яркост на екрана</item>
         <item>Макс. честота на процесора</item>
         <item>Режим на екрана</item>
@@ -29,8 +10,8 @@
         <item>Първо известие</item>
         <item>Известия на закл. екран</item>
         <item>Ограничаване на данните на зад. план</item>
-    </string-array>
-    <string-array name="action_param_translate">
+     </string-array>
+     <string-array name="action_param_translate">
         <item>Няма</item>
         <item>Стандартно</item>
         <item>Снимка</item>
@@ -44,5 +25,57 @@
         <item>След 10 мин.</item>
         <item>След 30 мин.</item>
         <item>При изкл. екран</item>
-    </string-array>
+     </string-array>
+     <string-array name="app_groups">
+        <item>In this mode</item>
+        <item>Not selected</item>
+        <item>In other modes selected</item>
+     </string-array>
+     <string-array name="event_name_translate">
+        <item>Приложение на преден план</item>
+        <item>Включен екран</item>
+        <item>Изключен екран</item>
+        <item>Изкл. екран над 10 мин.</item>
+        <item>Цял екран</item>
+        <item>Изход от цял екран</item>
+        <item>Приложение на заден план</item>
+        <item>Телефона се зарежда</item>
+        <item>Телефона не се зарежда</item>
+        <item>Телефона не е активен</item>
+     </string-array>
+     <string-array name="group_name_translate">
+        <item>Стандартно</item>
+        <item>Скрит режим</item>
+        <item>Режим четене</item>
+        <item>Режим медиа</item>
+     </string-array>
+     <string-array name="hmode_app_groups">
+        <item>Custom</item>
+        <item>Battery saver</item>
+     </string-array>
+     <string-array name="invisible_app_groups">
+        <item>selected</item>
+        <item>unselected</item>
+     </string-array>
+     <string-array name="power_checker_group_prefix">
+        <item>Now</item>
+        <item>Background</item>
+        <item>Recently</item>
+     </string-array>
+     <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI scan</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Wake Up</item>
+     </string-array>
+     <string-array name="power_checker_running_group_titles">
+        <item>Blocking deep Sleep mode</item>
+        <item>Blocking Sleep mode</item>
+        <item>Searching for WLAN</item>
+        <item>Using GPS</item>
+        <item>Occupying CPU</item>
+        <item>Waking device frequently</item>
+     </string-array>
 </resources>

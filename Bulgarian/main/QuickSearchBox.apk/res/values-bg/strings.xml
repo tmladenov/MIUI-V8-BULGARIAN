@@ -1,10 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Търсене</string>
-  <string name="apps_search_activity"/>
+  <string name="apps_search_activity" />
+  <string name="baidu_search_url_from_default">https://www.google.bg/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_input">https://www.google.bg/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_launcher">https://www.google.bg/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_systemui">https://www.google.bg/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
-  <string name="clear_history">изчистване на историята</string>
+  <string name="clear_history">Изчистване на историята</string>
   <string name="clear_shortcuts">Изчисти историята на търсенията</string>
   <string name="clear_shortcuts_agree">Изчисти историята</string>
   <string name="clear_shortcuts_disagree">Отказ</string>
@@ -12,7 +16,8 @@
 
 За да изчистите историята на браузъра, използвайте настройките на браузъра."</string>
   <string name="clear_shortcuts_summary">Изчистване на най-често избираните предложения за търсене</string>
-  <string name="connect_and_retry">Connect to the internet and try again</string>
+  <string name="common_setting">Настройки</string>
+  <string name="connect_and_retry">Свържете се с интернет и опитайте отново</string>
   <string name="corpus_description_apps">Имена на инсталираните приложения</string>
   <string name="corpus_description_web">Търсене в интернет, отметки и историята на браузъра</string>
   <string name="corpus_hint_apps">Търсене на приложения</string>
@@ -43,34 +48,32 @@
   <string name="loading">зареждане</string>
   <string name="menu_help">Помощ</string>
   <string name="menu_settings">Настройки на търсенето</string>
-  <string name="network_unavailable">"Couldn't connect to the network"</string>
+  <string name="network_unavailable">Няма връзка с мрежата</string>
+  <string name="recent_apps">Скорошни приложения</string>
   <string name="recently_shortcut_label">Скорошни връзки</string>
   <string name="remove_from_history">Премахни от историята на търсенията</string>
   <string name="remove_from_history_failed">Грешка при премахване на елемента от историята на търсенията</string>
-  <string name="search_history">история на търсенията</string>
+  <string name="search_group_fold">Скрий</string>
+  <string name="search_group_unfold">Повече</string>
+  <string name="search_history">История на търсенията</string>
   <string name="search_in_app_store">Търсене в Google Play</string>
   <string name="search_in_web">Търсене в интернет</string>
   <string name="search_settings">Настройки на търсенето</string>
   <string name="search_sources">Търсени елементи</string>
   <string name="search_sources_summary">Изберете какво да търсите в телефона</string>
+  <string name="search_suggestion">Съвети</string>
   <string name="search_widget">Търсене</string>
-  <string name="searchable_lable_app">прил.</string>
-  <string name="searchable_lable_browser">браузър</string>
-  <string name="searchable_lable_duokan">duokan</string>
-  <string name="searchable_lable_music">музика</string>
-  <string name="searchable_lable_o2o">o2o</string>
-  <string name="searchable_lable_video">видео</string>
-  <string name="searchable_sources">Онлайн</string>
-  <string name="send_secret_code">Send secret code</string>
+  <string name="send_secret_code">Изпрати таен код</string>
   <string name="show_more">още</string>
+  <string name="suggest_open_app_failed">Това приложение не се отваря</string>
   <string name="system_search_category_title">Телефон</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Говорете:</string>
-  <string name="web_search_results">Web search results</string>
+  <string name="web_search_results">Търсене в интернет</string>
   <string name="xiaomi_hint"/>
+  <string name="xiaomi_homepage_suggest"/>
   <string name="xiaomi_hot_query"/>
-  <string name="xiaomi_search_label">Онлайн</string>
+  <string name="xiaomi_search_label">Резултати</string>
   <string name="xiaomi_suggest_base"/>
-  <string name="search_suggestion">Съвети</string>
 </resources>

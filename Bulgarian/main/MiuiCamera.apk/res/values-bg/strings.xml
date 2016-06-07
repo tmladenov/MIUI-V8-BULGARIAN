@@ -1,5 +1,4 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="Import">Импорт</string>
   <string name="access_sd_fail">Няма достъп до USB хранилището.</string>
@@ -619,4 +618,35 @@
   <string name="wifi_security">Сигурност:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Преди да се свържете, убедете се в безопасността на Wi-Fi мрежата</string>
+  <string name="accessibility_effect_mode_button">Effect button</string>
+  <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
+  <string name="camera_mode_options">Modes</string>
+  <string name="camera_setting">Camera Settings</string>
+  <string name="pref_camera_beautify_entry_auto">Off</string>
+  <string name="pref_camera_beautify_entry_high">High</string>
+  <string name="pref_camera_beautify_entry_low">Low</string>
+  <string name="pref_camera_beautify_entry_normal">Medium</string>
+  <string name="pref_camera_coloreffect_entry_big_face">Spread</string>
+  <string name="pref_camera_coloreffect_entry_blackwhite">B&amp;W</string>
+  <string name="pref_camera_coloreffect_entry_instagram_clarendon">Color pop</string>
+  <string name="pref_camera_coloreffect_entry_instagram_crema">Rustic</string>
+  <string name="pref_camera_coloreffect_entry_instagram_hudson">Icy</string>
+  <string name="pref_camera_coloreffect_entry_instagram_rise">Lomo</string>
+  <string name="pref_camera_coloreffect_entry_light_tunnel">Tunnel</string>
+  <string name="pref_camera_coloreffect_entry_long_face">Stretch</string>
+  <string name="pref_camera_coloreffect_entry_small_face">Squeeze</string>
+  <string name="pref_camera_coloreffect_entry_vsco_a4">Analog</string>
+  <string name="pref_camera_coloreffect_entry_vsco_f2">Matte</string>
+  <string name="pref_camera_square_mode_title">Square</string>
+  <string name="pref_camera_tilt_shift_default">Circle</string>
+  <string name="pref_camera_tilt_shift_entry_circle">Circle</string>
+  <string name="pref_camera_tilt_shift_entry_parallel">Parallel</string>
+  <string name="pref_skin_beautify_color_title">Color</string>
+  <string name="pref_skin_beautify_eye_title">Eyes</string>
+  <string name="pref_skin_beautify_intelligent_title">Intelligent</string>
+  <string name="pref_skin_beautify_slim_title">Slim</string>
+  <string name="pref_skin_beautify_smooth_title">Smooth</string>
+  <string name="simple_mode_button_text_square">Turn off Square</string>
+  <string name="spaceIsLow_content_external_storage_priority">SD card is running out of space</string>
+  <string name="spaceIsLow_content_primary_storage_priority">USB storage is running out of space</string>
 </resources>

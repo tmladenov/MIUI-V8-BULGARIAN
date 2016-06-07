@@ -1,5 +1,4 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="ErrorTooManyRequests">Обработват се прекалено много заявки. Моля, опитайте отново по-късно.</string>
   <string name="ack_record">Запис с потвърждения</string>
@@ -23,7 +22,7 @@
   <string name="bluetooth_in_airplane_mode">Самолетен режим</string>
   <string name="bluetooth_map_settings_app_icon">Икона на приложението</string>
   <string name="bluetooth_map_settings_cancel">Отказ</string>
-  <string name="bluetooth_map_settings_count">Оставащи слотове::</string>
+  <string name="bluetooth_map_settings_count">Оставащи слотове:</string>
   <string name="bluetooth_map_settings_intro">Изберете профилите, които искате да споделите през Bluetooth. Пак трябва да приемете достъпа до тях при свързване.</string>
   <string name="bluetooth_map_settings_no_account_slots_left">Не може да се избере профил. Остават 0 слота</string>
   <string name="bluetooth_map_settings_save">Запазване</string>
@@ -86,9 +85,7 @@
   <string name="incoming_file_confirm_Notification_caption">Ще приемете ли входящия файл?</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth: Входящ файл</string>
   <string name="incoming_file_confirm_cancel">Отказ</string>
-  <string name="incoming_file_confirm_content">"\"%1$s\" Ви изпраща %2$s (%3$s). 
-
- Ще приемете ли този файл?"</string>
+  <string name="incoming_file_confirm_content">Да се приеме ли входящият файл?</string>
   <string name="incoming_file_confirm_ok">OK</string>
   <string name="incoming_file_confirm_timeout_content">Изтече времето за приемане на файл от \"%1$s\"</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>

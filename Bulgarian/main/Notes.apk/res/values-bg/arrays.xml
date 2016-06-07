@@ -1,7 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="contact_entries">
+     <string-array name="attachment_chooser">
+        <item>Камера</item>
+        <item>Галерия</item>
+     </string-array>
+     <string-array name="contact_entries">
         <item>Име</item>
         <item>Псевдоним</item>
         <item>Телефон</item>
@@ -13,22 +16,29 @@
         <item>Уеб сайт</item>
         <item>Адрес</item>
         <item>Бележка</item>
-    </string-array>
-    <string-array name="font_size_names">
+     </string-array>
+     <string-array name="folder_operations">
+        <item>Преименуване</item>
+        <item>Изтриване</item>
+     </string-array>
+     <string-array name="font_size_names">
         <item>Малък</item>
         <item>Среден</item>
         <item>Голям</item>
         <item>Огромен</item>
-    </string-array>
-    <string-array name="welcome_notes_content">
-        <item>Чукнете, за да създадете бележка
+     <string-array name="welcome_notes_content">
+        <item>"Добре дошли в Бележки
 "</item>
-        <item>За да добавите картина, или да се показват тикчета , чукнете върху бутона по-долу
+        <item>"Чукнете за създаване на бележка
 "</item>
-        <item>Натиснете и задръжте върху бележка, за да я закачите, преместите или изтриете.
+        <item>"Изберете шаблони
 "</item>
-        <item>Добавете още страхотни функции!
-  - Синхронизирайте с  Mi Cloud
-  - Задайте напомняне</item>
-    </string-array>
+        <item>"Създайте папки
+"</item>
+        <item>"Защитете личните бележки
+"</item>
+        <item>"И още страхотни функции!
+  - Синхр. с Mi Cloud
+  - Напомняния"</item>
+     </string-array>
 </resources>

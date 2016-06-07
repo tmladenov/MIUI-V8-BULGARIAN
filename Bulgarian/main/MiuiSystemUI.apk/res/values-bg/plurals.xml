@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
-    <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">Последни приложения: %d</item>
-        <item quantity="one">1 последно приложение</item>
-    </plurals>
-    <plurals name="disable_notification_confirm_title">
+     <plurals name="disable_notification_confirm_title">
         <item quantity="other">Скрий известията от %d прил.?</item>
         <item quantity="one">Скрий известията от това прил.?"</item>
-    </plurals>
+     </plurals>
+     <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Последни приложения: %d</item>
+        <item quantity="one">1 последно приложение</item>
+     </plurals>
+     <plurals name="view_realtime_clear">
+        <item quantity="other">Ясно</item>
+        <item quantity="one">Слънчево</item>
+     </plurals>
 </resources>

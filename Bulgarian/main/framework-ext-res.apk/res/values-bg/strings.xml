@@ -136,4 +136,14 @@
   <string name="add_frequent_phrases">Добавяне на чести фрази</string>
   <string name="frequent_phrases">Чести фрази</string>
   <string name="status_bar_toggle_cast">Предаване</string>
+  <string name="security_permission_denied_text">Access denied</string>
+  <string name="security_permission_failed_text">Internal error, retry later</string>
+  <string name="security_permission_validate_warning">Thank you for helping make MIUI better!</string>
+  <string name="security_permission_wifi_and_data_opened_text">WLAN and mobile data turned on</string>
+  <string name="security_permission_xiaomi_account_missed_text">Enter your Mi Account ID</string>
+  <string name="start_security_permission_verify_text">Verify permissions with your Mi Account</string>
+  <string name="translation_query_error">"Couldn't find results"</string>
+  <string name="translation_query_error_network">"Couldn't connect to the network. Check settings and try again"</string>
+  <string name="user_switching_dialog_text">Switching…</string>
+  <string name="xspace_resolver_activity_title">Select app</string>
 </resources>
