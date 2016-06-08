@@ -290,5 +290,5 @@
   <string name="website">Уебсайт</string>
   <string name="whitelist_prefix_add_hint">Добавя всички номера с префикса към изключенията</string>
   <string name="wl_no_whitelist">Няма изключения</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_account_type"Вид акаунт</string>
 </resources>
