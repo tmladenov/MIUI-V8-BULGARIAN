@@ -36,6 +36,6 @@
   <string name="process"/>
   <string name="sap_acceptance_timeout_message">Времето за приемане на свързването към %1$s изтече</string>
   <string name="sap_notif_message">Докоснете за свързване с \"%1$s\".</string>
-  <string name="sap_notif_ticker">Bluetooth SIM Access з</string>
+  <string name="sap_notif_ticker">Bluetooth достъп до SIM</string>
   <string name="sap_notif_title">Изисква се ключ за сдвояване за SAP</string>
 </resources>
