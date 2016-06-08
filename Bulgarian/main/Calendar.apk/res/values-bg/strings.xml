@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
   <string name="accessibility_add_attendee">Добави участник</string>
@@ -116,9 +116,11 @@
   <string name="directory_searching_fmt">Търсене в %s...</string>
   <string name="discard_label">Отмени</string>
   <string name="dismiss_all_label">Отхвърляне на всички</string>
-  <string name="do_not_check">Не проверявай -></string>
+  <string name="do_not_check">Не проверявай -&gt;</string>
   <string name="does_not_repeat">Еднократно събитие</string>
   <string name="done">Напред</string>
+  <string name="download">Изтегляне</string>
+  <string name="dropdown_delete_button_desc">Премахване на %s от получателите</string>
   <string name="edit_event_all_day_label">През целия ден</string>
   <string name="edit_event_calendar_label">Календар</string>
   <string name="edit_event_confirm_message">Да се отменят ли промените в събитието?</string>
@@ -145,6 +147,8 @@
   <string name="event_hide_more">Скрий</string>
   <string name="event_info_descrip">"Описание: "</string>
   <string name="event_info_end">"Край: "</string>
+  <string name="event_info_from">От</string>
+  <string name="event_info_jump_to_email">Към Имейл</string>
   <string name="event_info_organizer">Органайзер:</string>
   <string name="event_info_reminders_label">Напомняния</string>
   <string name="event_info_reminders_label_1">Напомняне</string>
@@ -156,6 +160,7 @@
   <string name="event_info_where">"Къде: "</string>
   <string name="event_lunar_month"/>
   <string name="event_show_more">Още опции</string>
+  <string name="event_title">Заглавие</string>
   <string name="event_view">Преглед на събития</string>
   <string name="every_weekday">Всеки делник (Пон-Пт)</string>
   <string name="exist_calendar">Календарът вече съществува</string>
@@ -174,6 +179,12 @@
   <string name="huangli_good_type"/>
   <string name="huangli_label">Huang Li</string>
   <string name="image_content">Изображение</string>
+  <string name="insert_event_dialog_btn_negative">Не</string>
+  <string name="insert_event_dialog_btn_positive">Да</string>
+  <string name="insert_event_dialog_message">Добавяне на събитието към календара?</string>
+  <string name="insert_event_dialog_title">Внимание</string>
+  <string name="insert_event_toast_add_failed">Неуспешно добавяне</string>
+  <string name="insert_event_toast_add_success">Събитието е създадено</string>
   <string name="internet_connection_notification">Известие за интернет връзка</string>
   <string name="internet_connection_notification_descrip">Показване на известие за свързване към интернет при всяко отваряне на Календар</string>
   <string name="jump_date">Отиди</string>
@@ -186,6 +197,7 @@
   <string name="menu_about_preferences">За Календар</string>
   <string name="menu_general_preferences">Общи настройки</string>
   <string name="menu_preferences">Настройки</string>
+  <string name="menu_reminder_preferences">Настройки за напомняне</string>
   <string name="menu_select_visible_calendars">Календари за показване</string>
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_chinese_week_range_single"/>
@@ -254,6 +266,8 @@
   <string name="preferences_default_reminder_title">Време за напомняне</string>
   <string name="preferences_general_title">Настройки на изгледа на календар</string>
   <string name="preferences_hide_declined_title">Скрий отменени събития</string>
+  <string name="preferences_history_events">Показване на минали събития</string>
+  <string name="preferences_holidays">Показване на празници</string>
   <string name="preferences_home_tz_default">Europe/Athens</string>
   <string name="preferences_home_tz_title">Часови пояс</string>
   <string name="preferences_reminder_title">Настройки на напомняния</string>
@@ -314,7 +328,9 @@
   <string name="select_synced_calendars_title">Календари за синхронизиране</string>
   <string name="select_visible_calendars_title">Календари, които се показват</string>
   <string name="set_as_wallpaper">Задаване като тапет</string>
+  <string name="setting_holiday">Празници</string>
   <string name="setting_online_calendar">Абонамент за календара</string>
+  <string name="setting_others">Други</string>
   <string name="setting_wifi_mode">Синхронизация само по Wi-Fi</string>
   <string name="show_controls">Покажи елементи за управление</string>
   <string name="show_day_view">Покажи ден</string>
@@ -352,13 +368,13 @@
   <string name="travel_event_add_successfully">Event created</string>
   <string name="travel_event_add_unsuccessfully">"Couldn't create event"</string>
   <string name="travel_event_added">Event created</string>
-  <string name="travel_event_delete_successfully">Event deleted</string> 
+  <string name="travel_event_delete_successfully">Event deleted</string>
   <string name="travel_event_delete_unsuccessfully">"Couldn't delete event"</string>
   <string name="travel_event_title_flight">Flight: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train">Train: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train_only_dep">Train: %1$s %2$s</string>
   <string name="travel_item_hotel">Hotel</string>
-  <string name="travel_item_reminder">Reminder</string> 
+  <string name="travel_item_reminder">Reminder</string>
   <string name="travel_item_reminder_overdue">Attention</string>
   <string name="travel_item_trafic">Traffic</string>
   <string name="travel_item_virtual_sim">Mi Virtual SIM</string>
@@ -400,20 +416,4 @@
   <string name="yearly">Ежегодно (%s)</string>
   <string name="yearly_plain">Годишно</string>
   <string name="zhushen"/>
-  <string name="dropdown_delete_button_desc">Премахване на %s от получателите</string>
-  <string name="event_info_from">От</string>
-  <string name="event_title">Заглавие</string>
-  <string name="download">Изтегляне</string>
-  <string name="event_info_jump_to_email">Към Имейл</string>
-  <string name="insert_event_dialog_btn_negative">Не</string>
-  <string name="insert_event_dialog_btn_positive">Да</string>
-  <string name="insert_event_dialog_message">Добавяне на събитието към календара?</string>
-  <string name="insert_event_dialog_title">Внимание</string>
-  <string name="insert_event_toast_add_failed">Неуспешно добавяне</string>
-  <string name="insert_event_toast_add_success">Събитието е създадено</string>
-  <string name="menu_reminder_preferences">Настройки за напомняне</string>
-  <string name="preferences_history_events">Показване на минали събития</string>
-  <string name="preferences_holidays">Показване на празници</string>
-  <string name="setting_holiday">Празници</string>
-  <string name="setting_others">Други</string>
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_device">Всичко за телефона</string>
   <string name="active_xiaomi_account">Активен</string>
@@ -200,7 +200,7 @@
   <string name="top_secret_build">Секретна</string>
   <string name="unkown_error_title">Нещо се обърка…</string>
   <string name="unstable_build">Нестабилна</string>
-  <string name="update_comment_hint" />
+  <string name="update_comment_hint"/>
   <string name="update_comment_title">Коментар</string>
   <string name="update_downfull_no_info_sum">Неуспешно изтегляне, проверете отново за нова версия.</string>
   <string name="update_downfull_no_info_title">Неуспешно изтегляне</string>

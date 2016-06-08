@@ -1,5 +1,6 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_frequent_phrases">Добавяне на чести фрази</string>
   <string name="alwaysUsePrompt">Запомни този избор</string>
   <string name="android_ringtone_default_with_actual">Стандартна мелодия (%1$s)</string>
   <string name="android_ringtone_silent">Няма</string>
@@ -33,17 +34,23 @@
   <string name="cut">Изрежи</string>
   <string name="day_following_good_friday"/>
   <string name="default_name">Стандартно</string>
+  <string name="delete_frequent_phrases">Изтриване на чести фрази</string>
+  <string name="delete_frequent_phrases_confirm">Изтриване на избраните чести фрази?</string>
   <string name="device_hongmi">Redmi</string>
+  <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Xiaomi</string>
   <string name="double_seventh_day"/>
   <string name="easter"/>
+  <string name="edit_frequent_phrases">Редактиране на чести фрази</string>
   <string name="first_back_long_press_message">"Искате ли продължителното натискане на бутон Назад да затваря процесите и фоновите услуги на текущото приложение?
   
-  Включете от Настройки> Система> Хардуерни бутони"</string>
+  Включете от Настройки&gt; Система&gt; Хардуерни бутони"</string>
   <string name="fm_record_smaple_prefix_miui">FMRecording</string>
   <string name="fools_day">Ден на шегата</string>
   <string name="force_exit_message">Приложението \"%1$s\" е затворено</string>
   <string name="force_exit_skip_message">%1$s е ключов компонент на системата, не може да бъде затворено принудително.</string>
+  <string name="frequent_phrases_des">Въвеждайте чести фрази само с няколко чуквания, когато редактирате текст</string>
+  <string name="frequent_phrases_size_exceeded">Може да добавите до %1$d чести фрази. Изтрийте ненужните, за да добавите други</string>
   <string name="global_actions_airplane_mode">Самолетен режим</string>
   <string name="global_actions_reboot">Рестарт</string>
   <string name="global_actions_shutdown">Изключване</string>
@@ -102,6 +109,9 @@
   <string name="memory_clear_nothing_result">RAM паметта е оптимизирана</string>
   <string name="memory_clear_result">"Освободени: %1$s
 На разположение: %2$s"</string>
+  <string name="menu_add_frequent_phrases">Добавяне</string>
+  <string name="menu_delete">Изтриване</string>
+  <string name="menu_edit">Редактиране</string>
   <string name="mibi_license">Условия за ползване на Mi Credit</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day"/>
@@ -198,14 +208,4 @@
   <string name="yellow_page_sms_send_failed">Неуспешно изпращане на съобщението</string>
   <string name="yellow_page_sms_sending">Изпращане…</string>
   <string name="yellow_page_unable_send_sms">Не може да изпрати текстово съобщение</string>
-  <string name="add_frequent_phrases">Добавяне на чести фрази</string>
-  <string name="delete_frequent_phrases">Изтриване на чести фрази</string>
-  <string name="delete_frequent_phrases_confirm">Изтриване на избраните чести фрази?</string>
-  <string name="device_pad">Mi Pad</string>
-  <string name="edit_frequent_phrases">Редактиране на чести фрази</string>
-  <string name="frequent_phrases_des">Въвеждайте чести фрази само с няколко чуквания, когато редактирате текст</string>
-  <string name="frequent_phrases_size_exceeded">Може да добавите до %1$d чести фрази. Изтрийте ненужните, за да добавите други</string>
-  <string name="menu_add_frequent_phrases">Добавяне</string>
-  <string name="menu_delete">Изтриване</string>
-  <string name="menu_edit">Редактиране</string>
 </resources>

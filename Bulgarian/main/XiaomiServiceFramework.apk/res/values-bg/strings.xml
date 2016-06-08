@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept">ОК</string>
   <string name="activate">Активиране</string>
@@ -7,12 +6,14 @@
   <string name="activate_auto_sms_notification_desc_2_cards">Изпратен е SMS от SIM карта %s за активиране на \"Открий устройството\"</string>
   <string name="activate_auto_sms_notification_title">Активиране на SIM карта</string>
   <string name="activate_feature_call_log_sync">Списъци с обаждания</string>
+  <string name="activate_feature_default_name">Mi services</string>
   <string name="activate_feature_find_device">Открий устройството</string>
   <string name="activate_feature_live_talk">Phone Top-up package</string>
   <string name="activate_feature_mms_sync">Синхр. на SMS съобщения</string>
   <string name="activate_feature_mx">Mi Message</string>
   <string name="activate_feature_mx_and_voip">Mi Message и Voice</string>
   <string name="activate_feature_register_xiaomi_account">Mi Account настройки</string>
+  <string name="activate_feature_remote_assist">Remote Assist</string>
   <string name="activate_feature_verify_mx_token">Mi Account потвърждение</string>
   <string name="activate_history_cancelled">Отменено</string>
   <string name="activate_history_multisim_overview">Активиране на SIM карта %3$d %1$s. Пуснато е от услугата \"%2$s\".</string>
@@ -116,13 +117,11 @@
   <string name="error_device_id_message">"Невалидно ID на устройството: %s 
 Някои функции на профила и облака ще бъдат недостъпни"</string>
   <string name="error_device_id_title">Не може да се получи IMEI номер.</string>
+  <string name="explain_send_sms_permission_button">Потвърдете</string>
+  <string name="explain_send_sms_permission_msg">За да включи %s, Xiaomi Service Framework ще изпрати SMS за да потвърди вашия телефонен номер. Ще бъдете таксувани по стандартната тарифа за SMS.</string>
+  <string name="explain_send_sms_permission_title">Потвърдете Вашия телефонен номер</string>
   <string name="sim_unactivated_title">SIM картата ви не е активирана</string>
   <string name="sync_notification_title_format">Синхронизира се: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">XMSF информация за активиране</string>
-  <string name="activate_feature_remote_assist">Remote Assist</string>
-  <string name="activate_feature_default_name">Mi services</string>
-  <string name="explain_send_sms_permission_button">Потвърдете</string>
-  <string name="explain_send_sms_permission_msg">За да включи %s, Xiaomi Service Framework ще изпрати SMS за да потвърди вашия телефонен номер. Ще бъдете таксувани по стандартната тарифа за SMS.</string>
-  <string name="explain_send_sms_permission_title">Потвърдете Вашия телефонен номер</string>
 </resources>

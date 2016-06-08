@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_frequent_phrases">Добавяне на чести фрази</string>
   <string name="all_call_livetalk_enable">Use top-up packages for domestic and international calls</string>
   <string name="all_call_livetalk_remain_mins">Minutes remaining: %1$s domestic | %2$s international</string>
   <string name="alwaysUsePrompt">Запомни този избор</string>
@@ -38,6 +39,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">No thanks</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Customize</string>
   <string name="fp_nav_center_action_choose_dlg_title">Customize Home button</string>
+  <string name="frequent_phrases">Чести фрази</string>
   <string name="global_actions_airplane_mode">Самолетен режим</string>
   <string name="global_actions_reboot">Рестарт</string>
   <string name="global_actions_shutdown">Изключване</string>
@@ -88,6 +90,11 @@
   <string name="screen_on_proximity_sensor_title">Предотвратяване на нежелани обаждания</string>
   <string name="screen_paper_mode_enter_toast">Режим четене е включен. Управлявайте тази функция от Допълнителни настройки &gt; Режим четене.</string>
   <string name="screen_rotation_freeze_message">Авт. завъртане е изключено.</string>
+  <string name="security_permission_denied_text">Access denied</string>
+  <string name="security_permission_failed_text">Internal error, retry later</string>
+  <string name="security_permission_validate_warning">Thank you for helping make MIUI better!</string>
+  <string name="security_permission_wifi_and_data_opened_text">WLAN and mobile data turned on</string>
+  <string name="security_permission_xiaomi_account_missed_text">Enter your Mi Account ID</string>
   <string name="select">Избор</string>
   <string name="select_all">Избери всички</string>
   <string name="set_password_action">Задай парола</string>
@@ -99,10 +106,12 @@
   <string name="sim_added_reboot_title">SIM картата ще бъде активна след рестартиране на устройството ви.</string>
   <string name="softap_notifif_summary">%d свързани</string>
   <string name="softap_notifif_title">Хотспотът \"%s\" е активен</string>
+  <string name="start_security_permission_verify_text">Verify permissions with your Mi Account</string>
   <string name="status_bar_toggle_ac">Достъп</string>
   <string name="status_bar_toggle_auto_brightness">Яркост</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Яркост</string>
+  <string name="status_bar_toggle_cast">Предаване</string>
   <string name="status_bar_toggle_data">Данни</string>
   <string name="status_bar_toggle_divider">Още</string>
   <string name="status_bar_toggle_drive_mode">Шофиране</string>
@@ -131,19 +140,10 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi VPN</string>
   <string name="subinfo_default_name">SIM %d</string>
-  <string name="turn_off">Изключване</string>
-  <string name="unknown_caller">Неизвестен</string>
-  <string name="add_frequent_phrases">Добавяне на чести фрази</string>
-  <string name="frequent_phrases">Чести фрази</string>
-  <string name="status_bar_toggle_cast">Предаване</string>
-  <string name="security_permission_denied_text">Access denied</string>
-  <string name="security_permission_failed_text">Internal error, retry later</string>
-  <string name="security_permission_validate_warning">Thank you for helping make MIUI better!</string>
-  <string name="security_permission_wifi_and_data_opened_text">WLAN and mobile data turned on</string>
-  <string name="security_permission_xiaomi_account_missed_text">Enter your Mi Account ID</string>
-  <string name="start_security_permission_verify_text">Verify permissions with your Mi Account</string>
   <string name="translation_query_error">"Couldn't find results"</string>
   <string name="translation_query_error_network">"Couldn't connect to the network. Check settings and try again"</string>
+  <string name="turn_off">Изключване</string>
+  <string name="unknown_caller">Неизвестен</string>
   <string name="user_switching_dialog_text">Switching…</string>
   <string name="xspace_resolver_activity_title">Select app</string>
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_bind_prompt">Прехвърляне на потребителски данни… Операцията може да отнеме няколко минути.</string>
   <string name="account_login_title">Профил</string>
@@ -108,6 +108,7 @@
   <string name="connection_error">Няма връзка</string>
   <string name="copied">Copied</string>
   <string name="copy_failed">Грешка при копиране</string>
+  <string name="copy_failed_retry">"Can't copy, please retry after %1$s"</string>
   <string name="copy_file_to_kuaipan">Копиране на файла в KuaiPan</string>
   <string name="copy_file_to_midrive">Copy file to MiDrive</string>
   <string name="copy_text">Copy text</string>
@@ -142,6 +143,7 @@
   <string name="delete_dialog_button">Изтрий</string>
   <string name="delete_error">Файловете не могат да се изтрият, опитайте отново</string>
   <string name="delete_failed">Грешка при изтриване</string>
+  <string name="delete_failed_retry">"Can't delete, please retry after %1$s"</string>
   <string name="delete_file">Ще изтриете ли файла?</string>
   <string name="delete_file_error">Неуспешно изтриване на файл</string>
   <string name="delete_files">Ще изтриете ли избраните файлове %1$d?</string>
@@ -330,6 +332,8 @@
   <string name="mi_router_label">Mi Router</string>
   <string name="midrive_network_connect_confirm">Midrive needs to connect to the internet to work normally.</string>
   <string name="midrive_space_full">Not enough cloud space.</string>
+  <string name="midrive_welcome_message">Your Kuaipan data has been successfully migrated. And you have got a three-month micloud membership privileges as a gift. The micloud drive and millet cloud services will share storage, you can access your micloud drive by i.mi.com.</string>
+  <string name="midrive_welcome_title">Welcome to micloud drive</string>
   <string name="midrop_msg_1">Включете Mi Drop на друго устройство</string>
   <string name="midrop_msg_2">Когато Mi Drop е включен, вие можете да търсите устройства в съседство и да изпращате файлове</string>
   <string name="midrop_send_files">Изберете файлове за ипращане</string>
@@ -355,44 +359,45 @@
   <string name="mobile_network_dialog_confirm">OK</string>
   <string name="mobile_network_dialog_tip">Да използваме ли мобилни данни за да видите тази страница? Може да заплатите допълнително за използването на мобилни данни за  връзка</string>
   <string name="mobile_network_dialog_tip2">Може да се наложи да бъдете таксуван допълнително от вашия оператор, ако използвате мобилни данни за видео стрийминг."</string>
-  <string name="mobile_network_dialog_title" />
+  <string name="mobile_network_dialog_title"/>
   <string name="mobile_network_upload_tip">Използването на мобилни данни за споделяне на видео може да доведе до допълнително такусване.</string>
   <string name="mobile_photo">Снимки в телефона</string>
-  <string name="mobile_photo_desc" />
+  <string name="mobile_photo_desc"/>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">Грешка при преместване</string>
+  <string name="move_failed_retry">"Can't cut, please retry after %1$s"</string>
   <string name="move_icon_to_desktop_hint">Създава пряк път до Файлове на началния екран за по-ефективно управление на файловете.</string>
   <string name="move_icon_to_desktop_success">Прекият път е добавен на началния екран.</string>
   <string name="move_to">Преместване в/ъв…</string>
   <string name="msg_set_password">Първо задайте парола</string>
   <string name="multi_select_title">Избрани %1$s елемент(и)</string>
   <string name="my_app">Данни на прил.</string>
-  <string name="my_app_desc" />
+  <string name="my_app_desc"/>
   <string name="my_bak">Резервни копия</string>
-  <string name="my_bak_desc" />
+  <string name="my_bak_desc"/>
   <string name="my_bakup">Рез. копия в тел.</string>
   <string name="my_bakup_app">Приложения</string>
-  <string name="my_bakup_app_desc" />
+  <string name="my_bakup_app_desc"/>
   <string name="my_bakup_doc">Документи</string>
-  <string name="my_bakup_doc_desc" />
+  <string name="my_bakup_doc_desc"/>
   <string name="my_bakup_music">Музика</string>
-  <string name="my_bakup_music_desc" />
+  <string name="my_bakup_music_desc"/>
   <string name="my_bakup_other">Други</string>
-  <string name="my_bakup_other_desc" />
+  <string name="my_bakup_other_desc"/>
   <string name="my_bakup_pic">Снимки</string>
-  <string name="my_bakup_pic_desc" />
+  <string name="my_bakup_pic_desc"/>
   <string name="my_bakup_video">Видео</string>
-  <string name="my_bakup_video_desc" />
+  <string name="my_bakup_video_desc"/>
   <string name="my_camera_album">Албуми</string>
-  <string name="my_camera_album_desc" />
+  <string name="my_camera_album_desc"/>
   <string name="my_doc">Документи</string>
-  <string name="my_doc_desc" />
+  <string name="my_doc_desc"/>
   <string name="my_music">Музика</string>
-  <string name="my_music_desc" />
+  <string name="my_music_desc"/>
   <string name="my_photo">Снимки</string>
-  <string name="my_photo_desc" />
+  <string name="my_photo_desc"/>
   <string name="my_video">Видео</string>
-  <string name="my_video_desc" />
+  <string name="my_video_desc"/>
   <string name="name_empty">Трябва да въведете име.</string>
   <string name="need_read_storage_permission">Файл мениджър се нуждае от достъп до вътрешната памет на вашето устройство, за да работи правилно.</string>
   <string name="net_lose_connected">Мрежата е недостъпна, не е възможно да се определи размера</string>
@@ -629,8 +634,8 @@
   <string name="search_result_hint1">Подобни</string>
   <string name="search_result_hint2">Всички</string>
   <string name="search_result_hint3">" "</string>
-  <string name="search_result_hint4" />
-  <string name="search_result_hint5" />
+  <string name="search_result_hint4"/>
+  <string name="search_result_hint5"/>
   <string name="search_result_hint6">(%d елементи)</string>
   <string name="search_result_hint7">(%d)</string>
   <string name="search_result_more">Още</string>
@@ -738,7 +743,7 @@
   <string name="transfer_private_data">Преместване на частни файлове от SD картата…</string>
   <string name="transing">Трансфер на данни...</string>
   <string name="trash_box_capacity">Кошче: %1$s</string>
-  <string name="trash_box_link">Посетете <b>pan.xiaomi.com</b>, за да изпразните кошчето</string>
+  <string name="trash_box_link">Посетете &lt;b&gt;pan.xiaomi.com&lt;/b&gt;, &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1080;&amp;#1079;&amp;#1087;&amp;#1088;&amp;#1072;&amp;#1079;&amp;#1085;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1082;&amp;#1086;&amp;#1096;&amp;#1095;&amp;#1077;&amp;#1090;&amp;#1086;</string>
   <string name="trash_box_message1">"Можете да изтриете ненужните файлове,
 за да освободите място"</string>
   <string name="trash_box_message2">"Можете да изтриете ненужните файлове или да изпразните кошчето,
@@ -859,9 +864,4 @@
   <string name="yes">Да</string>
   <string name="yesterday">Вчера</string>
   <string name="zero_comment">No comment</string>
-  <string name="copy_failed_retry">"Can't copy, please retry after %1$s"</string>
-  <string name="delete_failed_retry">"Can't delete, please retry after %1$s"</string>
-  <string name="midrive_welcome_message">Your Kuaipan data has been successfully migrated. And you have got a three-month micloud membership privileges as a gift. The micloud drive and millet cloud services will share storage, you can access your micloud drive by i.mi.com.</string>
-  <string name="midrive_welcome_title">Welcome to micloud drive</string>
-  <string name="move_failed_retry">"Can't cut, please retry after %1$s"</string>
 </resources>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Търсене</string>
-  <string name="apps_search_activity" />
+  <string name="apps_search_activity"/>
   <string name="baidu_search_url_from_default">https://www.google.bg/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.bg/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_launcher">https://www.google.bg/search?q=%s&amp;tn=ins</string>
@@ -72,9 +72,9 @@
   <string name="voice_search_hint_title">Говорете:</string>
   <string name="web_search_results">Търсене в интернет</string>
   <string name="xiaomi_hint"/>
+  <string name="xiaomi_homepage_hint"/>
   <string name="xiaomi_homepage_suggest"/>
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Резултати</string>
   <string name="xiaomi_suggest_base"/>
-  <string name="xiaomi_homepage_hint"/>
 </resources>

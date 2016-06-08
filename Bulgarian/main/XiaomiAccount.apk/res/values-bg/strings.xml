@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_device_info">Детайли на устройството</string>
   <string name="access_token_expired_warning">Weibo профилът е с изтекъл срок: свържете го отново</string>
@@ -68,7 +68,7 @@
   <string name="bind_weibo_description">Намери и синхронизирай приятелите си от Sina Weibo.</string>
   <string name="binded">Свързан</string>
   <string name="binded_description" formatted="false">%s бе добавен успешно към Mi профила ви. Профилът ви бе обновен с информацията от вашия %s профил.</string>
-  <string name="button_unbind"><u>Разкачи</u></string>
+  <string name="button_unbind">&lt;u&gt;&amp;#1056;&amp;#1072;&amp;#1079;&amp;#1082;&amp;#1072;&amp;#1095;&amp;#1080;&lt;/u&gt;</string>
   <string name="change_activate_email">Промяна на имейл адрес</string>
   <string name="change_email_address">Промяна на имейл адрес</string>
   <string name="change_password">Change password</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_fraud_num_online_identification">Повече за функцията</string>
   <string name="about_phone_event">About Service Info</string>
@@ -110,7 +110,7 @@
   <string name="express_inquiry_button_text">Проследи</string>
   <string name="express_inquiry_clipboard_number_message">Track copied number?</string>
   <string name="express_inquiry_data_owner_prefix">"Иформацията за проследяване е от "</string>
-  <string name="express_inquiry_data_owner_suffix" />
+  <string name="express_inquiry_data_owner_suffix"/>
   <string name="express_inquiry_delete_warning_multiple">Да се изтрият ли %d записа?</string>
   <string name="express_inquiry_delete_warning_single">Да се изтрие ли записът?</string>
   <string name="express_inquiry_delivered">Доставено</string>
@@ -215,17 +215,17 @@
   <string name="general_recent_title">Последно</string>
   <string name="general_unfollow_hint">Sure to unfollow %1$s?</string>
   <string name="general_yellow_page_title">Общи</string>
-  <string name="group_name_banner" />
-  <string name="group_name_basic" />
+  <string name="group_name_banner"/>
+  <string name="group_name_basic"/>
   <string name="group_name_data_source">Източник</string>
-  <string name="group_name_enroll" />
+  <string name="group_name_enroll"/>
   <string name="group_name_gallery">Галерия</string>
   <string name="group_name_management">Управление</string>
   <string name="group_name_more">Други</string>
   <string name="group_name_service">Услуги</string>
   <string name="group_name_shop_info">Информация</string>
   <string name="group_name_shop_recommendation">Наблизо</string>
-  <string name="group_name_title" />
+  <string name="group_name_title"/>
   <string name="hms_no_subject_view">(Няма тема)</string>
   <string name="hms_notification">Съобщения</string>
   <string name="homepage_barcode_prompt">Scan to open homepage.</string>

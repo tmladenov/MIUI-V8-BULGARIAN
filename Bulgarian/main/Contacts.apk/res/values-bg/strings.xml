@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Подробности</string>
   <string name="account_container_title">От профила</string>
@@ -178,11 +178,11 @@
   <string name="composer_has_no_exportable_contact">Не са намерени контакти за експортиране. Възможно е експортирането на контакти от телефона да не се поддържа от доставчика ви на данни.</string>
   <string name="composer_not_initialized">"Редактора на визитки не стартира правилно."</string>
   <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider" />
+  <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix" />
-  <string name="config_export_file_suffix" />
-  <string name="config_prohibited_phone_number_regexp" />
+  <string name="config_export_file_prefix"/>
+  <string name="config_export_file_suffix"/>
+  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Да се изтрият ли списъците с повиквания?</string>
   <string name="confirm_delete_selected_all_call_logs">"Сигурни ли сте, че искате да изтриете всички записи на избраните контакти?"</string>
   <string name="confirm_delete_sim_entry_miui_title">Изтрий</string>
@@ -375,7 +375,7 @@
   <string name="dialog_phone_call_prohibited_message">Повикването не е отправено</string>
   <string name="dialog_sync_add">Добави група за синхронизация</string>
   <string name="dialog_voicemail_airplane_mode_message">За обаждане до гласова поща, изключете самолетен режим.</string>
-  <string name="dialog_voicemail_not_ready_message">За да настроите гласовата поща, отидете в Меню > Настройки.</string>
+  <string name="dialog_voicemail_not_ready_message">За да настроите гласовата поща, отидете в Меню &gt; Настройки.</string>
   <string name="directory_search_label">Директория</string>
   <string name="display_all_contacts">Всички контакти</string>
   <string name="display_more_groups">Други групи...</string>
@@ -475,9 +475,9 @@
   <string name="group_sms_progress_msg">Подготовка за групово изпращане на SMS…</string>
   <string name="groupsLabel">Групи</string>
   <string name="groups_list_empty">Няма групи</string>
-  <string name="help_url_people_add" />
-  <string name="help_url_people_edit" />
-  <string name="help_url_people_main" />
+  <string name="help_url_people_add"/>
+  <string name="help_url_people_edit"/>
+  <string name="help_url_people_main"/>
   <string name="hint_distance">запази разстоянието</string>
   <string name="hint_findContacts">Намери контакти</string>
   <string name="hint_more_contact">използвай обединяване на контакти, когато има дубликати</string>

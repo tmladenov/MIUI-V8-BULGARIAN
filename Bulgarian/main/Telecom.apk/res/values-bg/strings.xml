@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="accessibility_call_muted">Обаждането е заглушено.</string>
   <string name="accessibility_speakerphone_enabled">Високоговорителят бе активиран.</string>

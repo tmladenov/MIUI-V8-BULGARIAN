@@ -29,6 +29,7 @@
   <string name="alert_dialog_no">Не</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Да</string>
+  <string name="antispam_local_marked">Local marked</string>
   <string name="antispam_marked_count">Отклонени: %1$d</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Неизвестен</string>
@@ -73,6 +74,8 @@
   <string name="callFailed_unobtainable_number">Невалиден номер</string>
   <string name="callFailed_userBusy">Линията е заета</string>
   <string name="callUnanswered_forwarded">Повикването не е прието и е препратено</string>
+  <string name="call_button_dialer_text">Keyboard</string>
+  <string name="call_button_tools_text">Feature</string>
   <string name="call_contacts_deny_permission_msg">"Нямате права за получаване на информация за контакт, не може да се покаже информация.</string>
   <string name="call_description_recording">Запис на разговор…</string>
   <string name="call_extension_conference_mode">Конферентен режим</string>
@@ -98,6 +101,7 @@
   <string name="caller_manage_header">Конферентно обаждане %s</string>
   <string name="calling_via_template">Обаждане чрез %s</string>
   <string name="can_not_call_oneself">Не може да се извърши повикване.</string>
+  <string name="can_not_use">"Can't use"</string>
   <string name="cancel">Отказ</string>
   <string name="cancel_call">Затвори</string>
   <string name="card_title_call_ended">"Обаждането завърши "</string>
@@ -318,6 +322,12 @@
   <string name="incall_status_dialed_mmi">Стартира се последователността MMI…</string>
   <string name="incoming_answer_voice_text">Гласово обаждане</string>
   <string name="incoming_call_forwarded_title">Прехвърляне на входящите повиквания</string>
+  <string name="incoming_circle_text_answer">Loosen answer</string>
+  <string name="incoming_circle_text_answer_p">Answering slide</string>
+  <string name="incoming_circle_text_message">Loosen SMS reply</string>
+  <string name="incoming_circle_text_message_p">SMS reply slide</string>
+  <string name="incoming_circle_text_reject">Loosen reject</string>
+  <string name="incoming_circle_text_reject_p">Rejecting slide</string>
   <string name="incoming_via_template">Входящо обаждане чрез %s</string>
   <string name="international_disable">Международните новини са деактивирани</string>
   <string name="international_enable">Международните новини са активирани</string>
@@ -498,7 +508,9 @@
   <string name="onscreen_hold_text">Задържане</string>
   <string name="onscreen_manage_calls_text">Управление на разговори</string>
   <string name="onscreen_merge_calls_text">Обединяване на обаждания</string>
+  <string name="onscreen_mi_support_calls_text">MiSupport</string>
   <string name="onscreen_mute_text">Заглушаване</string>
+  <string name="onscreen_note_calls_text">Note</string>
   <string name="onscreen_note_text">Бележка</string>
   <string name="onscreen_rcs_text">Съобщения</string>
   <string name="onscreen_send_flash_text">Светкавица</string>
@@ -507,7 +519,7 @@
   <string name="onscreen_switch_camera">Превключване на камера.</string>
   <string name="onscreen_tools_off">Инструменти</string>
   <string name="onscreen_tools_on">Инструменти</string>
-  <string name="optional_summary">&lt;По избор></string>
+  <string name="optional_summary">&lt;По избор&gt;</string>
   <string name="ota_activate">Активиране</string>
   <string name="ota_call_end">Назад</string>
   <string name="ota_failure">Програмирането не бе успешно</string>
@@ -639,7 +651,9 @@
   <string name="search_networks">Търсене на мрежи</string>
   <string name="selectContact">избиране на контакта</string>
   <string name="select_account_dialog_title">Избор на профил</string>
+  <string name="select_audio_dialog_title">Please select answering mode</string>
   <string name="select_automatically">Да се избира автоматично</string>
+  <string name="select_one_sim_title">Can only use SIM %1$d</string>
   <string name="select_sim_hint">"Не може да използвате SIM %2$d, докато SIM %1$d е в употреба."</string>
   <string name="select_voice_call_sim">Изберете SIM карта</string>
   <string name="send_button">Изпращане</string>
@@ -724,6 +738,7 @@
   <string name="throttle_time_frame">Период за използване на данни</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ от периода изтече.
 Следващият период започва след %2$d дни (%3$s)"</string>
+  <string name="time_left_livetalk">(%ds)</string>
   <string name="transport_title">Тип транспорт</string>
   <string name="tty_mode_option_summary">Задаване на TTY режим</string>
   <string name="tty_mode_option_title">TTY режим</string>
@@ -751,7 +766,7 @@
   <string name="voicemail_notification_ringtone_title">Мелодия</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Вибриране</string>
   <string name="voicemail_notification_vibrate_when_title">Вибриране</string>
-  <string name="voicemail_number_not_set">&lt;не е зададен></string>
+  <string name="voicemail_number_not_set">&lt;не е зададен&gt;</string>
   <string name="voicemail_provider">Услуга за гласова поща</string>
   <string name="voicemail_settings">Настройки на гл.поща</string>
   <string name="voicemail_settings_number_label">Номер на гласова поща</string>
@@ -761,19 +776,4 @@
 "</string>
   <string name="waiting_close_airplane_mode">Изчаква изключване на самолетен режим ...</string>
   <string name="wild_prompt_str">Замяна на заместващия символ с:</string>
-  <string name="antispam_local_marked">Local marked</string>
-  <string name="call_button_dialer_text">Keyboard</string>
-  <string name="call_button_tools_text">Feature</string>
-  <string name="can_not_use">"Can't use"</string>
-  <string name="incoming_circle_text_answer">Loosen answer</string>
-  <string name="incoming_circle_text_answer_p">Answering slide</string>
-  <string name="incoming_circle_text_message">Loosen SMS reply</string>
-  <string name="incoming_circle_text_message_p">SMS reply slide</string>
-  <string name="incoming_circle_text_reject">Loosen reject</string>
-  <string name="incoming_circle_text_reject_p">Rejecting slide</string>
-  <string name="onscreen_mi_support_calls_text">MiSupport</string>
-  <string name="onscreen_note_calls_text">Note</string>
-  <string name="select_audio_dialog_title">Please select answering mode</string>
-  <string name="select_one_sim_title">Can only use SIM %1$d</string>
-  <string name="time_left_livetalk">(%ds)</string>
 </resources>

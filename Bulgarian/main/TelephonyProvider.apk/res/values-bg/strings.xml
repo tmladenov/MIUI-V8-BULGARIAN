@@ -1,5 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Хранилище на телефон/съобщения</string>
   <string name="mms_provider_label">MMS</string>

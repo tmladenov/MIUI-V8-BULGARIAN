@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">Резервното копие не е завършено! Да спре ли въпреки това?</string>
   <string name="account_contact_backup_info">Google профил, Mi профил и данни от Контакти</string>
@@ -253,7 +253,7 @@
   <string name="trans_calculating_base_size">Изчислен размер на данни</string>
   <string name="trans_cancel_confirm">Протича трансфер, да се отмени ли сега?</string>
   <string name="trans_cancelling">Отменя се</string>
-  <string name="trans_connect_failed_message">"Неуспешно свързване, опитайте отново или рестартирайте устройството. На другото устройство отидете в Настройки > Допълнителни настройки > Експорт към ново устройство и чукнете [Аз съм изпращач], или стартирайте Mi Mover отново след рестарта."</string>
+  <string name="trans_connect_failed_message">"Неуспешно свързване, опитайте отново или рестартирайте устройството. На другото устройство отидете в Настройки &gt; Допълнителни настройки &gt; Експорт към ново устройство и чукнете [Аз съм изпращач], или стартирайте Mi Mover отново след рестарта."</string>
   <string name="trans_connect_failed_title">"Неуспешно свързване"</string>
   <string name="trans_connect_failed_toast">Ме може да се свърже</string>
   <string name="trans_connecting_toast">Установява се връзка…</string>

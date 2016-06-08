@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">Желаете ли да изтриете избрания звукозапис?</string>
   <string name="alert_message_delete_record_title">Изтриване на записа</string>
@@ -83,7 +83,7 @@
   <string name="record_list_fm">FM Записи</string>
   <string name="record_mark_point">%sмарка</string>
   <string name="record_name_hour">.</string>
-  <string name="record_name_minute" />
+  <string name="record_name_minute"/>
   <string name="record_quliaty_preference_title">Качество на записа</string>
   <string name="recording">Записване...</string>
   <string name="recording_quality_high">High quality</string>

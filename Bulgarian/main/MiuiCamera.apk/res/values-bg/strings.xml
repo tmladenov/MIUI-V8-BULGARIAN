@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Импорт</string>
   <string name="access_sd_fail">Няма достъп до USB хранилището.</string>
@@ -10,9 +10,11 @@
   <string name="accessibility_camera_picker">Превключване между предна и задна камера</string>
   <string name="accessibility_close_more_ptions">По-малко опции</string>
   <string name="accessibility_countdown">Count Down button</string>
+  <string name="accessibility_effect_mode_button">Effect button</string>
   <string name="accessibility_ev_control">Контрол на експонирането</string>
   <string name="accessibility_flash_mode_button">Светкавица</string>
   <string name="accessibility_hdr">HDR-превключване</string>
+  <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
   <string name="accessibility_more_ptions_closed">Доп. опции са изключени</string>
   <string name="accessibility_more_ptions_opened">Доп. опции са включени</string>
   <string name="accessibility_open_more_ptions">Повече опции</string>
@@ -38,6 +40,8 @@
   <string name="camera_disabled">Камерата беше деактивирана.</string>
   <string name="camera_error_title">Грешка на камерата</string>
   <string name="camera_label">Камера</string>
+  <string name="camera_mode_options">Modes</string>
+  <string name="camera_setting">Camera Settings</string>
   <string name="camera_settings_label">Камера</string>
   <string name="camera_snap_mode_title">Бързо снимане</string>
   <string name="camera_snap_mode_title_detail">Чукнете за подробности</string>
@@ -228,12 +232,24 @@
   <string name="pref_camera_autoexposure_entry_frameaverage">Средно по кадри</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Точка</string>
   <string name="pref_camera_autoexposure_title">Изберете режим на експониране</string>
+  <string name="pref_camera_beautify_entry_auto">Off</string>
+  <string name="pref_camera_beautify_entry_high">High</string>
+  <string name="pref_camera_beautify_entry_low">Low</string>
+  <string name="pref_camera_beautify_entry_normal">Medium</string>
   <string name="pref_camera_coloreffect_entry_aqua">Вода</string>
+  <string name="pref_camera_coloreffect_entry_big_face">Spread</string>
+  <string name="pref_camera_coloreffect_entry_blackwhite">B&amp;W</string>
   <string name="pref_camera_coloreffect_entry_brannan">Зора</string>
   <string name="pref_camera_coloreffect_entry_earlybird">Есен</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Рибешко око</string>
   <string name="pref_camera_coloreffect_entry_gaussianblur">Замъглено</string>
+  <string name="pref_camera_coloreffect_entry_instagram_clarendon">Color pop</string>
+  <string name="pref_camera_coloreffect_entry_instagram_crema">Rustic</string>
+  <string name="pref_camera_coloreffect_entry_instagram_hudson">Icy</string>
+  <string name="pref_camera_coloreffect_entry_instagram_rise">Lomo</string>
   <string name="pref_camera_coloreffect_entry_jstyle">Япония</string>
+  <string name="pref_camera_coloreffect_entry_light_tunnel">Tunnel</string>
+  <string name="pref_camera_coloreffect_entry_long_face">Stretch</string>
   <string name="pref_camera_coloreffect_entry_mirror">Огледало</string>
   <string name="pref_camera_coloreffect_entry_mono">Моно</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Мозайка</string>
@@ -245,7 +261,10 @@
   <string name="pref_camera_coloreffect_entry_sepia">Сепия</string>
   <string name="pref_camera_coloreffect_entry_seventy">1970</string>
   <string name="pref_camera_coloreffect_entry_sketch">Скица</string>
+  <string name="pref_camera_coloreffect_entry_small_face">Squeeze</string>
   <string name="pref_camera_coloreffect_entry_vivid">Живо</string>
+  <string name="pref_camera_coloreffect_entry_vsco_a4">Analog</string>
+  <string name="pref_camera_coloreffect_entry_vsco_f2">Matte</string>
   <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
   <string name="pref_camera_coloreffect_entry_yesteryear">Винтидж</string>
   <string name="pref_camera_coloreffect_title">Филтри</string>
@@ -431,6 +450,10 @@
   <string name="pref_camera_sound_entry_off">Изкл.</string>
   <string name="pref_camera_sound_entry_on">Вкл.</string>
   <string name="pref_camera_sound_title">Звук на камерата</string>
+  <string name="pref_camera_square_mode_title">Square</string>
+  <string name="pref_camera_tilt_shift_default">Circle</string>
+  <string name="pref_camera_tilt_shift_entry_circle">Circle</string>
+  <string name="pref_camera_tilt_shift_entry_parallel">Parallel</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_entry_off">Изкл.</string>
   <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
@@ -479,6 +502,11 @@
   <string name="pref_settings_mode">Режим на камерата</string>
   <string name="pref_simple_hdr_entry_off">Изключен</string>
   <string name="pref_simple_hdr_entry_on">Включен</string>
+  <string name="pref_skin_beautify_color_title">Color</string>
+  <string name="pref_skin_beautify_eye_title">Eyes</string>
+  <string name="pref_skin_beautify_intelligent_title">Intelligent</string>
+  <string name="pref_skin_beautify_slim_title">Slim</string>
+  <string name="pref_skin_beautify_smooth_title">Smooth</string>
   <string name="pref_video_captrue_ability_title">Снимка по време на запис</string>
   <string name="pref_video_focusmode_entry_auto">Докосване</string>
   <string name="pref_video_focusmode_entry_continuous">Продължителен</string>
@@ -564,6 +592,7 @@
   <string name="simple_mode_button_text_panorama">Спри панорама</string>
   <string name="simple_mode_button_text_scene">Спри сценичен режим</string>
   <string name="simple_mode_button_text_slow_video">Спри бавно видео</string>
+  <string name="simple_mode_button_text_square">Turn off Square</string>
   <string name="simple_mode_button_text_tilt_shift">Изключи Tilt-shift</string>
   <string name="simple_mode_button_text_ubifocus">Изход от режим Дофокусиране</string>
   <string name="simple_mode_title">Обикновен режим</string>
@@ -572,6 +601,8 @@
   <string name="snapshot_qcif_and_d1">Само размера на видео снимка поддържа тази резолюция.</string>
   <string name="snapshotsize_low_powermode">В икономичен режим не се поддържа промяна на резолюцията. Ще бъде използвана резолюцията за видео снимка. Моля, изберете по-висок режим на енергопотребление, за да промените резолюцията на снимката.</string>
   <string name="spaceIsLow_content">Мястото във Вашата USB памет привършва. Променете настройките за качество или изтрийте някои снимки и други файлове.</string>
+  <string name="spaceIsLow_content_external_storage_priority">SD card is running out of space</string>
+  <string name="spaceIsLow_content_primary_storage_priority">USB storage is running out of space</string>
   <string name="start_capture">ОК</string>
   <string name="success_message_import_from_account">Импортирането е успешно</string>
   <string name="tags">Тагове</string>
@@ -618,35 +649,4 @@
   <string name="wifi_security">Сигурност:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Преди да се свържете, убедете се в безопасността на Wi-Fi мрежата</string>
-  <string name="accessibility_effect_mode_button">Effect button</string>
-  <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
-  <string name="camera_mode_options">Modes</string>
-  <string name="camera_setting">Camera Settings</string>
-  <string name="pref_camera_beautify_entry_auto">Off</string>
-  <string name="pref_camera_beautify_entry_high">High</string>
-  <string name="pref_camera_beautify_entry_low">Low</string>
-  <string name="pref_camera_beautify_entry_normal">Medium</string>
-  <string name="pref_camera_coloreffect_entry_big_face">Spread</string>
-  <string name="pref_camera_coloreffect_entry_blackwhite">B&amp;W</string>
-  <string name="pref_camera_coloreffect_entry_instagram_clarendon">Color pop</string>
-  <string name="pref_camera_coloreffect_entry_instagram_crema">Rustic</string>
-  <string name="pref_camera_coloreffect_entry_instagram_hudson">Icy</string>
-  <string name="pref_camera_coloreffect_entry_instagram_rise">Lomo</string>
-  <string name="pref_camera_coloreffect_entry_light_tunnel">Tunnel</string>
-  <string name="pref_camera_coloreffect_entry_long_face">Stretch</string>
-  <string name="pref_camera_coloreffect_entry_small_face">Squeeze</string>
-  <string name="pref_camera_coloreffect_entry_vsco_a4">Analog</string>
-  <string name="pref_camera_coloreffect_entry_vsco_f2">Matte</string>
-  <string name="pref_camera_square_mode_title">Square</string>
-  <string name="pref_camera_tilt_shift_default">Circle</string>
-  <string name="pref_camera_tilt_shift_entry_circle">Circle</string>
-  <string name="pref_camera_tilt_shift_entry_parallel">Parallel</string>
-  <string name="pref_skin_beautify_color_title">Color</string>
-  <string name="pref_skin_beautify_eye_title">Eyes</string>
-  <string name="pref_skin_beautify_intelligent_title">Intelligent</string>
-  <string name="pref_skin_beautify_slim_title">Slim</string>
-  <string name="pref_skin_beautify_smooth_title">Smooth</string>
-  <string name="simple_mode_button_text_square">Turn off Square</string>
-  <string name="spaceIsLow_content_external_storage_priority">SD card is running out of space</string>
-  <string name="spaceIsLow_content_primary_storage_priority">USB storage is running out of space</string>
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="BaMmi">Забрана за повиквания</string>
   <string name="CLIRDefaultOffNextCallOff">Стандартната идентификация на повикванията е „разрешено“. За следващото обаждане тя е разрешена.</string>
@@ -60,7 +60,7 @@
   <string name="add_account_label">Добавяне на профил</string>
   <string name="aerr_application">За съжаление %1$s спря.</string>
   <string name="aerr_process">За съжаление процесът %1$s спря.</string>
-  <string name="aerr_title" />
+  <string name="aerr_title"/>
   <string name="allow">Разрешаване</string>
   <string name="alwaysUse">Използване по подразбиране за това действие.</string>
   <string name="android_preparing_apk">%1$s се подготвя.</string>
@@ -81,7 +81,7 @@
   <string name="anr_process">"Процесът „%1$s“ не отговаря.
 
 Искате ли да го затворите?"</string>
-  <string name="anr_title" />
+  <string name="anr_title"/>
   <string name="app_not_found">Няма намерено приложение за извършване на това действие</string>
   <string name="app_running_notification_text">Докоснете за още информация или за да спрете приложението.</string>
   <string name="app_running_notification_title">%1$s се изпълнява</string>
@@ -111,7 +111,7 @@
   <string name="bugreport_title">Получаване на сигнал за програмна грешка</string>
   <string name="byteShort">Б</string>
   <string name="cancel">Отказ</string>
-  <string name="candidates_style"><u>кандидати</u></string>
+  <string name="candidates_style">&lt;u&gt;&amp;#1082;&amp;#1072;&amp;#1085;&amp;#1076;&amp;#1080;&amp;#1076;&amp;#1072;&amp;#1090;&amp;#1080;&lt;/u&gt;</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Скриптовете може да бъдат инсталирани, за да направят съдържанието от приложенията по-достъпно.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Включва лични данни, като например номера на кредитни карти и пароли.</string>
   <string name="capability_desc_canRequestTouchExploration">Докосваните елементи ще бъдат изговаряни на глас и екранът може да бъде изследван посредством жестове.</string>
@@ -133,12 +133,12 @@
   <string name="chooseUsbActivity">Избор на приложение за USB устройството</string>
   <string name="choose_account_label">Избор на профил</string>
   <string name="chooser_wallpaper">Промяна на тапета</string>
-  <string name="clearDefaultHintMsg">Изчистване на стандартната настройка в „Системни настройки“ > „Приложения“ > „Изтеглени“.</string>
-  <string name="common_last_name_prefixes" />
+  <string name="clearDefaultHintMsg">Изчистване на стандартната настройка в „Системни настройки“ &gt; „Приложения“ &gt; „Изтеглени“.</string>
+  <string name="common_last_name_prefixes"/>
   <string name="common_name">Общо име:</string>
-  <string name="common_name_conjunctions" />
-  <string name="common_name_prefixes" />
-  <string name="common_name_suffixes" />
+  <string name="common_name_conjunctions"/>
+  <string name="common_name_prefixes"/>
+  <string name="common_name_suffixes"/>
   <string name="condition_provider_service_binding_label">Доставчик на условия</string>
   <string name="configure_input_methods">Методи на въвеждане: Настройка</string>
   <string name="contentServiceSync">Синхронизиране</string>
@@ -343,7 +343,7 @@
   <string name="granularity_label_line">ред</string>
   <string name="granularity_label_link">връзка</string>
   <string name="granularity_label_word">дума</string>
-  <string name="gsm_alphabet_default_charset" />
+  <string name="gsm_alphabet_default_charset"/>
   <string name="hardware">Хардуер</string>
   <string name="heavy_weight_notification">%1$s се изпълнява</string>
   <string name="heavy_weight_notification_detail">Докоснете за превключване към приложение</string>
@@ -448,7 +448,7 @@
   <string name="keyguard_password_enter_pin_prompt">Нов ПИН код</string>
   <string name="keyguard_password_enter_puk_code">Въведете PUK и новия ПИН код</string>
   <string name="keyguard_password_enter_puk_prompt">PUK код</string>
-  <string name="keyguard_password_entry_touch_hint"><font size="17">Докоснете и въведете парола</font></string>
+  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;&amp;#1044;&amp;#1086;&amp;#1082;&amp;#1086;&amp;#1089;&amp;#1085;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1080; &amp;#1074;&amp;#1098;&amp;#1074;&amp;#1077;&amp;#1076;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1072;&amp;#1088;&amp;#1086;&amp;#1083;&amp;#1072;&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Неправилен ПИН код.</string>
   <string name="kg_enter_confirm_pin_hint">Потвърдете желания ПИН код</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Начертахте неправилно фигурата си за отключване %d пъти. След още %d неуспешни опита ще бъдете помолени да отключите телефона посредством имейл адрес.
@@ -462,7 +462,7 @@
   <string name="kg_invalid_sim_pin_hint">Въведете ПИН код с четири до осем цифри.</string>
   <string name="kg_invalid_sim_puk_hint">PUK кодът трябва да е с 8 или повече цифри.</string>
   <string name="kg_login_account_recovery_hint">""Забравили сте потребителското име или паролата си?
-Посетете "<b>google.com/accounts/recovery</b>."</string>
+Посетете "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
   <string name="kg_login_checking_password">Профилът се проверява…</string>
   <string name="kg_login_instructions">За да отключите, влезте с профила си в Google.</string>
   <string name="kg_login_invalid_input">Невалидно потребителско име или парола.</string>
@@ -501,8 +501,8 @@
   <string name="launch_warning_title">Приложението се пренасочи</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Зарежда се...</string>
-  <string name="locale_codes" />
-  <string name="locale_replacement" />
+  <string name="locale_codes"/>
+  <string name="locale_replacement"/>
   <string name="lock_pattern_view_aspect">square</string>
   <string name="lock_to_app_description">"Фиксирането на екрана заключва дисплея в един изглед.
 
@@ -533,7 +533,7 @@
   <string name="lockscreen_failed_attempts_now_wiping">Направихте опит да отключите телефона неправилно %d пъти. Сега ще бъдат възстановени стандартните му фабрични настройки.</string>
   <string name="lockscreen_forgot_pattern_button_text">Забравили сте фигурата?</string>
   <string name="lockscreen_glogin_account_recovery_hint">""Забравили сте потребителското си име или парола?
-Посетете "<b>google.com/accounts/recovery</b>."</string>
+Посетете "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
   <string name="lockscreen_glogin_checking_password">Проверява се...</string>
   <string name="lockscreen_glogin_forgot_pattern">Отключване на профила</string>
   <string name="lockscreen_glogin_instructions">За да отключите, влезте с профила си в Google.</string>
@@ -696,8 +696,8 @@
   <string name="mmiComplete">MMI кодът се изпълни.</string>
   <string name="mmiError">Има проблем с връзката или MMI кодът е невалиден.</string>
   <string name="mmiFdnError">Операцията е ограничена само до фиксираните номера за набиране.</string>
-  <string name="mobile_provisioning_apn" />
-  <string name="mobile_provisioning_url" />
+  <string name="mobile_provisioning_apn"/>
+  <string name="mobile_provisioning_url"/>
   <string name="month_day_year" formatted="false">%d %B %Y</string>
   <string name="more_item_label">Още</string>
   <string name="muted_by">Заглушено от %1$s</string>
@@ -729,8 +729,8 @@
   <string name="older">По-стари</string>
   <string name="oneMonthDurationPast">Преди 1 месец</string>
   <string name="open_permission_deny">Нямате разрешение да отворите тази страница.</string>
-  <string name="operator_config_url" />
-  <string name="operator_ping_url" />
+  <string name="operator_config_url"/>
+  <string name="operator_ping_url"/>
   <string name="orgTypeCustom">По избор</string>
   <string name="orgTypeOther">Друго</string>
   <string name="orgTypeWork">Работа</string>
@@ -973,7 +973,7 @@
   <string name="permlab_writeSettings">промяна на системните настройки</string>
   <string name="permlab_writeSyncSettings">включване и изключване на синхронизирането</string>
   <string name="perms_description_app">Предоставено от %1$s.</string>
-  <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">НОВО: </font></string>
+  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;&amp;#1053;&amp;#1054;&amp;#1042;&amp;#1054;: &lt;/font&gt;</string>
   <string name="petabyteShort">ПБ</string>
   <string name="phoneTypeAssistant">Асистент</string>
   <string name="phoneTypeCallback">Обратно обаждане</string>
@@ -1103,7 +1103,7 @@
   <string name="save_password_never">Никога</string>
   <string name="save_password_notnow">Не сега</string>
   <string name="save_password_remember">Запомняне</string>
-  <string name="screen_compat_mode_hint">Активирайте отново това в „Системни настройки“ > „Приложения“ > „Изтеглени“.</string>
+  <string name="screen_compat_mode_hint">Активирайте отново това в „Системни настройки“ &gt; „Приложения“ &gt; „Изтеглени“.</string>
   <string name="screen_compat_mode_scale">Мащаб</string>
   <string name="screen_compat_mode_show">Винаги да се показва</string>
   <string name="screen_lock">Заключване на екрана</string>
@@ -1169,19 +1169,19 @@
   <string name="sipAddressTypeOther">Друг</string>
   <string name="sipAddressTypeWork">Служебен</string>
   <string name="skip_button_label">Пропускане</string>
-  <string name="sms_control_message">&lt;b>%1$s&lt;/b> изпраща голям брой SMS съобщения. Искате ли да разрешите на това приложение да продължи да го прави?</string>
+  <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; изпраща голям брой SMS съобщения. Искате ли да разрешите на това приложение да продължи да го прави?</string>
   <string name="sms_control_no">Отказване</string>
   <string name="sms_control_title">Изпращане на SMS съобщения</string>
   <string name="sms_control_yes">Разрешаване</string>
-  <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Това ще доведе до таксуване на мобилната ви сметка.</font></string>
+  <string name="sms_premium_short_code_details">&lt;font fgcolor="#ffffb060"&gt;&amp;#1058;&amp;#1086;&amp;#1074;&amp;#1072; &amp;#1097;&amp;#1077; &amp;#1076;&amp;#1086;&amp;#1074;&amp;#1077;&amp;#1076;&amp;#1077; &amp;#1076;&amp;#1086; &amp;#1090;&amp;#1072;&amp;#1082;&amp;#1089;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1085;&amp;#1077; &amp;#1085;&amp;#1072; &amp;#1084;&amp;#1086;&amp;#1073;&amp;#1080;&amp;#1083;&amp;#1085;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1074;&amp;#1080; &amp;#1089;&amp;#1084;&amp;#1077;&amp;#1090;&amp;#1082;&amp;#1072;.&lt;/font&gt;</string>
   <string name="sms_short_code_confirm_allow">Изпращане</string>
   <string name="sms_short_code_confirm_always_allow">Винаги да се разрешава</string>
   <string name="sms_short_code_confirm_deny">Отказ</string>
-  <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> иска да изпрати съобщение до &lt;b>%2$s&lt;/b>.</string>
+  <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; иска да изпрати съобщение до &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">Никога да не се разрешава</string>
-  <string name="sms_short_code_details">Това <font fgcolor="#ffffb060">може да доведе до таксуване</font> на мобилната ви сметка.</string>
+  <string name="sms_short_code_details">Това &lt;font fgcolor="#ffffb060"&gt;&amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1076;&amp;#1086;&amp;#1074;&amp;#1077;&amp;#1076;&amp;#1077; &amp;#1076;&amp;#1086; &amp;#1090;&amp;#1072;&amp;#1082;&amp;#1089;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1085;&amp;#1077;&lt;/font&gt; &amp;#1085;&amp;#1072; &amp;#1084;&amp;#1086;&amp;#1073;&amp;#1080;&amp;#1083;&amp;#1085;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1074;&amp;#1080; &amp;#1089;&amp;#1084;&amp;#1077;&amp;#1090;&amp;#1082;&amp;#1072;.</string>
   <string name="sms_short_code_remember_choice">Изборът ми да се запомни</string>
-  <string name="sms_short_code_remember_undo_instruction">Можете да промените това по-късно в „Настройки“ > „Приложения“</string>
+  <string name="sms_short_code_remember_undo_instruction">Можете да промените това по-късно в „Настройки“ &gt; „Приложения“</string>
   <string name="smv_application">Приложението „%1$s“ (процес „%2$s“) наруши правилото за стриктен режим, наложено от самото него.</string>
   <string name="smv_process">Процесът %1$s наруши правилото за стриктен режим, наложено от самия него.</string>
   <string name="ssl_ca_cert_noti_by_administrator">От администратора на служебния ви потребителски профил</string>
@@ -1233,7 +1233,7 @@
   <string name="turn_on_radio">Включване на радиото</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Докоснете двукратно за управление на промяната на мащаба</string>
   <string name="unknownName">(Неизвестно)</string>
-  <string name="untitled">&lt;Без заглавие></string>
+  <string name="untitled">&lt;Без заглавие&gt;</string>
   <string name="upload_file">Избор на файл</string>
   <string name="usb_accessory_notification_title">Установена е връзка с аксесоар за USB</string>
   <string name="usb_cd_installer_notification_title">Свързан като инсталационна програма</string>
@@ -1309,8 +1309,8 @@
   <string name="whichSendApplicationNamed">Споделяне чрез %1$s</string>
   <string name="whichViewApplication">Отваряне чрез</string>
   <string name="whichViewApplicationNamed">Отваряне чрез %1$s</string>
-  <string name="widget_default_class_name" />
-  <string name="widget_default_package_name" />
+  <string name="widget_default_class_name"/>
+  <string name="widget_default_package_name"/>
   <string name="wifi_available_sign_in">Влизане в Wi-Fi мрежа</string>
   <string name="wifi_calling_off_summary">Изключено</string>
   <string name="wifi_connect_alert_message">Приложението %1$s иска да се свърже с Wi-Fi мрежата „%2$s“</string>

@@ -13,6 +13,8 @@
   <string name="name_alipay_payment_code">Плащане в Аliexpress</string>
   <string name="name_alipay_scan">Alipay скенер</string>
   <string name="name_kill_processes">Оптимизиране на паметта</string>
+  <string name="name_long_press_power_key">Дълго нат. на бутон Захр.</string>
+  <string name="name_memory_clean">Изчисти кеша</string>
   <string name="name_music_next_song">Следваща песен</string>
   <string name="name_music_prev_song">Предишна песен</string>
   <string name="name_music_toggle">Пусни/Пауза на песента</string>
@@ -34,6 +36,4 @@
   <string name="pref_category_system">Системни настройки</string>
   <string name="restore_default">Възстанови по подразбиране</string>
   <string name="restore_intro">Връщане към настройки по подразбиране, включително различни функции и други. Това няма да изтрие информация от вашия телефон.</string>
-  <string name="name_long_press_power_key">Дълго нат. на бутон Захр.</string>
-  <string name="name_memory_clean">Изчисти кеша</string>
 </resources>

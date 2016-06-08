@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_denied">Достъпът е отказан</string>
   <string name="account">Профил</string>
@@ -72,7 +72,7 @@
   <string name="error_unauthorized">Синхронизацията е изключена поради твърде много опити за влизане.</string>
   <string name="error_unknown">Неуспешно вписване</string>
   <string name="find_device">\"Открий устройството\" е включено</string>
-  <string name="find_device_disabled_notice">Тази функция може да се промени по всяко време от Mi Cloud > Настройки.</string>
+  <string name="find_device_disabled_notice">Тази функция може да се промени по всяко време от Mi Cloud &gt; Настройки.</string>
   <string name="find_device_disabled_title">\"Открий устройството\" е изключено</string>
   <string name="find_device_disabling">Изключва се…</string>
   <string name="find_device_dspt">Дистанционно заключване или изтриване на устройството.</string>
@@ -211,8 +211,8 @@
   <string name="micloud_find_device_opened_content">Открийте вашето устройство на %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
-  <string name="micloud_first_login_summary" />
-  <string name="micloud_first_login_title" />
+  <string name="micloud_first_login_summary"/>
+  <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Всички ваши снимки, видеоклипове, бележки и приложения ще бъдат архивирани в Mi Cloud профила ви. 
 
 Така, дори да изгубите или повредите устройство си, данните ви ще бъдат на сигурно място. 
@@ -319,7 +319,7 @@
   <string name="micloud_space_applist_title">Управление на приложения</string>
   <string name="micloud_space_duokan_detail">Manage your Duokan content in using the Duokan app.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
-  <string name="micloud_space_full_influence"><u>Какво става ако свърши мястото?</u></string>
+  <string name="micloud_space_full_influence">&lt;u&gt;&amp;#1050;&amp;#1072;&amp;#1082;&amp;#1074;&amp;#1086; &amp;#1089;&amp;#1090;&amp;#1072;&amp;#1074;&amp;#1072; &amp;#1072;&amp;#1082;&amp;#1086; &amp;#1089;&amp;#1074;&amp;#1098;&amp;#1088;&amp;#1096;&amp;#1080; &amp;#1084;&amp;#1103;&amp;#1089;&amp;#1090;&amp;#1086;&amp;#1090;&amp;#1086;?&lt;/u&gt;</string>
   <string name="micloud_space_soundrecorder_detail">Упр. на записите, съхранявани на устройството ви</string>
   <string name="micloud_space_soundrecorder_title">Записи</string>
   <string name="micloud_storage">Хранилище</string>
@@ -337,7 +337,7 @@
 Заето %s | Свободно %s"</string>
   <string name="micloud_title_dspt_remain">Остават: %s</string>
   <string name="micloud_title_full_dspt">Хранилището ви е пълно!</string>
-  <string name="micloud_unlogin_for_time_summary" />
+  <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Активирай Mi Cloud</string>
   <string name="micloud_upgrade_member">Вземете още място</string>
   <string name="micloud_upgrade_space">Добавяне на пространство</string>
@@ -481,5 +481,5 @@
   <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xmpp_server_addr" />
+  <string name="xmpp_server_addr"/>
 </resources>

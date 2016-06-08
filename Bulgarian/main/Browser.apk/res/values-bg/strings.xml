@@ -1,5 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="MIUI_startpage">Начална страница</string>
   <string name="abc_action_bar_home_description">"Придвижване към „Начало“"</string>
@@ -23,6 +22,9 @@
   <string name="account">Профил</string>
   <string name="account_prifix">Профил:</string>
   <string name="action">Вход</string>
+  <string name="action_menu_account_not_login">Не сте вписани</string>
+  <string name="action_menu_account_not_login_hint">Впишете се за синхронизиране с Mi Cloud</string>
+  <string name="action_menu_bookshelf">Bookshelf</string>
   <string name="action_menu_current_version">Текуща версия</string>
   <string name="action_menu_text_add_bookmark">Добави отметка</string>
   <string name="action_menu_text_bandwidth">Bandwidth</string>
@@ -45,6 +47,9 @@
   <string name="action_menu_text_share">Споделяне</string>
   <string name="action_menu_text_snapshot">Запази страницата</string>
   <string name="action_menu_text_video">Видео</string>
+  <string name="action_menu_toolbox">Инструменти</string>
+  <string name="action_menu_useful_page">Пряк път</string>
+  <string name="action_menu_useful_page_added">Добавено на началната страница</string>
   <string name="actionbar_share">Сподели</string>
   <string name="actionbar_web_search">Търсене</string>
   <string name="adblock_notification">блокирани %d реклами</string>
@@ -114,6 +119,8 @@
   <string name="block_ads_title">Възможно наличие на реклами</string>
   <string name="bookmark_add_group_text_header">Добавяне на избраните %1$d към групата</string>
   <string name="bookmark_add_to">Добави към</string>
+  <string name="bookmark_btn_select_all">Избери всички</string>
+  <string name="bookmark_btn_select_none">Размаркирай всички</string>
   <string name="bookmark_cannot_save_url">"Този адрес не може да бъде добавен към отметки."</string>
   <string name="bookmark_folder_needs_title">Въведете име на групата</string>
   <string name="bookmark_group_lable">Група</string>
@@ -159,7 +166,7 @@
   <string name="clip_dialog_title">Ще отворите ли копирания URL адрес?</string>
   <string name="close_ads_choice_no">Разреши</string>
   <string name="close_ads_choice_yes">Блокирай</string>
-  <string name="close_ads_message">Да се блокира ли съдържанието от този уебсайт? Блокираното съдържание може да видите в Настройки > Блокирани страници</string>
+  <string name="close_ads_message">Да се блокира ли съдържанието от този уебсайт? Блокираното съдържание може да видите в Настройки &gt; Блокирани страници</string>
   <string name="close_ads_title">Блокиране на съдържание?</string>
   <string name="close_all_tab_alert_message">Да се затворят ли всички отворени раздели в браузъра?</string>
   <string name="close_all_tab_alert_title">Затваряне на всички раздели</string>
@@ -186,6 +193,8 @@
   <string name="color_picker_hue">Оттенък</string>
   <string name="color_picker_saturation">Наситеност</string>
   <string name="color_picker_value">Стойност</string>
+  <string name="comment_app_menu">Коментар</string>
+  <string name="comment_menu">Коментар</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.bg</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_down_analytic_txt">Скрий</string>
@@ -226,8 +235,13 @@
   <string name="current_version_pad">Таблет</string>
   <string name="current_version_pc">Настолна</string>
   <string name="current_version_phone">Телефон</string>
+  <string name="custom_head_card_text">"Always believe that something wonderful
+is about to happen"</string>
+  <string name="custom_head_card_text_incognito">"You're incognito!
+Pages you view won't appear in history."</string>
   <string name="data_traffic_prompt_change">Гледането на видеоклипове чрез мобилни данни ще увеличи използваните от вас данни. Ако надвишите предплатения си обем от данни, оператора може да ви таксува допълнително.</string>
   <string name="data_traffic_prompt_message">Разглеждането на страници чрез мобилни данни ще увеличи използваните от вас данни. Ако надвишите предплатения си обем от данни, оператора може да ви таксува допълнително.</string>
+  <string name="data_traffic_prompt_message_short">Използването на мобилни данни за стриймване на видео може да коства превишаване на лимита ви за данни.</string>
   <string name="data_traffic_prompt_title">Предупреждение за данни</string>
   <string name="date_picker_dialog_clear">Изчисти</string>
   <string name="date_picker_dialog_other_button_label">Друго</string>
@@ -348,8 +362,8 @@
   <string name="geolocation_permissions_prompt_message">%s иска данни за вашето местоположение</string>
   <string name="geolocation_permissions_prompt_remember">Запомни избора</string>
   <string name="geolocation_permissions_prompt_share">Споделяне на местоположение</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">Страницата има достъп до местоположението ви. Може да го забраните от Настройки > Разширени > Настройки на уеб страници.</string>
-  <string name="geolocation_permissions_prompt_toast_disallowed">Страницата няма достъп до местопожението ви. Може да го разрешите от Настройки > Разширени > Настройки на уеб страници.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">Страницата има достъп до местоположението ви. Може да го забраните от Настройки &gt; Разширени &gt; Настройки на уеб страници.</string>
+  <string name="geolocation_permissions_prompt_toast_disallowed">Страницата няма достъп до местопожението ви. Може да го разрешите от Настройки &gt; Разширени &gt; Настройки на уеб страници.</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Отмени</string>
   <string name="geolocation_settings_page_dialog_message">Ще отмените ли достъпа до местоположението Ви за тази страница?</string>
   <string name="geolocation_settings_page_dialog_ok_button">OK</string>
@@ -397,6 +411,7 @@
   <string name="loading_tips">Плъзнете надолу за опресняване</string>
   <string name="local_bookmarks">Mi</string>
   <string name="location">Адрес</string>
+  <string name="login_failed_toast">"Неуспешно вписване, опреснете и опитайте отново"</string>
   <string name="low_memory_error">Няма достатъчно памет за завършване на операцията</string>
   <string name="max_tabs_warning">Не могат да се отварят повече раздели</string>
   <string name="maximum_input_alert">Максимум въведете 2048 символа</string>
@@ -833,6 +848,8 @@
   <string name="select_dot">Избери текст</string>
   <string name="select_download_device">Изберете устройство</string>
   <string name="send_bookmark_to_home_screen">Създай пряк път на началните екрани</string>
+  <string name="send_comment_button">Изпрати</string>
+  <string name="send_comment_title">Коментар</string>
   <string name="send_to_popular">Популярни</string>
   <string name="set_as_homepage">Задай като начална страница</string>
   <string name="share_link">Сподели връзка</string>
@@ -975,6 +992,9 @@
   <string name="video_downloaded_group">Изтеглено</string>
   <string name="video_downloading_group">Изтегля се</string>
   <string name="video_edit">Редакция</string>
+  <string name="video_float_window">Изскачащ прозорец</string>
+  <string name="video_float_window_playing">Възпроизвеждане на видео</string>
+  <string name="video_float_window_text">Изскачащ прозорец</string>
   <string name="video_fragment_name_collections">Моите колекции</string>
   <string name="video_fragment_name_download">Офлайн видео</string>
   <string name="video_fragment_name_historys">История</string>
@@ -1051,25 +1071,4 @@
   <string name="webview_yesterday">Вчера</string>
   <string name="webviewchromium_private_browsing_warning">Функционалността не се поддържа в тази версия на Android.</string>
   <string name="week_picker_dialog_title">Задай седмица</string>
-  <string name="action_menu_account_not_login">Не сте вписани</string>
-  <string name="action_menu_account_not_login_hint">Впишете се за синхронизиране с Mi Cloud</string>
-  <string name="action_menu_bookshelf">Bookshelf</string>
-  <string name="action_menu_toolbox">Инструменти</string>
-  <string name="action_menu_useful_page">Пряк път</string>
-  <string name="action_menu_useful_page_added">Добавено на началната страница</string>
-  <string name="bookmark_btn_select_all">Избери всички</string>
-  <string name="bookmark_btn_select_none">Размаркирай всички</string>
-  <string name="comment_app_menu">Коментар</string>
-  <string name="comment_menu">Коментар</string>
-  <string name="custom_head_card_text">"Always believe that something wonderful
-is about to happen"</string>
-  <string name="custom_head_card_text_incognito">"You're incognito!
-Pages you view won't appear in history."</string>
-  <string name="data_traffic_prompt_message_short">Използването на мобилни данни за стриймване на видео може да коства превишаване на лимита ви за данни.</string>
-  <string name="login_failed_toast">"Неуспешно вписване, опреснете и опитайте отново"</string>
-  <string name="send_comment_button">Изпрати</string>
-  <string name="send_comment_title">Коментар</string>
-  <string name="video_float_window">Изскачащ прозорец</string>
-  <string name="video_float_window_playing">Възпроизвеждане на видео</string>
-  <string name="video_float_window_text">Изскачащ прозорец</string>
 </resources>
