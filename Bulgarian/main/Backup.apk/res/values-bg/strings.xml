@@ -72,7 +72,7 @@
   <string name="compute_delete_contact_info">Търсене на контакти за изтриване…</string>
   <string name="contact_title">Контакти</string>
   <string name="current_account">Здравейте %s</string>
-  <string name="current_pad_location">Pad</string>
+  <string name="current_pad_location">Таблет</string>
   <string name="current_phone_location">Телефон</string>
   <string name="current_sim">Текуща SIM карта</string>
   <string name="custom_progress">%d елементи</string>
@@ -338,14 +338,14 @@
   <string name="user_notice_message">Някои функции се нуждаят от интернет връзка, за да работят нормално.</string>
   <string name="user_notice_title">Внимание</string>
   <string name="wifi_title">Настройки на Wi-Fi</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_account_type">Вид акаунт</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">Неуспешно свързване на Мениджъра за изтегляния, проверете състоянието му от управление на приложения.</string>
   <string name="xiaomi_external_storage_unavailable">Хранилището не е на разположение, проверете SD картата.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
-  <string name="xiaomi_router_location">Mi Router %s</string>
+  <string name="xiaomi_router_location">Mi Рутер %s</string>
   <string name="xiaomi_update_dialog_message">"Представяме версия %1$s
 Размер: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Представяме версия %1$s
