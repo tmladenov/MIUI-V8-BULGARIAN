@@ -24,12 +24,12 @@
   <string name="action">Вход</string>
   <string name="action_menu_account_not_login">Не сте вписани</string>
   <string name="action_menu_account_not_login_hint">Впишете се за синхронизиране с Mi Cloud</string>
-  <string name="action_menu_bookshelf">Bookshelf</string>
+  <string name="action_menu_bookshelf">Лавица</string>
   <string name="action_menu_current_version">Текуща версия</string>
   <string name="action_menu_text_add_bookmark">Добави отметка</string>
-  <string name="action_menu_text_bandwidth">Bandwidth</string>
-  <string name="action_menu_text_bandwidth_off">Bandwidth/Изкл.</string>
-  <string name="action_menu_text_bandwidth_on">Bandwidth/Вкл.</string>
+  <string name="action_menu_text_bandwidth">Ограничение на Скорост</string>
+  <string name="action_menu_text_bandwidth_off">Ограничение/Изкл.</string>
+  <string name="action_menu_text_bandwidth_on">Ограничение/Вкл.</string>
   <string name="action_menu_text_bookmark">Добави отметка</string>
   <string name="action_menu_text_bookmark_added">Отметката е добавена</string>
   <string name="action_menu_text_copy_url">Копиране на URL</string>
@@ -235,10 +235,9 @@
   <string name="current_version_pad">Таблет</string>
   <string name="current_version_pc">Настолна</string>
   <string name="current_version_phone">Телефон</string>
-  <string name="custom_head_card_text">"Always believe that something wonderful
-is about to happen"</string>
-  <string name="custom_head_card_text_incognito">"You're incognito!
-Pages you view won't appear in history."</string>
+  <string name="custom_head_card_text">"Винаги вярвай, че най-доброто предстой"</string>
+  <string name="custom_head_card_text_incognito">"Вие сте инкогнито!
+Посетените страници няма да са видими в историята."</string>
   <string name="data_traffic_prompt_change">Гледането на видеоклипове чрез мобилни данни ще увеличи използваните от вас данни. Ако надвишите предплатения си обем от данни, оператора може да ви таксува допълнително.</string>
   <string name="data_traffic_prompt_message">Разглеждането на страници чрез мобилни данни ще увеличи използваните от вас данни. Ако надвишите предплатения си обем от данни, оператора може да ви таксува допълнително.</string>
   <string name="data_traffic_prompt_message_short">Използването на мобилни данни за стриймване на видео може да коства превишаване на лимита ви за данни.</string>
@@ -301,7 +300,7 @@ Pages you view won't appear in history."</string>
   <string name="download_no_sdcard_dlg_title">USB хранилището е недостъпно</string>
   <string name="download_pending">Започва изтегляне...</string>
   <string name="download_phone_tip">Телефон</string>
-  <string name="download_router_tip">Изтегляне в Mi Router</string>
+  <string name="download_router_tip">Изтегляне в Mi Рутер</string>
   <string name="download_sdcard_busy_dlg_msg">USB хранилище е заето. За да разрешите изтегляне, натиснете "Изключи USB хранилището" в лентата с известия.</string>
   <string name="download_sdcard_busy_dlg_title">USB хранилището е недостъпно</string>
   <string name="download_status_failed">"Не може да се изтегли"</string>
@@ -384,7 +383,7 @@ Pages you view won't appear in history."</string>
   <string name="homepage_more_sites">Още страници</string>
   <string name="homepage_search_hint">Търсене</string>
   <string name="homepage_set">Началната страница е запазена.</string>
-  <string name="homepage_top_card_menu">Top</string>
+  <string name="homepage_top_card_menu">Топ</string>
   <string name="http">http://</string>
   <string name="in_incognito">Активен е режим Инкогнито, при който не се записва история на сърфирането.</string>
   <string name="in_secureaccess">Браузърът е в безопасен режим</string>
@@ -897,7 +896,7 @@ Pages you view won't appear in history."</string>
   <string name="sub_sync_item_browser_title_video_summary">"Синхронизиране на списъка с последно гледаните видеоклипове на вашите устройства"</string>
   <string name="sub_sync_item_browser_title_webapp">Синхр. на webapp</string>
   <string name="sub_sync_item_browser_title_webapp_summary">Синхронизиране на добавените webapps и любими</string>
-  <string name="suggest_access_appstore">Mi App Store</string>
+  <string name="suggest_access_appstore">Mi App Магазин</string>
   <string name="suggest_access_btn_install">Инсталиране</string>
   <string name="suggest_access_btn_open">Отваряне</string>
   <string name="suggest_access_btn_play">Пускане</string>
@@ -907,7 +906,7 @@ Pages you view won't appear in history."</string>
   <string name="suggest_access_item_app_update">Актуализация: %s</string>
   <string name="suggest_access_item_singer_albums">%d албума</string>
   <string name="suggest_access_item_singer_pop">%d популярни песни</string>
-  <string name="suggest_access_music">Mi Music</string>
+  <string name="suggest_access_music">Mi Музика</string>
   <string name="suggest_open_app_failed">Не може да се отвори приложението</string>
   <string name="switch_proxy_dialog_msg">"Засечена е атака върху мрежата. Използвайте вграденото в MIUI приложение Оптимизация или докладвайте за това на вашия мобилен оператор."</string>
   <string name="switch_proxy_dialog_title">Атака върху мрежата</string>
