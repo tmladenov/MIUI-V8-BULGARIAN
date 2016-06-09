@@ -51,11 +51,6 @@
         <item>След изход от приложението</item>
         <item>1 мин. след изход от прил.</item>
      </string-array>
-     <string-array name="lock_mode_value">
-        <item>1</item>
-        <item>0</item>
-        <item>2</item>
-     </string-array>
      <string-array name="mi_service_traffic_type">
         <item>"Мобилни данни "</item>
         <item>"Използване на Wi-Fi "</item>
@@ -103,11 +98,11 @@
         <item>"Изп. мобилни данни "</item>
         <item>"Изп. Wi-Fi "</item>
         <item>"Спестени данни "</item>
+        <item>Mi план за данни (Китай)</item>
      </string-array>
      <string-array name="traffic_type">
         <item>"Изп. мобилни данни "</item>
         <item>"Изп. Wi-Fi "</item>
         <item>"Спестени данни "</item>
-        <item>Mi план за данни (Китай)</item>
      </string-array>
 </resources>
