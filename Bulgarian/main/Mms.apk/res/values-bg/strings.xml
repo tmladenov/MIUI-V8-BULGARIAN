@@ -117,6 +117,7 @@
   <string name="copy_to_sdcard_fail">Файлът не е записан</string>
   <string name="copy_to_sdcard_success">Файлът е записан като %s</string>
   <string name="database_corruption">Базата данни е повредена, възстановяване</string>
+  <string name="del_private_contact">Премахни всички частни контакти</string>
   <string name="delete">Изтрий</string>
   <string name="delete_bookmark">Премахни от любими</string>
   <string name="delete_message">Изтрий</string>

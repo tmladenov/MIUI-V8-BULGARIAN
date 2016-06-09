@@ -38,6 +38,7 @@
   <string name="invalid_sim_pin_hint">PIN should contain 4 to 8 numbers</string>
   <string name="invalid_sim_puk_hint">PUK should be at least 8 numbers long</string>
   <string name="keyguard_torch_cover_text">За да остане фенерчето включено, натиснете бутон Захр.</string>
+  <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, dd MMMM</string>
   <string name="lock_screen_date_12">EE, dd MM</string>
   <string name="lockscreen_access_pattern_cell_added">Клетката е добавена</string>
@@ -69,8 +70,8 @@
   <string name="missed_call_text">%d пропуснати обаждания</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Отключено с Mi Band</string>
   <string name="miui_unlockscreen_password_wrong">Опитайте отново:</string>
-  <string name="open_camera_hint_text">Плъзнете наляво, за да отворите Камера</string>
-  <string name="open_remote_center_hint_text">Плъзнете надясно, за да отворите Телефон</string>
+  <string name="open_camera_hint_text">Плъзнете наляво, за да отворите %s</string>
+  <string name="open_remote_center_hint_text">Плъзнете надясно, за да отворите %s</string>
   <string name="open_wifi_settings">Настройки на мрежата</string>
   <string name="phone_locked_string">Устройството е заключено</string>
   <string name="phone_locked_timeout_minutes_string">Моля, върнете се след %s минути</string>
