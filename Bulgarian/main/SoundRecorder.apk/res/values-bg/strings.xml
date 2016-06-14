@@ -130,4 +130,11 @@
 Докоснете %s, за да започнете това изтегляне следващия път, когато сте свързан към Wi-Fi мрежа."</string>
   <string name="wifi_recommended_title">Предупреждение за трафик</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="recognition_error_download_cancel">Later</string>
+  <string name="recognition_error_download_fail">Download failed.Please check network setting</string>
+  <string name="recognition_error_download_msg">Need to download recognition engine to make service available.</string>
+  <string name="recognition_error_download_ok">Download</string>
+  <string name="recognition_error_download_title">Engine missed</string>
+  <string name="recognition_error_downloading">Downloading</string>
+  <string name="recognition_status_downloading">Downloading</string>
 </resources>

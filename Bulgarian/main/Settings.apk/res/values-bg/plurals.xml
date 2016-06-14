@@ -93,4 +93,12 @@
         <item quantity="other">Активиране на режима „Само будилници“ за %1$d минути (до %2$s)</item>
         <item quantity="one">Активиране на режима „Само будилници“ за една минута до %2$s</item>
      </plurals>
+     <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Никога не деактивирай за %d прил.</item>
+        <item quantity="one">Никога не деактивирай за 1 прил.</item>
+     </plurals>
+     <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Винаги деактивирай за %d прил.</item>
+        <item quantity="one">Винаги деактивирай за 1 прил.</item>
+     </plurals>
 </resources>

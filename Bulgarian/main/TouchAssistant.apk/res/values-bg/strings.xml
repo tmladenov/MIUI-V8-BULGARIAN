@@ -36,4 +36,7 @@
   <string name="pref_category_system">Системни настройки</string>
   <string name="restore_default">Възстанови по подразбиране</string>
   <string name="restore_intro">Връщане към настройки по подразбиране, включително различни функции и други. Това няма да изтрие информация от вашия телефон.</string>
+  <string name="close_panel">Затвори Тъч асистент</string>
+  <string name="open_panel">Отвори Тъч асистент</string>
+  <string name="show_on_keyguard">Показване на закл. екран</string>
 </resources>

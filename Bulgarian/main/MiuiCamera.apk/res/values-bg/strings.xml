@@ -649,4 +649,26 @@
   <string name="wifi_security">Сигурност:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Преди да се свържете, убедете се в безопасността на Wi-Fi мрежата</string>
+  <string name="accessibility_camera_module_picker">CameraModulePicker</string>
+  <string name="accessibility_seek_bar_line">SeekBarLine</string>
+  <string name="accessibility_stereo_button">Dual Camera Mode</string>
+  <string name="accessibility_video_capture_button">VideoCaptureButton</string>
+  <string name="accessibility_video_module_picker">VideoModulePicker</string>
+  <string name="accessibility_video_pause_button">VideoPauseButton</string>
+  <string name="dual_camera_lens_covered_toast">Lens covered.</string>
+  <string name="dual_camera_low_constract_toast">Low contract may affect Dual camera effects.</string>
+  <string name="dual_camera_lowlight_toast">Lowlight may affect Dual camera effects.</string>
+  <string name="dual_camera_too_close_toast">Too close to object for Dual camera effects.</string>
+  <string name="dual_camera_use_hint">Dual mode camera can shoot blur effect, the distance between camera and the subject should be less than two meters</string>
+  <string name="face_beauty_age_alias_0_7">0-7</string>
+  <string name="face_beauty_age_alias_18_30">18-30</string>
+  <string name="face_beauty_age_alias_31_44">31-44</string>
+  <string name="face_beauty_age_alias_45_60">45-60</string>
+  <string name="face_beauty_age_alias_60_m">60+</string>
+  <string name="face_beauty_age_alias_8_17">8-17</string>
+  <string name="pref_camera_antibanding_60">60hz</string>
+  <string name="pref_camera_delay_capture_entry_off">Off</string>
+  <string name="pref_camera_exposuretime_entry_500">1/500s</string>
+  <string name="pref_camera_stereo_mode_title">Stereo</string>
+  <string name="simple_mode_button_text_stereo_mode">Turn off Stereo Mode</string>
 </resources>

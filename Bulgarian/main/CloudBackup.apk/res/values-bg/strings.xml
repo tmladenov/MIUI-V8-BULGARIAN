@@ -119,4 +119,5 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="success_open_cloudbackup">Turned on backups for Home screen apps</string>
   <string name="wait_icon_download">Изтегляне на икони на приложения</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="account_error">Грешка в профила</string>
 </resources>

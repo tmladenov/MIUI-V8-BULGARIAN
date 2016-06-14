@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_airplane_mode">Самолетен режим</string>
   <string name="accessibility_back">Назад</string>
@@ -335,7 +335,7 @@ d MMMM"</string>
   <string name="vpn_text_long">Свързване към %s. Чукнете за подробности.</string>
   <string name="vpn_title">VPN е активно</string>
   <string name="vpn_title_long">Свързване към VPN чрез %s</string>
-  <string name="weather_description">%1$s &gt;</string>
+  <string name="weather_description">%1$s | %2$s &gt;</string>
   <string name="weather_description_no_aqi">%1$s &gt;</string>
   <string name="weather_publish_time">Актуализирано %1$s</string>
   <string name="wifi_connected_no_internet">Установена е връзка – няма достъп до интернет</string>

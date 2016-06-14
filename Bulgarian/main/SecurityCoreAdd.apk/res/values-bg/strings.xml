@@ -198,4 +198,15 @@ this feature will be added to Second space automatically."</string>
   <string name="xspace_uninstall_dialog_content">Uninstalling cloned app will remove all app data.</string>
   <string name="xspace_uninstall_dialog_title">Uninstall cloned app</string>
   <string name="xspace_uninstalling">Uninstalling…</string>
+  <string name="confirm_restore">"Don't show"</string>
+  <string name="contact_sub_titile_text">Messaging data will be shared between the two spaces</string>
+  <string name="contact_titile_text">"Show private messages in Second space
+to be able to view them anytime"</string>
+  <string name="private_sms_show_sub_title">Messaging data will be shared between the two spaces​</string>
+  <string name="private_sms_show_title">Private messages are shown in Second space</string>
+  <string name="restore_normal_show">"Don't show private messages"</string>
+  <string name="restore_show_desc">"Don't show private messages in Second space. They will still be available in First space."</string>
+  <string name="restore_show_toast">Not showing private messages</string>
+  <string name="show_private_msg">Show private messages</string>
+  <string name="show_private_msg_summary">Show private messages​ in Second space</string>
 </resources>

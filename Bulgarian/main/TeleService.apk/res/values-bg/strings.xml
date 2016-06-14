@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Result_title">Контакти в SIM картата</string>
   <string name="accessibility_settings_activity_title">Достъпност</string>
@@ -1279,7 +1279,8 @@
   <string name="uplmn_list_setting_add_plmn">Нов PLMN</string>
   <string name="uplmn_list_setting_title">Предпочитани мрежи</string>
   <string name="uplmn_numeric_is_empty">Въведете ID на мрежата</string>
-  <string name="use_current_account_creat_livetalk">Напред</string>
+  <string name="use_current_account_creat_livetalk">"You've sign in with this Mi Account: %1$s.
+Use it for Top-up package?"</string>
   <string name="use_current_account_creat_livetalk_info">You can use Top-up package access by Mi Account: %1$s</string>
   <string name="use_history">Активност</string>
   <string name="use_history_duration_min">%1$s mins</string>

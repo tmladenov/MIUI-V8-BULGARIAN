@@ -227,4 +227,18 @@
   <string name="try_again">Try again</string>
   <string name="warning_field_empty">Enter %1$s</string>
   <string name="warning_field_invalid">Select a valid %1$s</string>
+  <string name="bugreport_tool_log">Create bug report</string>
+  <string name="bugreport_tool_log_toast">Log saved to %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
+  <string name="michat_cant_join_artifical">网络出现异常，无法连接人工客服</string>
+  <string name="michat_failed_to_fetch_fql">无法获取“常见问题列表”，请检查网络设置</string>
+  <string name="michat_lose_artifical">网络出现异常，您将离开人工客服会话</string>
+  <string name="michat_message_join_again">很高兴继续为您服务</string>
+  <string name="michat_message_robot_welcome">"My name is Mi Bunny. I'm an online support robot."</string>
+  <string name="michat_queue_pos_update">您前面还有%1$d个人在排队，请稍等…</string>
+  <string name="modem_tool_log">Capture modem logs</string>
+  <string name="modem_tool_log_start">Start</string>
+  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_stop">Stop</string>
+  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
 </resources>

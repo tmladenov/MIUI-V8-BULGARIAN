@@ -365,4 +365,14 @@
   <string name="updated_nothing">Няма за обновяване</string>
   <string name="user_avatar_update_title">Промяна на профилната снимка</string>
   <string name="user_avatar_uploading">Качва се…</string>
+  <string name="alert_title_remove_account">Remove account?</string>
+  <string name="data_keep_in_device">Keep on this device</string>
+  <string name="data_wipe_from_device">Delete from this device</string>
+  <string name="delete_bank_card_failed">小米闪付删除银行卡失败，请重新再试</string>
+  <string name="passport_miui_provision_find_status_text">"This device is associated with existing Mi Account ID（%1$s）,you need to enter password to verify the device.
+(unlock number: %2$s)"</string>
+  <string name="remove_account_notice">What would you like to do with the messages, contacts, and other data that has been synced from your Mi Account?</string>
+  <string name="wipe_data_dialog_msg">%s will be deleted if you continue.</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>
 </resources>

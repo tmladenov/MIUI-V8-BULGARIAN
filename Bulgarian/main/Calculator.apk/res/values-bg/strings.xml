@@ -365,4 +365,5 @@
   <string name="unit_year_format">Year %s</string>
   <string name="unit_yuan">RMB</string>
   <string name="wf_word_figure">Financial characters</string>
+  <string name="rate_data_provider">Interest rate provide by HeXun</string>
 </resources>

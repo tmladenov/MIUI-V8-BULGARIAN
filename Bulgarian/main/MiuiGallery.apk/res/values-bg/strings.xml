@@ -746,4 +746,14 @@
   <string name="xiaomi_account_not_exists_toast">"Не съществува Mi профил"</string>
   <string name="yes">Да</string>
   <string name="you_are">"You're the baby's"</string>
+  <string name="add_to_share_album_not_delete">"Can't delete photo from Shared Album"</string>
+  <string name="photo_editor_saving">Saving</string>
+  <string name="video_editor_audio_young">Ukulele</string>
+  <string name="video_editor_down_load_later">Later</string>
+  <string name="video_editor_down_load_no_wifi_tips">You can only download with WIFI</string>
+  <string name="video_editor_down_load_now">Download</string>
+  <string name="video_editor_loading_plugin">Loading...</string>
+  <string name="video_editor_res_not_load_dialog_msg">To use this,you must download the rescource packages</string>
+  <string name="video_editor_res_not_load_dialog_title">Need download</string>
+  <string name="video_editor_template_family">Family</string>
 </resources>

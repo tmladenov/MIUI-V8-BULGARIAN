@@ -4346,4 +4346,21 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="zone_auto_summaryOn">Използване на часовата зона, предоставена от мрежата</string>
   <string name="zone_list_menu_sort_alphabetically">Сортиране по азбучен ред</string>
   <string name="zone_list_menu_sort_by_timezone">Сортиране по часова зона</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Местете вашия пръст постепенно</string>
+  <string name="auto_disable_screenbuttons_ask">Питай за деактивиране</string>
+  <string name="auto_disable_screenbuttons_auto">Винаги деактивирай</string>
+  <string name="auto_disable_screenbuttons_cancel">Отказ</string>
+  <string name="auto_disable_screenbuttons_no">Никога не деакт.</string>
+  <string name="auto_disable_screenbuttons_summary">Автоматично деактивирай бутоните за навигация, когато се използват избрани приложения. Двойно почукване на произволен бутон за навигация, за да се активират повторно.</string>
+  <string name="auto_disable_screenbuttons_title">Автоматично деактивиране на бутоните за навигация</string>
+  <string name="close_miui_optimization_title">Изкл. на MIUI оптимизация</string>
+  <string name="close_miui_optimization_warning_message">Устройството ви ще се рестартира, за да приложи промяната.</string>
+  <string name="miui_experience_optimization">Вкл. на MIUI оптимизация</string>
+  <string name="open_miui_optimization_title">Вкл. на MIUI оптимизация</string>
+  <string name="open_miui_optimization_warning_message">Устройството ви ще се рестартира, за да приложи промяната.</string>
+  <string name="optimization_cancel">Отказ</string>
+  <string name="optimization_close">Изкл. и рестарт</string>
+  <string name="optimization_open">Включване</string>
+  <string name="vpn_no_selected">Изберете VPN</string>
+  <string name="vpn_settings_summary">Защитава с парола настройките за VPN на закл. екран</string>
 </resources>

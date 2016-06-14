@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Подробности</string>
   <string name="account_container_title">От профила</string>
@@ -410,7 +410,7 @@
   <string name="eventTypeCustom">По избор</string>
   <string name="event_edit_field_hint_text">Дата</string>
   <string name="export_sim_contact_finish">Експортирането към SIM картата завърши</string>
-  <string name="export_sim_contact_finish_msg">Прехвърлени %1$d | Пропуснати %2$d | Остават %3$d</string>
+  <string name="export_sim_contact_finish_msg">Прехвърлени %1$d | Пропуснати %2$d | %3$d остават %4$s</string>
   <string name="export_to_sdcard">Експортиране в хранилището</string>
   <string name="export_to_sim">Експортиране в SIM карта</string>
   <string name="export_to_sim1">Експорт към SIM карта 1</string>
@@ -1187,4 +1187,6 @@
   <string name="yellowpage_search_the_yellowpage">Търсене в списъка</string>
   <string name="yellowpage_user_profile">Профил</string>
   <string name="zero_items_selected">Нищо не е избрано</string>
+  <string name="close_dial_pad_description">Затваряне на клавиатурата</string>
+  <string name="open_dial_pad_description">Отваряне на клавиатурата</string>
 </resources>
