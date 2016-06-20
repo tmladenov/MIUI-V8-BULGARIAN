@@ -338,7 +338,7 @@
   <string name="user_notice_message">Някои функции се нуждаят от интернет връзка, за да работят нормално.</string>
   <string name="user_notice_title">Внимание</string>
   <string name="wifi_title">Настройки на Wi-Fi</string>
-  <string name="xiaomi_account_type">Вид акаунт</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">Неуспешно свързване на Мениджъра за изтегляния, проверете състоянието му от управление на приложения.</string>
   <string name="xiaomi_external_storage_unavailable">Хранилището не е на разположение, проверете SD картата.</string>
