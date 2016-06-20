@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fileCount">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
+        <item quantity="other">%d елемента</item>
+        <item quantity="one">%d елемент</item>
     </plurals>
     <plurals name="first_space_notification_format">
-        <item quantity="other">%d notifications in First space</item>
-        <item quantity="one">%d notification in First space</item>
+        <item quantity="other">Първо пространство: %d известия</item>
+        <item quantity="one">Първо пространство: %d известие</item>
     </plurals>
     <plurals name="second_space_notification_format">
-        <item quantity="other">%d notifications in Second space</item>
-        <item quantity="one">%d notification in Second space</item>
+        <item quantity="other">Второ пространство: %d известия</item>
+        <item quantity="one">Второ пространство: %d известие</item>
     </plurals>
 </resources>

@@ -29,7 +29,7 @@
   <string name="alert_dialog_no">Не</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Да</string>
-  <string name="antispam_local_marked">Local marked</string>
+  <string name="antispam_local_marked">Локално маркирани</string>
   <string name="antispam_marked_count">Отклонени: %1$d</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Неизвестен</string>
@@ -74,8 +74,8 @@
   <string name="callFailed_unobtainable_number">Невалиден номер</string>
   <string name="callFailed_userBusy">Линията е заета</string>
   <string name="callUnanswered_forwarded">Повикването не е прието и е препратено</string>
-  <string name="call_button_dialer_text">Keyboard</string>
-  <string name="call_button_tools_text">Feature</string>
+  <string name="call_button_dialer_text">Клавиатура</string>
+  <string name="call_button_tools_text">Опции</string>
   <string name="call_contacts_deny_permission_msg">"Нямате права за получаване на информация за контакт, не може да се покаже информация.</string>
   <string name="call_description_recording">Запис на разговор…</string>
   <string name="call_extension_conference_mode">Конферентен режим</string>
@@ -101,7 +101,7 @@
   <string name="caller_manage_header">Конферентно обаждане %s</string>
   <string name="calling_via_template">Обаждане чрез %s</string>
   <string name="can_not_call_oneself">Не може да се извърши повикване.</string>
-  <string name="can_not_use">"Can't use"</string>
+  <string name="can_not_use">Не може да се използва</string>
   <string name="cancel">Отказ</string>
   <string name="cancel_call">Затвори</string>
   <string name="card_title_call_ended">"Обаждането завърши "</string>
@@ -322,12 +322,12 @@
   <string name="incall_status_dialed_mmi">Стартира се последователността MMI…</string>
   <string name="incoming_answer_voice_text">Гласово обаждане</string>
   <string name="incoming_call_forwarded_title">Прехвърляне на входящите повиквания</string>
-  <string name="incoming_circle_text_answer">Loosen answer</string>
-  <string name="incoming_circle_text_answer_p">Answering slide</string>
-  <string name="incoming_circle_text_message">Loosen SMS reply</string>
-  <string name="incoming_circle_text_message_p">SMS reply slide</string>
-  <string name="incoming_circle_text_reject">Loosen reject</string>
-  <string name="incoming_circle_text_reject_p">Rejecting slide</string>
+  <string name="incoming_circle_text_answer">Отпуснете за приемане</string>
+  <string name="incoming_circle_text_answer_p">Плъзнете за приемане</string>
+  <string name="incoming_circle_text_message">Отпуснете за SMS</string>
+  <string name="incoming_circle_text_message_p">Плъзнете за SMS</string>
+  <string name="incoming_circle_text_reject">Отпуснете за отхвърляне</string>
+  <string name="incoming_circle_text_reject_p">Плъзнете за отхвърляне</string>
   <string name="incoming_via_template">Входящо обаждане чрез %s</string>
   <string name="international_disable">Международните новини са деактивирани</string>
   <string name="international_enable">Международните новини са активирани</string>
@@ -508,9 +508,9 @@
   <string name="onscreen_hold_text">Задържане</string>
   <string name="onscreen_manage_calls_text">Управление на разговори</string>
   <string name="onscreen_merge_calls_text">Обединяване на обаждания</string>
-  <string name="onscreen_mi_support_calls_text">MiSupport</string>
+  <string name="onscreen_mi_support_calls_text">Mi-поддръжка</string>
   <string name="onscreen_mute_text">Заглушаване</string>
-  <string name="onscreen_note_calls_text">Note</string>
+  <string name="onscreen_note_calls_text">Бележка</string>
   <string name="onscreen_note_text">Бележка</string>
   <string name="onscreen_rcs_text">Съобщения</string>
   <string name="onscreen_send_flash_text">Светкавица</string>
@@ -549,7 +549,7 @@
   <string name="overflowMergeMenuItemText">Обединяване на обаждания</string>
   <string name="overflowResumeMenuItemText">Възобновяване на обаждането</string>
   <string name="overflowSwapMenuItemText">Размяна на обажданията</string>
-  <string name="password">Password</string>
+  <string name="password">Парола</string>
   <string name="password_title">Парола</string>
   <string name="pause_prompt_no">Не</string>
   <string name="pause_prompt_str">"Мелодиите се изпращат
@@ -653,7 +653,7 @@
   <string name="select_account_dialog_title">Избор на профил</string>
   <string name="select_audio_dialog_title">Please select answering mode</string>
   <string name="select_automatically">Да се избира автоматично</string>
-  <string name="select_one_sim_title">Can only use SIM %1$d</string>
+  <string name="select_one_sim_title">Да се използва само SIM %1$d</string>
   <string name="select_sim_hint">"Не може да използвате SIM %2$d, докато SIM %1$d е в употреба."</string>
   <string name="select_voice_call_sim">Изберете SIM карта</string>
   <string name="send_button">Изпращане</string>
