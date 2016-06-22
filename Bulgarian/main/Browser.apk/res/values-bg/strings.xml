@@ -542,7 +542,7 @@
      <string name="pref_privacy_formdata_title">Автоматично попълване на форми</string>
      <string name="pref_privacy_location_title">Достъп до местоположения</string>
      <string name="pref_privacy_security_title">Лични данни</string>
-     <string name="pref_save_bandwidth_mode_title">Използване на мобилни данни</string>
+     <string name="pref_save_bandwidth_mode_title">Ограничаване на използваните данни</string>
      <string name="pref_security_accept_cookies">Разреши \"Бисквитките\"</string>
      <string name="pref_security_accept_cookies_summary">Разреши на страниците да запазват и четат файловете тип \"Бисквитки\"</string>
      <string name="pref_security_passwords_title">Пароли</string>
