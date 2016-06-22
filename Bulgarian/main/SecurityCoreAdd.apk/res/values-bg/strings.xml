@@ -209,4 +209,5 @@
   <string name="restore_show_toast">Без показване на частни съобщения.</string>
   <string name="show_private_msg">Показване на частни съобщения</string>
   <string name="show_private_msg_summary">Показване на частни съобщения във Второ пространство</string>
+  <string name="remove_second_space_msg">С изтриването на Второ пространство всички негови данни ще бъдат заличени. Продължавате ли?</string>
 </resources>

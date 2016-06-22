@@ -1189,4 +1189,11 @@
   <string name="zero_items_selected">Нищо не е избрано</string>
   <string name="close_dial_pad_description">Затваряне на клавиатурата</string>
   <string name="open_dial_pad_description">Отваряне на клавиатурата</string>
+  <string name="editContactNameExpandCloseDescription">Скрий името</string>
+  <string name="editContactNameExpandOpenDescription">Покажи името</string>
+  <string name="expandCloseViewDescription">Скрий</string>
+  <string name="expandOpenViewDescription">Покажи</string>
+  <string name="force_touch_miprofile">Контактна карта</string>
+  <string name="force_touch_new_contact">Нов контакт</string>
+  <string name="menuMoreDescription">Още</string>
 </resources>

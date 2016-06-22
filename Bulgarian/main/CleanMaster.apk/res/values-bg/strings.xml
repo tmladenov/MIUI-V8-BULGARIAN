@@ -401,4 +401,6 @@
   <string name="white_list_title">Изключения</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yesterday">Вчера</string>
+  <string name="install_sucess">Инсталирахте успешно %s</string>
+  <string name="open_app">Отваряне</string>
 </resources>

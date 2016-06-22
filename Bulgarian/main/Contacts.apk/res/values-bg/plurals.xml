@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Показани %d контакта с телефонни номера</item>
@@ -137,5 +136,15 @@
     <plurals name="number_of_items_available">
         <item quantity="other">Остават %1$d</item>
         <item quantity="one">Остава %1$d</item>
+    </plurals>
+    <plurals name="group_copy_success_toast">
+        <item quantity="other">Копирани %1$d контакти</item>
+    </plurals>
+    <plurals name="group_move_success_toast">
+        <item quantity="other">Преместени %1$d контакти</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">открити %1$d</item>
+        <item quantity="one">открит 1</item>
     </plurals>
 </resources>

@@ -165,7 +165,7 @@
   <string name="data_usage_warning_title">Предупрежд. за ползване на данни</string>
   <string name="data_usage_wifi_limit_snoozed_title">Превишен лимит на Wi-Fi данните</string>
   <string name="data_usage_wifi_limit_title">Wi-Fi данните са деактивирани</string>
-  <string name="date_and_time" formatted="false">%H:%M:%S %d.%m.%Y</string>
+  <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
   <string name="date_picker_decrement_day_button">Намаляване на дните</string>
   <string name="date_picker_decrement_month_button">Намаляване на месеците</string>
   <string name="date_picker_decrement_year_button">Намаляване на годините</string>
@@ -698,7 +698,7 @@
   <string name="mmiFdnError">Операцията е ограничена само до фиксираните номера за набиране.</string>
   <string name="mobile_provisioning_apn"/>
   <string name="mobile_provisioning_url"/>
-  <string name="month_day_year" formatted="false">%d %B %Y</string>
+  <string name="month_day_year" formatted="false">%B %-e, %Y</string>
   <string name="more_item_label">Още</string>
   <string name="muted_by">Заглушено от %1$s</string>
   <string name="needPuk">SIM картата ви е заключена с PUK. Въведете PUK кода, за да я отключите.</string>

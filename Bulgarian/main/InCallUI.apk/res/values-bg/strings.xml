@@ -776,4 +776,5 @@
 "</string>
   <string name="waiting_close_airplane_mode">Изчаква изключване на самолетен режим ...</string>
   <string name="wild_prompt_str">Замяна на заместващия символ с:</string>
+  <string name="conference_callers_exceeded">Участниците в конф. обаждане са надвишени</string>
 </resources>

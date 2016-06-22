@@ -90,4 +90,5 @@
   <string name="transfer_interrupt">Transfer interrupted</string>
   <string name="transmission_click_send">send</string>
   <string name="transmission_connect">"Couldn't find recipient​"</string>
+  <string name="runtime_permission_ungranted">Cannot use Mi Drop because of ungranted permissions</string>
 </resources>

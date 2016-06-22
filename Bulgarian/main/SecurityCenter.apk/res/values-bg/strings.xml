@@ -1410,4 +1410,8 @@ For more info check the message you received from your carrier"</string>
   <string name="wifi_item_title_encryption">Wi-Fi шифроване</string>
   <string name="wifi_item_title_fake">Засичане на фалшиво Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Няма връзка с интернет</string>
+  <string name="button_text_deny">Отказвам</string>
+  <string name="convenient_mode">Еднократно отключване</string>
+  <string name="convenient_summary">Да не се изисква парола след отключване на първото приложение</string>
+  <string name="wakepath_confirm_start_activity">Позволявате ли на %1$s да отвори %2$s?</string>
 </resources>

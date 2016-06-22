@@ -661,4 +661,5 @@
   <string name="xiaomi_service_number">Сервизен номер</string>
   <string name="yellowpage_recommend_msg">Изпробвайте функциите на MIUI за съобщения</string>
   <string name="yes">OK</string>
+  <string name="fake_cell_timeout_hint">Неуспешна проверка на сигурността</string>
 </resources>
