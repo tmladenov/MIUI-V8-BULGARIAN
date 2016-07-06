@@ -3398,7 +3398,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="system_storage">Системно хранилище</string>
   <string name="system_ui_settings">Показване на тунера на системния ПИ</string>
   <string name="system_update_settings_list_item_summary"/>
-  <string name="system_update_settings_list_item_title">Актуализации на системата</string>
+  <string name="system_update_settings_list_item_title">Актуализации</string>
   <string name="tap_to_wake">Докоснете за „събуждане“</string>
   <string name="tap_to_wake_summary">Докоснете два пъти произволно място на екрана, за да „събудите“ устройството</string>
   <string name="terms_title">Общи условия</string>

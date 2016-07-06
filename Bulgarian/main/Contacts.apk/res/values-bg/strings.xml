@@ -104,7 +104,7 @@
   <string name="callrecordview_item_op_video">Видео</string>
   <string name="callrecordview_menu_add_call_note">Добави бележка</string>
   <string name="callrecordview_menu_batch_delete">Пакетно изтриване</string>
-  <string name="callrecordview_menu_blocklist">Списък с блокирани</string>
+  <string name="callrecordview_menu_blocklist">Блокирани</string>
   <string name="callrecordview_menu_conference">Конферентно обаждане</string>
   <string name="callrecordview_menu_delete">Изтрий списъка с обажданията</string>
   <string name="callrecordview_menu_delete_accepted">Изтрий списъка с входящи повиквания</string>
@@ -117,7 +117,7 @@
   <string name="callrecordview_menu_delete_sim">Изчисти списъка с повиквания на %s</string>
   <string name="callrecordview_menu_delete_stranger">Изтрий списъка с повиквания от непознати номера</string>
   <string name="callrecordview_menu_edit_call_note">Редактирай бележка</string>
-  <string name="callrecordview_menu_ip">Автоматично избиране на IP</string>
+  <string name="callrecordview_menu_ip">Авт. IP набиране</string>
   <string name="callrecordview_menu_livetalk">Зареждане на пакет</string>
   <string name="callrecordview_menu_mobiledata">Информация за плащане</string>
   <string name="callrecordview_menu_paste">Постави</string>
