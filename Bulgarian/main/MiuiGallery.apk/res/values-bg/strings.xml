@@ -756,4 +756,15 @@
   <string name="video_editor_res_not_load_dialog_msg">To use this,you must download the rescource packages</string>
   <string name="video_editor_res_not_load_dialog_title">Need download</string>
   <string name="video_editor_template_family">Family</string>
+  <string name="main_discard_confirm_message">You have unsaved changes</string>
+  <string name="main_discard_negative_btn">Discard</string>
+  <string name="main_discard_positive_btn">Save &amp; Exit</string>
+  <string name="main_save_error_msg">"Couldn't save changes due to an error"</string>
+  <string name="renren_description">Provided by RenRen</string>
+  <string name="sub_discard_confirm_message">Save changes?</string>
+  <string name="sub_discard_negative_btn">Discard</string>
+  <string name="sub_discard_positive_btn">Save</string>
+  <string name="video_editor_res_download_failed_tips">"Couldn't download, check network settings and try again"</string>
+  <string name="video_editor_res_download_mobil_network_confirm_msg">Download soundtracks using mobile data?</string>
+  <string name="video_editor_res_download_mobil_network_confirm_title">Using mobile data</string>
 </resources>

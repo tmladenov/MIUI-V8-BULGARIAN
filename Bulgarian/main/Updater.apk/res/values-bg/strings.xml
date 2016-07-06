@@ -258,4 +258,7 @@ Beta Feedback Program"</string>
   <string name="welcom_message">Готови сте да започнете</string>
   <string name="welcom_title">Добре дошли в MIUI 6</string>
   <string name="worst_update">Най-лоша актуализация</string>
+  <string name="dialog_reboot_message">"MIUI е на път да се актуализира. Процесът може да отнеме между 5 и 20 минути. Оставете устройството включено и не го рестартирайте докато се актуализира."</string>
+  <string name="dialog_reboot_title">Системна актуализация</string>
+  <string name="dialog_reboot_yes">Актуализирай</string>
 </resources>

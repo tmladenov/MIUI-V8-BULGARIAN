@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
     <string-array name="compose_modes">
         <item>Отговор</item>
@@ -100,5 +99,13 @@
         <item>Този имейл</item>
         <item>Отказ от отговорност</item>
         <item>Имейл Отказ от отговорност</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Тази вечер</item>
+        <item>Утре</item>
+        <item>Този уикенд</item>
+        <item>Следващата седмица</item>
+        <item>Следващия месец</item>
+        <item>Избиране на дата</item>
     </string-array>
 </resources>

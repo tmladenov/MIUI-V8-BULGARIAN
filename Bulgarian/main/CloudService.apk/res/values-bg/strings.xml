@@ -200,9 +200,6 @@
   <string name="micloud_find_device_guide_micloud">Включване на Синхр. с Mi Cloud</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Синхронизиране на контакти, снимки, бележки и др. с Mi Cloud</string>
   <string name="micloud_find_device_guide_noti_content">Включване</string>
-  <string name="micloud_find_device_guide_noti_title">Включване на Открий устройството за защита на данните ви, дори и ако загубите устройството си</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Включване на Открий устройството за защита на WeChat данните ви</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Включване на Открий устройството за защита на Alipay данните ви</string>
   <string name="micloud_find_device_guide_progress">Открий устройството се включва…</string>
   <string name="micloud_find_device_guide_title">"Влезте в %s за локализиране, заключване,
 или изтриване на вашето устройство."</string>
@@ -486,4 +483,11 @@
   <string name="micloud_battery_low_notification_title">Слаба батерия</string>
   <string name="micloud_main_message_not_synced">%s не са синхр.</string>
   <string name="micloud_main_title_not_synced">Не е синхронизирано</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_qq"/>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_wx"/>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_zfb"/>
+  <string name="micloud_find_device_guide_noti_title"/>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_qq"/>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_wx"/>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb"/>
 </resources>

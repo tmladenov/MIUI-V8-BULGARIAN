@@ -39,4 +39,7 @@
   <string name="close_panel">Затвори Тъч асистент</string>
   <string name="open_panel">Отвори Тъч асистент</string>
   <string name="show_on_keyguard">Показване на закл. екран</string>
+  <string name="hide_when_fullscreen">Скриване при цял екран</string>
+  <string name="hide_when_fullscreen_intro">Скриване, когато сте в пълноекранен режим.</string>
+  <string name="motion_behavior">Предпочитан жест</string>
 </resources>

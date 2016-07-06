@@ -335,8 +335,8 @@ d MMMM"</string>
   <string name="vpn_text_long">Свързване към %s. Чукнете за подробности.</string>
   <string name="vpn_title">VPN е активно</string>
   <string name="vpn_title_long">Свързване към VPN чрез %s</string>
-  <string name="weather_description">%1$s | %2$s &gt;</string>
-  <string name="weather_description_no_aqi">%1$s &gt;</string>
+  <string name="weather_description">%1$s %2$s</string>
+  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Актуализирано %1$s</string>
   <string name="wifi_connected_no_internet">Установена е връзка – няма достъп до интернет</string>
   <string name="wifi_disabled_generic">Деактивирани</string>
@@ -363,4 +363,5 @@ d MMMM"</string>
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+  <string name="accessibility_ime_switch_button">Смяна на метода за въвеждане.</string>
 </resources>

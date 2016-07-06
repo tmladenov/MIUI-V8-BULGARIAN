@@ -4192,7 +4192,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="wifi_tether_enabled_subtext">Активна преносима точка за достъп до %1$s</string>
   <string name="wifi_tether_failed_subtext">Грешка на преносимата точка за достъп до Wi-Fi</string>
   <string name="wifi_tether_setting_title">Основни настройки</string>
-  <string name="wifi_tether_settings_title">Personal hotspot</string>
+  <string name="wifi_tether_settings_title">Точка за достъп</string>
   <string name="wifi_tether_starting">Точката за достъп се включва…</string>
   <string name="wifi_tether_stopping">Точката за достъп се изключва…</string>
   <string name="wifi_type_approval"/>
@@ -4363,4 +4363,10 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="optimization_open">Включване</string>
   <string name="vpn_no_selected">Изберете VPN</string>
   <string name="vpn_settings_summary">Защитава с парола настройките за VPN на закл. екран</string>
+  <string name="force_touch">3D докосване</string>
+  <string name="force_touch_demo">Покажи демо</string>
+  <string name="force_touch_enable">Активирай 3D докосване</string>
+  <string name="force_touch_enable_tips">"Силно натискане на икона на начален екран ще отвори бързо меню, ако е активно 3D докосване."</string>
+  <string name="status_bar_settings_notification_sound">Звук</string>
+  <string name="status_bar_settings_notification_vibrate">Вибрация</string>
 </resources>

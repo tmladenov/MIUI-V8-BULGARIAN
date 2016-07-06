@@ -662,4 +662,6 @@
   <string name="yellowpage_recommend_msg">Изпробвайте функциите на MIUI за съобщения</string>
   <string name="yes">OK</string>
   <string name="fake_cell_timeout_hint">Неуспешна проверка на сигурността</string>
+  <string name="block_support_text">Поддържа се от Antiy.</string>
+  <string name="fake_cell_detection_entry">Fake base station detection</string>
 </resources>

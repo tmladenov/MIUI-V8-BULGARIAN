@@ -754,4 +754,8 @@
 
 Чукнете %s за стартиране на изтеглянето веднага, щом се свържете с Wi-Fi."</string>
   <string name="wifi_required_title">Изтеглянето е прекалено дълго за използване на мобилни данни.</string>
+  <string name="force_touch_audio_picker">Recognize song</string>
+  <string name="force_touch_play_local_music_random">Shuffle local music</string>
+  <string name="local_music_empty">Local playlist is empty</string>
+  <string name="local_music_empty_goto_online">No songs found</string>
 </resources>

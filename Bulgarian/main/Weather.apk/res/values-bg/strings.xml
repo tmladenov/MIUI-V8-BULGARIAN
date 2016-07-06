@@ -96,4 +96,15 @@
   <string name="view_indexes_item_today">Днес</string>
   <string name="view_indexes_item_tommorrow">Утре</string>
   <string name="wind_unit">%1$sкм/ч</string>
+  <string name="button_sure_abandon">Отмени промените?</string>
+  <string name="edit_alert_city_title">Упр. на предупрежденията</string>
+  <string name="international_details_pressure_title">Налягане</string>
+  <string name="international_details_real_feel_title">"Усеща се "</string>
+  <string name="international_details_title">Подробности</string>
+  <string name="international_details_uv_index_title">UV индекс</string>
+  <string name="international_details_wind_connect">%2$s %1$s</string>
+  <string name="international_details_wind_title">Вятър</string>
+  <string name="more_details">Подробности</string>
+  <string name="pressure_connect">%1$s hPa</string>
+  <string name="weather_alert">Предупреждения</string>
 </resources>

@@ -137,4 +137,5 @@
   <string name="recognition_error_download_title">Engine missed</string>
   <string name="recognition_error_downloading">Downloading</string>
   <string name="recognition_status_downloading">Downloading</string>
+  <string name="runtime_permission_ungranted">Cannot use SoundRecorder because of ungranted permissions</string>
 </resources>

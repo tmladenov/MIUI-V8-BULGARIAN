@@ -241,4 +241,6 @@
   <string name="modem_tool_log_stop">Стоп</string>
   <string name="modem_tool_log_stop_toast">"Спиране на разтоварване на лог на модема от %s"</string>
   <string name="reply_failed">Неуспешно публикуване</string>
+  <string name="feedback_report_remind_login_desc2">"You can also view your report's progress in \"My reports\"."</string>
+  <string name="michat_artifical_customer_phone_dial_error">"If you can't call the 400 hotline, dial %1$s using a different phone"</string>
 </resources>

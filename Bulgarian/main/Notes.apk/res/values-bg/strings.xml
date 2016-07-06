@@ -152,4 +152,6 @@ http://miui.bg/community/
   <string name="widget_havenot_content">Няма бележки, натиснете тук за създаване.</string>
   <string name="widget_under_privacy_mode">Не можете да преглеждате бележки в режим Гост</string>
   <string name="recover_notes_hint">Открити са грешни данни в Бележки. Възстановете от i.mi.com</string>
+  <string name="menu_send_as_image">Изпрати като снимка</string>
+  <string name="sns_desc_image_preview">Преглед на съобщение</string>
 </resources>

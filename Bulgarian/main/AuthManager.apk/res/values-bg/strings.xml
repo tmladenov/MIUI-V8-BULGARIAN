@@ -286,4 +286,6 @@
   <string name="screen_overlay_message">За да промените тази настройка, първо трябва да изключите слоеве на екрана от Настройки - Приложения</string>
   <string name="screen_overlay_title">Открит е слой на екрана</string>
   <string name="wakepath_confirm_start_activity">Позволявате ли на %1$s да отвори %2$s?</string>
+  <string name="Su_Package_Forbidden2">няма ROOT достъп.</string>
+  <string name="permisson_reject_notice_toast_text2">няма разрешение за %1$s.</string>
 </resources>
