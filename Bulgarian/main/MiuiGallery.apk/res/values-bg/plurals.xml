@@ -109,28 +109,28 @@
         <item quantity="one">1 видео за качване</item>
      </plurals>
      <plurals name="picker_all_image_need_download">
-        <item quantity="other">Selected photos not on device, download using mobile data?</item>
-        <item quantity="one">Selected photo not on device, download using mobile data?</item>
+        <item quantity="other">Избраните снимки не са в устройството.Да се изтеглят ли чрез използване на мобилни данни?</item>
+        <item quantity="one">Избраната снимка на е в устройството.Да се изтегли ли чрез използване на мобилни данни?</item>
      </plurals>
      <plurals name="picker_all_image_will_download">
-        <item quantity="other">Selected photos not on device, downloading</item>
-        <item quantity="one">Selected photo not on device, downloading</item>
+        <item quantity="other">Избраните снимки не са в устройството, изтегляне</item>
+        <item quantity="one">Избраната снимка не е в устройството, изтегляне</item>
      </plurals>
      <plurals name="picker_all_origin_need_download">
-        <item quantity="other">Selected photos not on device (%dMB), download using mobile data?</item>
-        <item quantity="one">Selected photo not on device (%dMB), download using mobile data?</item>
+        <item quantity="other">Избраните снимки не са в устройството (%dМБ), да се изтеглят ли чрез използване на мобилни данни?</item>
+        <item quantity="one">Избраната снимка не е в устройството (%dМБ), да се изтегли ли чрез използване на мобилни данни?</item>
      </plurals>
      <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">Cancel downloading remaining %d photos?</item>
-        <item quantity="one">Cancel downloading the last one photo?</item>
+        <item quantity="other">Отмяна да изтеглянето, оставащи %d снимки?</item>
+        <item quantity="one">Отмяна на изтеглянето на последната снимка?</item>
      </plurals>
      <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">%1$d photos download failed, retry?</item>
-        <item quantity="one">one photo download failed, retry?</item>
+        <item quantity="other">%1$d изтегляне на снимки е неуспешно, повторен опит?</item>
+        <item quantity="one">Изтеглянето на една снимка е неуспешно, повторен опит?</item>
      </plurals>
      <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">%1$d photos (%2$dMB) download failed, retry?</item>
-        <item quantity="one">one photo (%2$dMB) download failed, retry?</item>
+        <item quantity="other">Изтеглянето на %1$d снимки (%2$dМБ) е неуспешно, повторен опит?</item>
+        <item quantity="one">Изтеглянето на една снимка (%2$dМБ) е неуспешно, повторен опит?</item>
      </plurals>
      <plurals name="sync_off">
         <item quantity="other">Синхр. е изкл. %1$d елементи чакат за архивиране</item>

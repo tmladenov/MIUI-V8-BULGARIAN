@@ -437,7 +437,7 @@
   <string name="fail_reason_no_exportable_contact">Няма контакти за експортиране.</string>
   <string name="fail_reason_not_supported">"Форматът не се поддържа."</string>
   <string name="fail_reason_too_long_filename">Името на файла е твърде дълго (\"%s\").</string>
-  <string name="fail_reason_too_many_vcard">Прекалено много файлове с визитки на SD картата.</string>
+  <string name="fail_reason_too_many_vcard">Прекалено много файлове с визитки в хранилището.</string>
   <string name="fail_reason_unknown">Неизвестна грешка.</string>
   <string name="fail_reason_vcard_parse_error">"Неуспешен анализ на визитката по неизвестна причина."</string>
   <string name="favoritesFrequentCalled">Често набирани</string>
@@ -496,7 +496,7 @@
   <string name="import_all_vcard_string">Импортиране на всички файлове с визитки</string>
   <string name="import_contact_card_aggregate_suggestion_button">Обедини контакти</string>
   <string name="import_contact_card_button">Импортиране</string>
-  <string name="import_failure_no_vcard_file">Не са открити файлове с визитки в SD картата.</string>
+  <string name="import_failure_no_vcard_file">Не са открити файлове с визитки в хранилището.</string>
   <string name="import_from_onekey_migrate">Импортиране с Трансфер</string>
   <string name="import_from_other_phone">Импортиране от друг телефон</string>
   <string name="import_from_sdcard">Импортиране от SD карта</string>
@@ -515,7 +515,7 @@
   <string name="import_to_xiaomi_account_progress_message">Прехвърляне…</string>
   <string name="import_to_xiaomi_account_progress_title">Прехвърляне на контакти в Mi профил</string>
   <string name="import_to_xiaomi_account_title">Искате ли да прехвърлите контактите към профила си в Mi?</string>
-  <string name="import_vcard_description">Импортиране на контакти от SD карта</string>
+  <string name="import_vcard_description">Импортиране на контакти от вътрешната памет на телефона</string>
   <string name="import_vcard_dialog_message">Импортиране на vCard?</string>
   <string name="import_weibo_dialog_title">Импортиране на Sina weibo контакти</string>
   <string name="import_weibo_error_no_matched_contacts">Обновяване контакти: няма съвпадения</string>
@@ -791,7 +791,7 @@
   <string name="no_contacts_dialog_message">Човекът не е намерен във Вашите контакти. Възможно е той да се намира в списъка с контакти на SIM картата. Моля, импортирайте всички контакти от SIM картата.</string>
   <string name="no_contacts_dialog_title">Контактът не е открит</string>
   <string name="no_contacts_selected">Няма избрани контакти.</string>
-  <string name="no_sdcard_message">SD-картата не е открита.</string>
+  <string name="no_sdcard_message">Хранилището не е открито.</string>
   <string name="no_voip_contacts">Няма контакти с Mi Voice</string>
   <string name="non_phone_add_to_contacts">Добави в контакти</string>
   <string name="non_phone_caption">Телефонен номер</string>
@@ -983,7 +983,7 @@
   <string name="scan_qrcode_card_hint1">Сканирайте QR кода</string>
   <string name="scan_qrcode_card_hint2">Добавете моите данни към вашите контакти</string>
   <string name="scanning_sdcard_failed_message">Неуспешно сканиране на SD карта. Причина: \"%s\".</string>
-  <string name="scanning_sdcard_failed_title">"SD картата не е сканирана"</string>
+  <string name="scanning_sdcard_failed_title">"Хранилището не е сканирано"</string>
   <string name="searchHint">Търсене на контакти</string>
   <string name="searching_vcard_message">Търсене на визитки в паметта…</string>
   <string name="select_all">Избери всички</string>
