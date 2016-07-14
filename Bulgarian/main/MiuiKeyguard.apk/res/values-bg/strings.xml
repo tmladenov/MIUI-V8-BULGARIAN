@@ -70,8 +70,8 @@
   <string name="missed_call_text">%d пропуснати обаждания</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Отключено с Mi Band</string>
   <string name="miui_unlockscreen_password_wrong">Опитайте отново:</string>
-  <string name="open_camera_hint_text">Плъзнете наляво, за да отворите Камера</string>
-  <string name="open_remote_center_hint_text">Плъзнете надясно, за да отворите Дистанционно</string>
+  <string name="open_camera_hint_text">Плъзнете наляво, за да отворите %s</string>
+  <string name="open_remote_center_hint_text">Плъзнете надясно, за да отворите %s</string>
   <string name="open_wifi_settings">Настройки на мрежата</string>
   <string name="phone_locked_string">Устройството е заключено</string>
   <string name="phone_locked_timeout_minutes_string">Моля, върнете се след %s минути</string>
@@ -94,4 +94,5 @@
   <string name="unlockscreen_recharge_completed">Батерията е заредена</string>
   <string name="unlockscreen_recharging_message">Зареждане %d%%</string>
   <string name="wrong_password">Неправилна парола</string>
+  <string name="input_pattern_hint_text">Начертайте вашата фигура за отключване</string>
 </resources>

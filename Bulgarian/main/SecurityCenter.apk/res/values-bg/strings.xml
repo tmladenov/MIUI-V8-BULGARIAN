@@ -1414,4 +1414,9 @@ For more info check the message you received from your carrier"</string>
   <string name="convenient_mode">Еднократно отключване</string>
   <string name="convenient_summary">Да не се изисква парола след отключване на първото приложение</string>
   <string name="wakepath_confirm_start_activity">Позволявате ли на %1$s да отвори %2$s?</string>
+  <string name="charging_text_battery_full_time">Последно зареждане</string>
+  <string name="charging_text_battery_nearly_full">Почти заредена</string>
+  <string name="charging_text_battery_perfect">Напълно заредена</string>
+  <string name="charging_text_time_calculating">Изчисляване на времето за зареждане…</string>
+  <string name="notification_charging_title">"Зареждане "</string>
 </resources>

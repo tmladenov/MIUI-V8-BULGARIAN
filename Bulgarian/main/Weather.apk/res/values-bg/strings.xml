@@ -107,4 +107,10 @@
   <string name="more_details">Подробности</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="weather_alert">Предупреждения</string>
+  <string name="alert_warning">Предупреждения</string>
+  <string name="retry">Нов опит</string>
+  <string name="set">Настройки</string>
+  <string name="unit">Единица</string>
+  <string name="unit_temperature">Температура</string>
+  <string name="unit_wind">Сила на вятъра</string>
 </resources>

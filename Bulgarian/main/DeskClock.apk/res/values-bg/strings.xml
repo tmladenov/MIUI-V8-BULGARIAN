@@ -126,4 +126,7 @@
   <string name="worldclock_title">Часовници</string>
   <string name="timer_clock_alert_text">Моля, задайте таймер</string>
   <string name="more_settings">Още настройки</string>
+  <string name="force_touch_add_alarm">Добави будилник</string>
+  <string name="force_touch_enter_stopwatch">Хронометър</string>
+  <string name="force_touch_enter_timer">Таймер</string>
 </resources>

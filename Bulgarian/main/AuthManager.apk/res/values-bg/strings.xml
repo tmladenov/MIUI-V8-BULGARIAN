@@ -288,4 +288,6 @@
   <string name="wakepath_confirm_start_activity">Позволявате ли на %1$s да отвори %2$s?</string>
   <string name="Su_Package_Forbidden2">няма ROOT достъп.</string>
   <string name="permisson_reject_notice_toast_text2">няма разрешение за %1$s.</string>
+  <string name="HIPS_Perm_get_tasks">Достъп до задачите</string>
+  <string name="HIPS_Perm_get_tasks_Desc">Достъп до задачите</string>
 </resources>

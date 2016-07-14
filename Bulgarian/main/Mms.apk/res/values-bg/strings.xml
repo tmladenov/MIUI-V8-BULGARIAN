@@ -664,4 +664,6 @@
   <string name="fake_cell_timeout_hint">Неуспешна проверка на сигурността</string>
   <string name="block_support_text">Поддържа се от Antiy.</string>
   <string name="fake_cell_detection_entry">Fake base station detection</string>
+  <string name="force_touch_new_message_title">Ново съобщение</string>
+  <string name="networking_allow_desc_without_mx">"Smart messages allow you to recognize unknown numbers, filter spam, etc. By using this service, you agree to Xiaomi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
 </resources>

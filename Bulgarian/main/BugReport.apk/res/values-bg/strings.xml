@@ -243,4 +243,11 @@
   <string name="reply_failed">Неуспешно публикуване</string>
   <string name="feedback_report_remind_login_desc2">"You can also view your report's progress in \"My reports\"."</string>
   <string name="michat_artifical_customer_phone_dial_error">"If you can't call the 400 hotline, dial %1$s using a different phone"</string>
+  <string name="michat_artificial_customer_phone_dial_error">"If you can't call the 400 hotline, dial %1$s using a different phone"</string>
+  <string name="michat_artificial_customer_text">Support personnel</string>
+  <string name="michat_cant_access_artificial">"Can't reach support now"</string>
+  <string name="michat_cant_join_artificial">"Couldn't connect due to network error"</string>
+  <string name="michat_in_artificial_customer_state">"Can't do this while being helped by a person"</string>
+  <string name="michat_lose_artificial">A network error occurred, you left the chat</string>
+  <string name="michat_motto">Mi Support is ready to help</string>
 </resources>

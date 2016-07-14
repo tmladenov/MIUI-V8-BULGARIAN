@@ -364,4 +364,9 @@ d MMMM"</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="accessibility_ime_switch_button">Смяна на метода за въвеждане.</string>
+  <string name="screenshot_delete">Изтрий</string>
+  <string name="screenshot_delete_dlg_msg">Да се изтрие ли екранната снимка?</string>
+  <string name="screenshot_delete_dlg_title">Изтриване</string>
+  <string name="screenshot_dlg_cancel">Отказ</string>
+  <string name="screenshot_dlg_delete_button">Изтрий</string>
 </resources>

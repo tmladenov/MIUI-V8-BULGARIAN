@@ -767,4 +767,5 @@
   <string name="video_editor_res_download_failed_tips">"Не може да се изтегли, проверете мрежовите си настройки и опитайте отново"</string>
   <string name="video_editor_res_download_mobil_network_confirm_msg">Изтегляне на мелодиите с използване на мобилни данни?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Използване на мобилни данни</string>
+  <string name="video_editor_unsupport_audio_file">Неподдържан аудио файл</string>
 </resources>
