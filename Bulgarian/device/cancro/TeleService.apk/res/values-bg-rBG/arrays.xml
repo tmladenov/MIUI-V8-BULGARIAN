@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM/WCDMA, CDMA и EvDo</item>
+        <item>TD-SCDMA, GSM/WCDMA и LTE</item>
+        <item>TD-SCDMA, WCDMA и LTE</item>
+        <item>TD-SCDMA, GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM и LTE</item>
+        <item>TD-SCDMA и GSM</item>
+        <item>TD-SCDMA и LTE</item>
+        <item>TD-SCDMA и WCDMA</item>
+        <item>Само TD-SCDMA</item>
+        <item>LTE/WCDMA</item>
+        <item>Само LTE</item>
+        <item>Авт. LTE/GSM/CDMA (PRL)</item>
+        <item>Авт. LTE/GSM (PRL)</item>
+        <item>Авт. LTE/CDMA (PRL)</item>
+        <item>Авт. GSM/CDMA (PRL)</item>
+        <item>Само EvDo</item>
+        <item>Само CDMA</item>
+        <item>Авт. CDMA (PRL)</item>
+        <item>Авт. GSM (PRL)</item>
+        <item>Само WCDMA</item>
+        <item>Само GSM</item>
+        <item>Предпочита се WCDMA</item>
+    </string-array>
+</resources>
