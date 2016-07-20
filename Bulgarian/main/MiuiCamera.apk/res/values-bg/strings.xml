@@ -666,8 +666,7 @@
   <string name="face_beauty_age_alias_45_60">45-60</string>
   <string name="face_beauty_age_alias_60_m">60+</string>
   <string name="face_beauty_age_alias_8_17">8-17</string>
-  <string name="pref_camera_antibanding_60">60hz</string>
-  <string name="pref_camera_delay_capture_entry_off">Off</string>
+  <string name="pref_camera_delay_capture_entry_off">Изкл.</string>
   <string name="pref_camera_exposuretime_entry_500">1/500s</string>
   <string name="pref_camera_stereo_mode_title">Стерео</string>
   <string name="simple_mode_button_text_stereo_mode">Изкл. на режим Стерео</string>
