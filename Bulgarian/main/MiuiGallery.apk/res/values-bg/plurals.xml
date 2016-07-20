@@ -136,4 +136,8 @@
         <item quantity="other">Синхр. е изкл. %1$d елементи чакат за архивиране</item>
         <item quantity="one">Синхр. е изкл. %1$d елемент чака за архивиране</item>
      </plurals>
+     <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">"Прескочени %1$d снимки, които не могат да бъдат предадени."</item>
+        <item quantity="one">"Прескочена 1 снимка, която не може да бъде предадена."</item>
+     </plurals>
 </resources>

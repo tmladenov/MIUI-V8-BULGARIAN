@@ -210,4 +210,41 @@
   <string name="show_private_msg">Показване на частни съобщения</string>
   <string name="show_private_msg_summary">Показване на частни съобщения във Второ пространство</string>
   <string name="remove_second_space_msg">С изтриването на Второ пространство всички негови данни ще бъдат заличени. Продължавате ли?</string>
+  <string name="add_finger_print">Add fingerprint</string>
+  <string name="back">Back</string>
+  <string name="delete_fingerprint">Delete fingerprint</string>
+  <string name="delete_fingerprint_desc">Second space fingerprint will be deleted together with the password</string>
+  <string name="delete_phone_fingerprint">Delete Second space fingerprint</string>
+  <string name="finger_print_num">Fingerprint %d</string>
+  <string name="finger_print_of_use">Use fingerprint</string>
+  <string name="fingerprint_removal_failed">"Couldn't delete fingerprint"</string>
+  <string name="lock_screen_open_second_space">Enter Second space from Lock screen</string>
+  <string name="need_set_second_space_desc">Add Second space password before adding Second space fingerprint</string>
+  <string name="need_set_second_space_pwd_first">Set Second space password first</string>
+  <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>
+  <string name="notification_recommend_title">Top 12 apps for Second space</string>
+  <string name="please_diff_finger_print">"Make sure different fingerprints are used in First space and Second space.
+Otherwise you may not be able to enter Second space from Lock screen."</string>
+  <string name="repeat_scanner_fingerprint">Add again</string>
+  <string name="scanner_fingerprint">Scanning fingerprint…</string>
+  <string name="scanner_fingerprint_enter_second">"Scan Second space fingerprint
+to enter Second space from Lock screen"</string>
+  <string name="scanner_fingerprint_error_tips_desc">"Can't find matching fingerprints. Add Second space fingerprint?"</string>
+  <string name="scanner_fingerprint_error_tips_title">"Can't find matching fingerprints"</string>
+  <string name="scanner_fingerprint_tips_desc">Select existing fingerprint to enter Second space. You wont be able to use it in First space.</string>
+  <string name="scanner_fingerprint_tips_title">Enter Second space using existing fingerprint</string>
+  <string name="scanner_second_space_fingerprint">Scan Second space fingerprint</string>
+  <string name="second_owner_finger_print">Second space fingerprint</string>
+  <string name="second_space_finger_printf_desc">Add fingerprint specifically used to enter Second space</string>
+  <string name="second_space_finger_printf_title">Second space fingerprint</string>
+  <string name="select_existed_fingerprint">Select fingerprint</string>
+  <string name="setting_finger_print_sub_title">Make sure the fingerprint is different from the one in First space</string>
+  <string name="setting_finger_print_title">Add Second space fingerprint</string>
+  <string name="setting_fingerprint_title">Add Second space password</string>
+  <string name="start_input_finger_print">Add fingerprint</string>
+  <string name="start_new_fingerprint">Add a new fingerprint</string>
+  <string name="start_new_fingerprint_tips">"Use Second space fingerprint
+to enter Second space from Lock screen"</string>
+  <string name="sure_to_use">Confirm</string>
+  <string name="xspace_install_failed">"Couldn't create"</string>
 </resources>

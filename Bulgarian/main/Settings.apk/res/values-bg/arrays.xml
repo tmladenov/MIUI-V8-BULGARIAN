@@ -243,6 +243,7 @@
         <item>Режим за деца</item>
         <item>Файлове</item>
         <item>Закл. на прил.</item>
+        <item>Второ пространство</item>
      </string-array>
      <string-array name="data_usage_data_range">
         <item>Последните 30 дни</item>

@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="ext_media_badremoval_notification_message">Спрете SD картата, преди да я извадите, за да избегнете загуба на данни.</string>
+  <string name="ext_media_badremoval_notification_title">SD картата е премахната неочаквано</string>
+  <string name="ext_media_checking_notification_title">SD картата се подготвя</string>
+  <string name="ext_media_nofs_notification_message">SD картата е празна или е с неподдържана файлова система.</string>
+  <string name="ext_media_nofs_notification_title">Празна SD карта</string>
+  <string name="ext_media_nomedia_notification_message">SD картата е премахната. Поставете нов носител.</string>
+  <string name="ext_media_nomedia_notification_title">Премахната SD карта</string>
+  <string name="ext_media_safe_unmount_notification_message">Можете безопасно да премахнете SD картата.</string>
+  <string name="ext_media_safe_unmount_notification_title">SD картата е безопасна за премахване</string>
+  <string name="ext_media_unmountable_notification_message">SD картата е повредена. Опитайте да я преформатирате.</string>
+  <string name="ext_media_unmountable_notification_title">Повредена SD карта</string>
+  <string name="usb_storage_error_message">Възникна проблем с вашата SD карта.</string>
+  <string name="usb_storage_message">Свързахте се с компютъра си през USB. Докоснете долния бутон, ако искате да копирате файлове между компютъра и вашата SD карта от Android.</string>
+  <string name="usb_storage_stop_message">Преди да изключите USB хранилището за Android, уверете се че сте спрели (със съответната команда за изваждане) вашата SD карта от компютъра си.</string>
+</resources>

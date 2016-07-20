@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="export_vcard_description">Експортиране на визитка в SD картата</string>
+  <string name="fail_reason_too_many_vcard">Прекалено много файлове с визитки на SD картата.</string>
+  <string name="import_failure_no_vcard_file">Не са открити файлове с визитки в SD картата.</string>
+  <string name="import_vcard_description">Импортиране на контакти от SD карта</string>
+  <string name="no_sdcard_message">SD-картата не е открита.</string>
+  <string name="scanning_sdcard_failed_title">"SD картата не е сканирана"</string>
+  <string name="searching_vcard_message">Търсене на визитки в SD картата…</string>
+</resources>

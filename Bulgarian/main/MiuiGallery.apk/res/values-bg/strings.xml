@@ -768,4 +768,7 @@
   <string name="video_editor_res_download_mobil_network_confirm_msg">Изтегляне на мелодиите с използване на мобилни данни?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Използване на мобилни данни</string>
   <string name="video_editor_unsupport_audio_file">Неподдържан аудио файл</string>
+  <string name="custom_select_title_quickly_share">Сподели</string>
+  <string name="fast_share_auto_render">Разкраси</string>
+  <string name="fast_share_auto_render_finish">Разкрасено</string>
 </resources>

@@ -403,4 +403,20 @@
   <string name="yesterday">Вчера</string>
   <string name="install_sucess">Инсталирахте успешно %s</string>
   <string name="open_app">Отваряне</string>
+  <string name="app_install_tips_go_to">Пусни сега</string>
+  <string name="app_install_tips_install_success">%1$s успешно инсталирани</string>
+  <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
+  <string name="browser_scan_history_desc">История на браузъра</string>
+  <string name="browser_search_history_desc">Търсени елементи</string>
+  <string name="call_log">Обаждания</string>
+  <string name="clip_board_history_desc">Копирано/изрязано съдържание</string>
+  <string name="clipboard">Буферна памет</string>
+  <string name="hints_scan_has_finish">Почистването завърши</string>
+  <string name="junk_tag_RF_EmptyFolders">Празни папки</string>
+  <string name="junk_tag_RF_ImageThumbnails">Миниатюри в галерия</string>
+  <string name="phone_search">Google търсене</string>
+  <string name="privacy_appdata_chrome_history_des">Посетени страници</string>
+  <string name="search_history">История на търсенето</string>
+  <string name="sms">SMS/MMS</string>
+  <string name="start_downloading_app">Начало на изтегляне：%1$s</string>
 </resources>

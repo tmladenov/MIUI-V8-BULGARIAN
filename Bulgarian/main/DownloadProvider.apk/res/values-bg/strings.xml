@@ -52,7 +52,7 @@
   <string name="permlab_downloadManager">Достъп до диспечера за изтегляне.</string>
   <string name="permlab_downloadManagerAdvanced">Разширени функции на диспечера за изтегляне.</string>
   <string name="permlab_downloadWithoutNotification">изтегляне на файловете без известяване</string>
-  <string name="permlab_seeAllExternal">Вижте всичко изтеглено на SD картата</string>
+  <string name="permlab_seeAllExternal">Вижте всичко изтеглено на USB хранилището</string>
   <string name="privacy_notif_content">Чукнете за преглед на детайлите.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator е вкл.</string>
   <string name="privacy_tip_cancel">Отказ</string>

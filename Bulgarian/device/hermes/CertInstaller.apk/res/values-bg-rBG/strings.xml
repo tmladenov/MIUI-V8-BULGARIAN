@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="no_cert_file_found">Не бе намерен сертификат в хранилището на телефона.</string>
+  <string name="sdcard_not_present">SD картата липсва.</string>
+</resources>

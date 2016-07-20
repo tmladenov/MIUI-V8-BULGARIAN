@@ -22,8 +22,10 @@
   <string name="additional_permissions">Допълнителни разрешения</string>
   <string name="allPerms">Всички</string>
   <string name="all_permissions">Всички разрешения</string>
-  <string name="allow_source_dlg_text">"Приложението %1$s иска да инсталира други приложения. \nРазрешавате ли това сега и в бъдеще?"</string>
-  <string name="allow_source_dlg_title">Разрешавате ли добавянето на нов източник за приложения?</string>
+  <string name="allow_source_dlg_text">"Приложението %1$s иска да инсталира други приложения.
+
+Разрешавате ли това сега и в бъдеще?"</string>
+  <string name="allow_source_dlg_title">Нов източник за приложения</string>
   <string name="app_name">Инсталатор на пакети</string>
   <string name="app_not_found_dlg_text">Приложението не е намерено в списъка с инсталирани приложения.</string>
   <string name="app_not_found_dlg_title">Приложението не е намерено</string>
@@ -34,10 +36,14 @@
   <string name="current_permission_template">%1$s of %2$s</string>
   <string name="default_permission_description">Изпълнение на непознато действие</string>
   <string name="devicePerms">Достъп до устройството</string>
-  <string name="dlg_app_replacement_statement">"Приложението, което инсталирате ще замени друго приложение. Всички досегашни потребителски данни ще бъдат запазени."</string>
+  <string name="dlg_app_replacement_statement">"Приложението, което инсталирате ще замени друго приложение.
+
+Всички досегашни потребителски данни ще бъдат запазени."</string>
   <string name="dlg_app_replacement_title">Замяна на приложение</string>
   <string name="dlg_ok">OK</string>
-  <string name="dlg_sys_app_replacement_statement">"Това е системно приложение. Все още ли искате да го замените? \nВсички досегашни потребителски данни ще бъдат запазени."</string>
+  <string name="dlg_sys_app_replacement_statement">"Това е системно приложение. Все още ли искате да го замените?
+
+Всички досегашни потребителски данни ще бъдат запазени."</string>
   <string name="done">Готово</string>
   <string name="grant_confirm_question">Разрешавате ли тези права на приложението ? То ще има достъп до:</string>
   <string name="grant_dialog_button_allow">Приеми</string>
@@ -53,7 +59,7 @@
   <string name="install_failed">Приложението не е инсталирано</string>
   <string name="install_failed_cpu_abi_incompatible">"Това приложение не е съвместимо с процесора на този телефон."</string>
   <string name="install_failed_file_not_found">Посоченият пакет бе изтрит преди инсталацията да бъде завършена.</string>
-  <string name="install_failed_inconsistent_certificates">Подписа на обновлението не съвпада с подписа на инсталираното приложение. Преди инсталиране премахнете старата версия на приложението.</string>
+  <string name="install_failed_inconsistent_certificates">Подписа на обновлението не съвпада с подписа на инсталираното приложение.</string>
   <string name="install_failed_invalid_apk">Файлът е повреден.</string>
   <string name="install_failed_msg">Приложението %1$s не може да бъде инсталирано на този телефон.</string>
   <string name="install_failed_older_sdk">Пакетът работи само на по-новите версии на Android.</string>

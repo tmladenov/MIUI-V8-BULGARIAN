@@ -1197,6 +1197,10 @@
   <string name="stk_cc_ussd_to_dial">USSD заявката е преобразувана в DIAL заявка.</string>
   <string name="stk_cc_ussd_to_ss">USSD заявката е преобразувана в SS заявка.</string>
   <string name="stk_cc_ussd_to_ussd">USSD заявката е преобразувана в нова USSD заявка.</string>
+  <string name="storage_external_usb">Външно USB хранилище</string>
+  <string name="storage_ic_usb1">Външно IC-USB хранилище1</string>
+  <string name="storage_ic_usb2">Външно IC-USB хранилище2</string>
+  <string name="storage_phone">Хранилище в телефона</string>
   <string name="storage_internal">Вътрешно хранилище</string>
   <string name="storage_sd_card">SD карта</string>
   <string name="storage_sd_card_label">SD карта от %s</string>

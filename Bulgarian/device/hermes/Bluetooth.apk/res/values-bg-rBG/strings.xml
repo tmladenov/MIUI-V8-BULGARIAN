@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="bluetooth_busy">Bluetooth е зает, опитайте по-късно</string>
+  <string name="bluetooth_map_email_settings_app_icon">Икона на приложението</string>
+  <string name="bluetooth_map_email_settings_cancel">Отказ</string>
+  <string name="bluetooth_map_email_settings_count">Оставащи слотове:</string>
+  <string name="bluetooth_map_email_settings_intro">Изберете имейл профилите, които искате да споделите през Bluetooth. Пак трябва да приемете достъпа до тях при свързване.</string>
+  <string name="bluetooth_map_email_settings_no_account_slots_left">Не може да се избере профил. Остават 0 слота</string>
+  <string name="bluetooth_map_email_settings_save">Запазване</string>
+  <string name="bluetooth_map_email_settings_title">Настройки за споделяне на съобщения през Bluetooth</string>
+  <string name="bt_sm_2_1">Недостатъчно свободно място на SD картата за запаметяване на файла от \"%1$s\"</string>
+  <string name="empty_sub_name">SIM слот %1$d</string>
+  <string name="notify_need_on_BT_before_retry">Bluetooth е изключен. Включете Bluetooth, преди да опитате отново изпращането</string>
+  <string name="panu_disconnect_while_wifi_connected">Връзката чрез Bluetooth tethering прекъсна</string>
+  <string name="panu_no_need_connect">Не може да използвате Bluetooth tethering докато сте свързани към Wi-Fi</string>
+  <string name="sim_selected_dialog_title">Изберете SIM</string>
+  <string name="status_no_sd_card">Няма SD карта! Поставете SD картата.</string>
+  <string name="suggested">Предложени</string>
+  <string name="too_much_file_sent">Максимум %1$s файла едновременно</string>
+</resources>

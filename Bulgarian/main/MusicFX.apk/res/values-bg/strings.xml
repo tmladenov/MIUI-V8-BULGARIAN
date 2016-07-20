@@ -14,4 +14,15 @@
   <string name="setup">Настройка</string>
   <string name="user">Потребител</string>
   <string name="virtualizer_strength">Триизмерен ефект</string>
+  <string name="eq_preset_classical">Класическа</string>
+  <string name="eq_preset_dance">Денс</string>
+  <string name="eq_preset_flat">Плоско</string>
+  <string name="eq_preset_folk">Фолк</string>
+  <string name="eq_preset_heavymetal">Хеви Метъл</string>
+  <string name="eq_preset_hiphop">Хип Хоп</string>
+  <string name="eq_preset_jazz">Джаз</string>
+  <string name="eq_preset_normal">Нормално</string>
+  <string name="eq_preset_pop">Поп</string>
+  <string name="eq_preset_rock">Рок</string>
+  <string name="presetreverb_name">Реверберация</string>
 </resources>

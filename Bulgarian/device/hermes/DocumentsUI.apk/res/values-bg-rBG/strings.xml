@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="menu_advanced_hide">Скриване на SD карта</string>
+  <string name="menu_advanced_show">Показване на SD карта</string>
+</resources>

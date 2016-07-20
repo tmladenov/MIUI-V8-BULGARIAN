@@ -4369,4 +4369,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="force_touch_enable_tips">"Силно натискане на икона на начален екран ще отвори бързо меню, ако е активно 3D докосване."</string>
   <string name="status_bar_settings_notification_sound">Звук</string>
   <string name="status_bar_settings_notification_vibrate">Вибрация</string>
+  <string name="permission_manage_global_build_title">Други разрешения</string>
+  <string name="permission_settings_summary">Управление на разрешенията, свързани с местоположение, хранилище, телефон, съобщения и контакти.</string>
+  <string name="permission_settings_title">Разрешения на прил.</string>
 </resources>

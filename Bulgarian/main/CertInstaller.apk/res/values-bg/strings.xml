@@ -31,7 +31,7 @@
   <string name="pick_file_title">Избор на сертификат</string>
   <string name="pkcs12_file_password_dialog_title">Извличане от %s</string>
   <string name="pkcs12_password_dialog_title">Извличане на сертификата</string>
-  <string name="sdcard_not_present">SD картата липсва.</string>
+  <string name="sdcard_not_present">USB хранилището не е на разположение.</string>
   <string name="storage_error">Сертификатът не можа да се запази. Докоснете „OK“, за да опитате отново.</string>
   <string name="unable_to_save_cert">Сертификатът не можа да бъде запазен. Хранилището за идентификационни данни не е активирано или не е подготвено за работа правилно.</string>
   <string name="wifi_cancel_label">Отказ</string>

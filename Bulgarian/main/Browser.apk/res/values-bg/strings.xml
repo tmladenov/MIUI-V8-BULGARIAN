@@ -805,4 +805,7 @@
      <string name="webview_find_on_page">Търси в страницата</string>
      <string name="webviewchromium_private_browsing_warning">Функционалността не се поддържа в тази версия на Android.</string>
      <string name="week_picker_dialog_title">Задай седмица</string>
+     <string name="force_quick_search_title">Търсене</string>
+     <string name="force_touch_bookmark_history_title">Отметки и история</string>
+     <string name="force_touch_infoflow_title">Новини</string>
 </resources>

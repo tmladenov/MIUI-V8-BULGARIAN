@@ -253,7 +253,7 @@
   <string name="screenshot_saving_text">Екранната снимка се запазва.</string>
   <string name="screenshot_saving_ticker">Екранната снимка се запазва…</string>
   <string name="screenshot_saving_title">Екранната снимка се запазва…</string>
-  <string name="screenshot_send">Send</string>
+  <string name="screenshot_send">Изпрати</string>
   <string name="settings_custom_notification">Управление на известията</string>
   <string name="settings_toggle_position">Управление на превключвателите</string>
   <string name="settings_toggle_position_divider_list">Превключвателите над лентата са активни</string>

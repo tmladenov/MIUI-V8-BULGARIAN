@@ -86,7 +86,7 @@
   <string name="choose_report_reason">Защо ще докладвате този видеоклип</string>
   <string name="choose_send_type">Избор на метод за изпращане</string>
   <string name="choose_upload_location">Изберете къде да качите файловете</string>
-  <string name="clean_hint">Чукнете, за да освобите място</string>
+  <string name="clean_hint">Чукнете, за да освободите място</string>
   <string name="clean_message">Изтриване на %1$s</string>
   <string name="clean_title">Премахни от кошчето файлове по-стари от 30 дни</string>
   <string name="clean_trash_box">Изпразни кошчето</string>
