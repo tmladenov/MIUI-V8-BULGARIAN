@@ -27,9 +27,9 @@
         <item>При изкл. екран</item>
      </string-array>
      <string-array name="app_groups">
-        <item>In this mode</item>
-        <item>Not selected</item>
-        <item>In other modes selected</item>
+        <item>В тази настройка</item>
+        <item>Не е избрано</item>
+        <item>Използва се в друга настройка</item>
      </string-array>
      <string-array name="event_name_translate">
         <item>Приложение на преден план</item>
@@ -39,9 +39,9 @@
         <item>Цял екран</item>
         <item>Изход от цял екран</item>
         <item>Приложение на заден план</item>
-        <item>Телефона се зарежда</item>
-        <item>Телефона не се зарежда</item>
-        <item>Телефона не е активен</item>
+        <item>Телефонът се зарежда</item>
+        <item>Телефонът не се зарежда</item>
+        <item>Телефонът не е активен</item>
      </string-array>
      <string-array name="group_name_translate">
         <item>Стандартно</item>
@@ -50,17 +50,17 @@
         <item>Режим медиа</item>
      </string-array>
      <string-array name="hmode_app_groups">
-        <item>Custom</item>
-        <item>Battery saver</item>
+        <item>Потребителска настройка</item>
+        <item>Икономия на батерия</item>
      </string-array>
      <string-array name="invisible_app_groups">
-        <item>selected</item>
-        <item>unselected</item>
+        <item>избрани</item>
+        <item>премахнати</item>
      </string-array>
      <string-array name="power_checker_group_prefix">
-        <item>Now</item>
-        <item>Background</item>
-        <item>Recently</item>
+        <item>Сега</item>
+        <item>На заден план</item>
+        <item>Скорошни</item>
      </string-array>
      <string-array name="power_checker_recent_group_titles">
         <item>Kernel WakeLock</item>
@@ -71,11 +71,11 @@
         <item>Wake Up</item>
      </string-array>
      <string-array name="power_checker_running_group_titles">
-        <item>Blocking deep Sleep mode</item>
-        <item>Blocking Sleep mode</item>
-        <item>Searching for WLAN</item>
-        <item>Using GPS</item>
-        <item>Occupying CPU</item>
-        <item>Waking device frequently</item>
+        <item>Блокиране на дълбоко заспиване</item>
+        <item>Блокиране на заспиване</item>
+        <item>Търсене на WiFi мрежи</item>
+        <item>Използване на GPS</item>
+        <item>Употреба на  CPU</item>
+        <item>Честота на събуждане на устройството</item>
      </string-array>
 </resources>
