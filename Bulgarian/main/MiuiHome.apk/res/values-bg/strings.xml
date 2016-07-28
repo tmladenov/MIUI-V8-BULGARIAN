@@ -47,7 +47,6 @@
   <string name="change_wallpaper">Change</string>
   <string name="children_folder_title">Деца</string>
   <string name="children_mode_exit">Изход</string>
-  <string name="children_mode_tips">Върнете се в Настройки и управлявайте достъпа до приложенията.</string>
   <string name="choose_wallpaper">Изберете тапет</string>
   <string name="chooser_wallpaper">Изберете тапет от</string>
   <string name="cloud_app_restore_title">Изчаква</string>
@@ -275,4 +274,6 @@
   <string name="widget_gadget_player">Музика</string>
   <string name="widget_global_search">Търсене</string>
   <string name="recommend_apps_notice_nodata">Препоръчани прил. (Няма данни)</string>
+  <string name="children_mode_tips_message">Няма приложения в режим за деца. Моля, изберете приложение.</string>
+  <string name="children_mode_tips_title">Моля, изберете приложение</string>
 </resources>

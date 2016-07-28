@@ -96,4 +96,6 @@
   <string name="wrong_password">Неправилна парола</string>
   <string name="input_pattern_hint_text">Начертайте вашата фигура за отключване</string>
   <string name="accessibility_enter_lock_wallpaper">Натиснете върху тапета на заключен екран</string>
+  <string name="lock_wallpaper_learn_more">Научете повече &gt;</string>
+  <string name="lock_wallpaper_see_more">Вижте още &gt;</string>
 </resources>

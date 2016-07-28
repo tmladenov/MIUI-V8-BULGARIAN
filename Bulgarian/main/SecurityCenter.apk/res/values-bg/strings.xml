@@ -1419,4 +1419,6 @@ For more info check the message you received from your carrier"</string>
   <string name="charging_text_battery_perfect">Напълно заредена</string>
   <string name="charging_text_time_calculating">Изчисляване на времето за зареждане…</string>
   <string name="notification_charging_title">"Зареждане "</string>
+  <string name="pm_root_success_notification_title">Имате ROOT достъп</string>
+  <string name="settings_title_payment_security">Настройки за сигурност при плащане</string>
 </resources>

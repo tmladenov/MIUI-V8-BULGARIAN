@@ -97,12 +97,9 @@
      <string-array name="traffic_sort_type">
         <item>"Изп. мобилни данни "</item>
         <item>"Изп. Wi-Fi "</item>
-        <item>"Спестени данни "</item>
-        <item>Mi план за данни (Китай)</item>
      </string-array>
      <string-array name="traffic_type">
         <item>"Изп. мобилни данни "</item>
         <item>"Изп. Wi-Fi "</item>
-        <item>"Спестени данни "</item>
      </string-array>
 </resources>

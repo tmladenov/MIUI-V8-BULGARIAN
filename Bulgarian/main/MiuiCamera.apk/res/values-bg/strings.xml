@@ -670,4 +670,7 @@
   <string name="pref_camera_exposuretime_entry_500">1/500s</string>
   <string name="pref_camera_stereo_mode_title">Стерео</string>
   <string name="simple_mode_button_text_stereo_mode">Изкл. на режим Стерео</string>
+  <string name="face_beauty_advanced">Профи</string>
+  <string name="face_beauty_close">Изкл</string>
+  <string name="face_beauty_smart">Смарт</string>
 </resources>

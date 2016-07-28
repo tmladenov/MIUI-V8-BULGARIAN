@@ -154,4 +154,6 @@ http://miui.bg/community/
   <string name="recover_notes_hint">Открити са грешни данни в Бележки. Възстановете от i.mi.com</string>
   <string name="menu_send_as_image">Изпрати като снимка</string>
   <string name="sns_desc_image_preview">Преглед на съобщение</string>
+  <string name="force_touch_menu_add">Нова бележка</string>
+  <string name="menu_send_as_text">Изпрати като текст</string>
 </resources>

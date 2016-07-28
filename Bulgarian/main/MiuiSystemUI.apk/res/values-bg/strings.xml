@@ -369,4 +369,5 @@ d MMMM"</string>
   <string name="screenshot_delete_dlg_title">Изтриване</string>
   <string name="screenshot_dlg_cancel">Отказ</string>
   <string name="screenshot_dlg_delete_button">Изтрий</string>
+  <string name="accessibility_assistant">Тъч асистент.</string>
 </resources>

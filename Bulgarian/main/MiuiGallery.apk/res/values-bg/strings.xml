@@ -32,7 +32,7 @@
   <string name="adding">Добавяне</string>
   <string name="adding_recipients">Добавяне на получатели...</string>
   <string name="adding_to_album">Добавят се снимки…</string>
-  <string name="adjust">Редакция</string>
+  <string name="adjust">Подсилване</string>
   <string name="adjust_auto">Автоматично</string>
   <string name="adjust_blur">Размазване</string>
   <string name="adjust_brightness">Яркост</string>
@@ -184,7 +184,6 @@
   <string name="context_menu_copy_notice">Копирано в буферната памет</string>
   <string name="contrast">Контраст</string>
   <string name="contrast_abbr">К</string>
-  <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="cool">Свежо</string>
   <string name="cool_portrait">Портрет</string>
   <string name="create_baby_album">Създаване на бебешки албум</string>
@@ -303,7 +302,6 @@
   <string name="family_member_invitation_text">Друг член на семейството</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filllight">Осветеност</string>
-  <string name="filllight_polymorphism">photoeditor_effect_filllight</string>
   <string name="filter">Филтри</string>
   <string name="filter_a4_aesthetic">Пречистено</string>
   <string name="filter_clarendon_fresh">Свежо</string>
@@ -325,21 +323,15 @@
   <string name="finish_create_baby_album_toast">Създаден е албум за \"%s\" в Mi Cloud</string>
   <string name="finish_fill_baby">Създаване</string>
   <string name="fisheye">Рибешко око</string>
-  <string name="fisheye_polymorphism">photoeditor_effect_fisheye</string>
   <string name="flash_off">Без светкавица</string>
   <string name="flash_on">Със светкавица</string>
   <string name="flip">Отразяване</string>
-  <string name="flip_polymorphism">photoeditor_effect_flip</string>
   <string name="flip_tooltip">Плъзнете снимката, за да я обърнете</string>
   <string name="frame_black">Черна</string>
-  <string name="frame_black_tooltip">photoeditor_frame_black</string>
   <string name="frame_button">Рамка</string>
   <string name="frame_classic">Класическа</string>
-  <string name="frame_classic_tooltip">photoeditor_frame_classic</string>
   <string name="frame_movie">Филм</string>
-  <string name="frame_movie_tooltip">photoeditor_frame_movie</string>
   <string name="frame_semicircle">Полукръг</string>
-  <string name="frame_semicircle_tooltip">photoeditor_frame_semicircle</string>
   <string name="frame_white">Бяла</string>
   <string name="frame_white_tooltip">photoeditor_frame_white</string>
   <string name="free">Свободно</string>
@@ -355,11 +347,9 @@
   <string name="hidden_album_display_name">Скрит албум</string>
   <string name="highlight">Яркост</string>
   <string name="highlight_abbr">Я</string>
-  <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_page_empty">Празно</string>
   <string name="home_page_label">Снимка</string>
   <string name="how_to_set_relation">Дълго натискане на албум за задаване на група</string>
-  <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="hybrid_check_network">Мрежови настройки</string>
   <string name="hybrid_data_error">Възникна грешка</string>
   <string name="hybrid_locating_fail">Местоположението не е налице</string>
@@ -548,7 +538,6 @@
   <string name="recommanded_face_abandon_tip">Премахнато от предложения</string>
   <string name="recommanded_face_added_tip">Добавено към \"%s\"</string>
   <string name="redeye">Червени очи</string>
-  <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Чукнете за премахване на червени очи</string>
   <string name="relation_text_empty_alert">Данни за роднинска връзка</string>
   <string name="relation_text_family">Член на семейството</string>
@@ -578,13 +567,11 @@
   <string name="revert">Върни</string>
   <string name="rise">Нарастване</string>
   <string name="rotate">Завърти</string>
-  <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Плъзнете снимката, за да я завъртите</string>
   <string name="runtime_permission_ungranted">Галерия се затвори, няма необходимите разрешения</string>
   <string name="same_name_album_exist_and_toast">"Вече съществува албум с това име. Вместо това е създаден '%s'."</string>
   <string name="saturation">Наситеност</string>
   <string name="saturation_abbr">Н</string>
-  <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
   <string name="save">Запиши</string>
   <string name="save_photo">Ще запишете ли редактираната снимка?</string>
   <string name="saving_failure">Снимката не може да се запише</string>
@@ -611,7 +598,6 @@
   <string name="set_face_image">Задаване на ново лице</string>
   <string name="set_group">Задаване на група</string>
   <string name="shadow">Сенки</string>
-  <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
   <string name="share">Сподели</string>
   <string name="share_album">Сподели албум</string>
   <string name="share_album_needs_auto_upload_tip">"Не може да изключите архивирането за споделените албуми"</string>
@@ -643,7 +629,6 @@
   <string name="sticker">Стикери</string>
   <string name="storage_no_space">"Няма място в хранилището."</string>
   <string name="straighten">Регулиране</string>
-  <string name="straighten_polymorphism">photoeditor_effect_straighten</string>
   <string name="straighten_tooltip">Плъзнете снимката, за да я изправите</string>
   <string name="success_create_quick_icon_on_desk">Успешно създадено</string>
   <string name="sync_album_in_proecess">Синхонизиране на албума…</string>
@@ -771,4 +756,14 @@
   <string name="custom_select_title_quickly_share">Сподели</string>
   <string name="fast_share_auto_render">Разкраси</string>
   <string name="fast_share_auto_render_finish">Разкрасено</string>
+  <string name="album_show_local_only">Показ. само на локални албуми</string>
+  <string name="delete_from_cloud">Изтрий елементите и в облака</string>
+  <string name="projection_device_connection_failed">Неуспешно свързване към проекционното устройство</string>
+  <string name="crop_and_rotate">Регулирай</string>
+  <string name="move_to_other_albums_tip">Ако преместите този албум в списъка с Други албуми, синхр. му с Mi Cloud ще бъде изключена. Преместване на албума сега?</string>
+  <string name="operation_move_to_other_albums">Преместване в Други албуми</string>
+  <string name="operation_remove_from_other_albums">Премахване от Други албуми</string>
+  <string name="remove_from_other_albums_tip">След като премахнете този албум от списъка с Други албуми, синхр. му с Mi Cloud ще бъде включена. Преместване на албума сега?</string>
+  <string name="turn_off_and_move">Изключи и Премести</string>
+  <string name="turn_on_and_remove">Включи и Премахни</string>
 </resources>

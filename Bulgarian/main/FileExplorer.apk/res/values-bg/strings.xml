@@ -885,4 +885,6 @@
   <string name="video_parse_success">Разборът на видео е успешен</string>
   <string name="video_parse_timeout">Нещо се обърка, опитайте отново</string>
   <string name="video_parsing_btn">Прави се разбор…</string>
+  <string name="force_touch_clean">Почисти</string>
+  <string name="force_touch_search">Търси файлове</string>
 </resources>

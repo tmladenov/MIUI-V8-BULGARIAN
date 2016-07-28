@@ -4372,4 +4372,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="permission_manage_global_build_title">Други разрешения</string>
   <string name="permission_settings_summary">Управление на разрешенията, свързани с местоположение, хранилище, телефон, съобщения и контакти.</string>
   <string name="permission_settings_title">Разрешения на прил.</string>
+  <string name="fingerprint_lock_first">Отключване на Първо пространство</string>
+  <string name="fingerprint_lock_second">Отключване на Второ пространство</string>
+  <string name="google_backup_enable">Вкл. на рез. копия</string>
 </resources>

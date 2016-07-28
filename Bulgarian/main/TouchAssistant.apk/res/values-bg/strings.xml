@@ -42,4 +42,5 @@
   <string name="hide_when_fullscreen">Скриване при цял екран</string>
   <string name="hide_when_fullscreen_intro">Скриване, когато сте в пълноекранен режим.</string>
   <string name="motion_behavior">Предпочитан жест</string>
+  <string name="theme_manager_not_supported">Приложението Теми не се поддържа.</string>
 </resources>

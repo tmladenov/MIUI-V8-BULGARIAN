@@ -160,4 +160,6 @@
   <string name="wifi_pwd">Парола:</string>
   <string name="wifi_security">Сигурност:</string>
   <string name="wifi_ssid">SSID:</string>
+  <string name="sdk_not_ready">SDK се подготвя. Опитайте по-късно.</string>
+  <string name="study_rotate_picture">Снимката се обработва</string>
 </resources>

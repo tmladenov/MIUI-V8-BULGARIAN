@@ -137,7 +137,11 @@
         <item quantity="one">Синхр. е изкл. %1$d елемент чака за архивиране</item>
      </plurals>
      <plurals name="fast_share_auto_render_failed">
-        <item quantity="other">"Прескочени %1$d снимки, които не могат да бъдат предадени."</item>
-        <item quantity="one">"Прескочена 1 снимка, която не може да бъде предадена."</item>
+        <item quantity="other">"Пропуснахме %1$d снимки, които не могат да бъдат разкрасени."</item>
+        <item quantity="one">"Пропуснахме 1 снимка, която не може да бъде разкрасена."</item>
+     </plurals>
+     <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">Пропуснахме %d снимки, които не са в устройството</item>
+        <item quantity="one">Пропуснахме 1 снимка, която не е в устройството</item>
      </plurals>
 </resources>
