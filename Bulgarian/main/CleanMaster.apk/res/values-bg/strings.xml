@@ -419,4 +419,19 @@
   <string name="search_history">История на търсенето</string>
   <string name="sms">SMS/MMS</string>
   <string name="start_downloading_app">Начало на изтегляне：%1$s</string>
+  <string name="deep_clean_data_path_clean_title">Почистване на вътр. хран.</string>
+  <string name="deep_clean_normal_clean_progress_desc">почистихме %1$s файла</string>
+  <string name="deepclean_1_k_clean">Почистване с един бутон</string>
+  <string name="deepclean_normal_item_desc1">Общо почистване</string>
+  <string name="deepclean_normal_item_desc2">Безопасно е да почистите</string>
+  <string name="deepclean_normal_item_summary_empty">Всичко изглежда добре, няма за почистване</string>
+  <string name="deepclean_normal_title">Автоматично почистване</string>
+  <string name="deepclean_size_summary_not_enough">Недостатъчно място</string>
+  <string name="low_memory_clean_dialog_msg">Първо трябва да почистите поне %1$s файла</string>
+  <string name="low_memory_clean_dialog_ok_button">ОК</string>
+  <string name="low_memory_clean_dialog_title">Недостатъчно място</string>
+  <string name="low_memory_warning_dialog_cancel_button">Отказ</string>
+  <string name="low_memory_warning_dialog_msg">Няма свободно място в устройството, първо почистете</string>
+  <string name="low_memory_warning_dialog_ok_button">ОК и почисти</string>
+  <string name="low_memory_warning_dialog_title">Недостатъчно свободно място</string>
 </resources>

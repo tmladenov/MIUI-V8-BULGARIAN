@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
     <string-array name="cache_sort_type">
         <item>Размер</item>
@@ -62,5 +61,8 @@
     <string-array name="video_clean_menu">
         <item>Почисти този файл</item>
         <item>Отвори</item>
+    </string-array>
+    <string-array name="low_memory_clean_menu">
+        <item>Почисти</item>
     </string-array>
 </resources>
