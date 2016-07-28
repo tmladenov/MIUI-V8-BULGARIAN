@@ -739,7 +739,6 @@ For more info check the message you received from your carrier"</string>
   <string name="pm_auto_start_by_system_event">Разрешава прил. да стартират автоматично</string>
   <string name="pm_auto_start_proc_is_running">Изпълняващи се</string>
   <string name="pm_remember_choice">Не показвай отново</string>
-  <string name="pm_root_success_notification_title">Root достъпът е активиран</string>
   <string name="power_20s_shutdown">Устройството ще се изключи след %d секунди</string>
   <string name="power_analysis_consume_title">Употреба на батерия</string>
   <string name="power_analysis_suggestion_need_optimize">Открит е проблем при консумиране на батерия.</string>
