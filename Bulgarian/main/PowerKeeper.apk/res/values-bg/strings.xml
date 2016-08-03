@@ -38,7 +38,7 @@
   <string name="fragment_tab_title_sys">Системни приложения</string>
   <string name="full_screen_enter">Влез в режим цял екран</string>
   <string name="full_screen_exit">Спри режим цял екран</string>
-  <string name="hide_mode_desc">Икономия на батерията чрез ограничаване на процесите на заден план, Wi-Fi, мобилните данни и GPS за всяко приложение поотделно</string>
+  <string name="hide_mode_desc">"Икономия на батерията чрез ограничаване на процесите на заден план, Wi-Fi, мобилните данни и GPS за всяко приложение поотделно. Българските потребители на MIUI препоръчват тази функция да бъде в положение: Изключено!"</string>
   <string name="hide_mode_ultimate_desc">Режим оптимизиране е вкл. Приложенията на заден план ще бъдат замразени. Изключете Икономия на батерия за да излезете от режим Оптимизиране.</string>
   <string name="high">Производителност</string>
   <string name="hints_loading_text">Един момент…</string>
