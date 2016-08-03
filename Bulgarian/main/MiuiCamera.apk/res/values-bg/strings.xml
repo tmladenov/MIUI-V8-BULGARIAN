@@ -673,4 +673,7 @@
   <string name="face_beauty_advanced">Профи</string>
   <string name="face_beauty_close">Изкл</string>
   <string name="face_beauty_smart">Смарт</string>
+  <string name="button_fisheye_camera_title">Рибешко око</string>
+  <string name="button_front_camera_title">Селфи</string>
+  <string name="button_normal_video_title">Видеозапис</string>
 </resources>

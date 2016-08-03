@@ -98,4 +98,6 @@
   <string name="accessibility_enter_lock_wallpaper">Натиснете върху тапета на заключен екран</string>
   <string name="lock_wallpaper_learn_more">Научете повече &gt;</string>
   <string name="lock_wallpaper_see_more">Вижте още &gt;</string>
+  <string name="fingerprint_enter_second_psw_msg">Въведете паролата за Второ пространство след рестартиране на устройството, за да използвате разпознаване по пръстов отпечатък</string>
+  <string name="fingerprint_enter_second_psw_title">Въведете парола за Второ пространство</string>
 </resources>
