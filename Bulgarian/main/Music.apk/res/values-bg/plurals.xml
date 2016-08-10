@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d песни бяха открити</item>
@@ -94,5 +93,13 @@
     <plurals name="download_running">
         <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> се изтеглят</item>
         <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> се изтегля</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d коментари</item>
+        <item quantity="one">%d коментар</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">прочетено от %d</item>
+        <item quantity="one">прочетено от %d</item>
     </plurals>
 </resources>

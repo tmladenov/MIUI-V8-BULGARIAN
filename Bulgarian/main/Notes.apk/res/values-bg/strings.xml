@@ -156,4 +156,10 @@ http://miui.bg/community/
   <string name="sns_desc_image_preview">Преглед на съобщение</string>
   <string name="force_touch_menu_add">Нова бележка</string>
   <string name="menu_send_as_text">Изпрати като текст</string>
+  <string name="dlg_check_reminder">Не показвай отново</string>
+  <string name="dlg_quick_delete_title">Бързо изтриване</string>
+  <string name="dlg_restore_message">Възстановява се…</string>
+  <string name="pref_desc_skip_confirm_for_quick_delete">Без показване на диалог при изтриване на бележка чрез жест</string>
+  <string name="pref_title_skip_confirm_for_quick_delete">Бързо изтриване</string>
+  <string name="toast_notes_delete_success">Успешно изтрито</string>
 </resources>

@@ -758,4 +758,33 @@
   <string name="force_touch_play_local_music_random">Shuffle local music</string>
   <string name="local_music_empty">Local playlist is empty</string>
   <string name="local_music_empty_goto_online">No songs found</string>
+  <string name="ad_close">close</string>
+  <string name="ad_extension">promotion</string>
+  <string name="artist_news">News</string>
+  <string name="billboard_song_subtitle">— %s</string>
+  <string name="comment_format" formatted="false">%s: %s</string>
+  <string name="create_order_fail">"Couldn't create order, try again."</string>
+  <string name="local_page_artist">Follow Artists</string>
+  <string name="local_page_custom_subtitle">Daily Songs</string>
+  <string name="local_page_custom_title">Private Custom</string>
+  <string name="local_page_song_all">All Songs</string>
+  <string name="local_page_song_download">Local Songs</string>
+  <string name="local_page_song_favorite">Favorite Songs</string>
+  <string name="online_bill">Bill</string>
+  <string name="online_favor">Featured</string>
+  <string name="online_fm">FM</string>
+  <string name="online_recommend">List</string>
+  <string name="online_special">Special</string>
+  <string name="playlist_type_album">Album</string>
+  <string name="playlist_type_artist">Artist</string>
+  <string name="playlist_type_billboard">Chart</string>
+  <string name="playlist_type_fm">FM</string>
+  <string name="playlist_type_my">My Playlist</string>
+  <string name="playlist_type_recommend">Featured Playlist</string>
+  <string name="settings_search_title_desktop_lyric">Home screen lyrics</string>
+  <string name="settings_search_title_download_quality">Download quality</string>
+  <string name="settings_search_title_download_when_favorite">Download favorites</string>
+  <string name="settings_search_title_main">Music</string>
+  <string name="settings_search_title_notification">Music notifications</string>
+  <string name="settings_search_title_vip_service">Premium songs</string>
 </resources>
