@@ -474,14 +474,6 @@
         <item>Естествени цветове</item>
         <item>Студени цветове</item>
      </string-array>
-     <string-array name="screen_key_long_press_action">
-        <item>Без действия</item>
-        <item>Последни приложения</item>
-        <item>Гласов асистент</item>
-        <item>Google Now</item>
-        <item>Затваря текущото приложение</item>
-        <item>Показване на меню</item>
-     </string-array>
      <string-array name="screen_key_long_press_timeout">
         <item>0.5 секунди</item>
         <item>1 секунда</item>
