@@ -448,4 +448,19 @@
   <string name="text_showmore_infoflow">View more sources</string>
   <string name="title_homepage_infoflow">Recent updates</string>
   <string name="toast_only_wifi_download">Connect to Wi-Fi to download this item</string>
+  <string name="btn_change">Промени</string>
+  <string name="dialog_btn_cancel">Отказ</string>
+  <string name="dialog_btn_ok">OK</string>
+  <string name="dialog_title_recommend">Изключете препоръчани източници</string>
+  <string name="download_status_continue">Продължи</string>
+  <string name="download_status_fail">Опитай пак</string>
+  <string name="download_status_paused">Пауза</string>
+  <string name="force_touch_newdownload">Ново изтегляне</string>
+  <string name="force_touch_rank">Класиране</string>
+  <string name="force_touch_search">Търси в мрежата</string>
+  <string name="home_page_new_download_guide">Новите сваляния отиват тук</string>
+  <string name="notify_install_guide_forward_text">Отвори</string>
+  <string name="notify_install_guide_msg">Инсталирането успешно</string>
+  <string name="notify_install_guide_title">Инсталирането %s успешно</string>
+  <string name="percent_title">%1$s хора са изтеглили</string>  
 </resources>
