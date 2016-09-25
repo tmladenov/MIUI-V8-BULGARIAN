@@ -81,4 +81,7 @@
   <string name="xl_speedup_experience_notify_title">Xunlei членство</string>
   <string name="xl_speedup_notify_button_experience">Тествай пробен период</string>
   <string name="xl_speedup_notify_button_member">Стани член</string>
+  <string name="notify_install_guide_forward_text">Отвори</string>
+  <string name="notify_install_guide_msg">Инсталирана успешно</string>
+  <string name="notify_install_guide_title">Инсталирана %s успешно</string>
 </resources>
