@@ -47,7 +47,6 @@
   <string name="app_wifi_mode">Wifi автоъпдейт</string>
   <string name="app_wifi_mode_summary">Когато сте в режим на WiFi, автоматично обнови до последната версия.</string>
   <string name="authenticated_failed">Неуспешно вписване</string>
-  <string name="authenticating">&lt;CDATA&gt;&amp;#1055;&amp;#1088;&amp;#1086;&amp;#1074;&amp;#1077;&amp;#1088;&amp;#1082;&amp;#1072; &lt;/CDATA&gt;</string>
   <string name="authenticating_manually">Грешка при удостоверяване</string>
   <string name="average_score">Рейтинг</string>
   <string name="avg_score">%.1f</string>
@@ -188,7 +187,7 @@
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
   <string name="live">Live</string>
-  <string name="loading">&lt;CDATA&gt;Зарежда се &lt;/CDATA&gt;</string>
+  <string name="loading">Зарежда се</string>
   <string name="loading_video_netplay_label">Зареждане, моля изчакайте...</string>
   <string name="loading_video_netplay_label_v5">Зареждане, моля изчакайте...</string>
   <string name="local_favorite_empty_title">Празно</string>
@@ -346,7 +345,6 @@
   <string name="subscribe">Абонамент</string>
   <string name="suffix_countdown">секунди</string>
   <string name="system_setting">Системни настройки</string>
-  <string name="tab_loading">&lt;CDATA&gt;...&lt;/CDATA&gt;</string>
   <string name="temp_play_history_button_label">Покажи история</string>
   <string name="tencent">Tencent</string>
   <string name="to_be_play_label_v5">Възпроизвеждането започва</string>
@@ -380,7 +378,6 @@
   <string name="user_tab">Мои приложения</string>
   <string name="version_select">Избор на версия</string>
   <string name="version_select_summary">Избор на алфа, за програмисти, или стабилна версия.</string>
-  <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
   <string name="video">Видео</string>
   <string name="video_app_update">Обнови</string>
   <string name="video_bbs">Присъедини се</string>
@@ -440,7 +437,7 @@
   <string name="vp_install">Инсталиране</string>
   <string name="vp_install_title">Съвети за инсталиране</string>
   <string name="vp_loading">Зарежда се…</string>
-  <string name="vp_loading_download">&lt;CDATA&gt;Изтегля се &lt;/CDATA&gt;</string>
+  <string name="vp_loading_download">Изтегля се</string>
   <string name="vp_loading_video">Зарежда се…</string>
   <string name="vp_low_definition">НИСКО</string>
   <string name="vp_maintitlearea">Enjoy the massive high-definition blockbuster, the speed of downloading at any time, there are more new TV show yo! Downloading HD components for you, click OK to enter the home page</string>
@@ -496,7 +493,7 @@
   <string name="vp_using_4_3">Принудително 4:3</string>
   <string name="vp_video_bad_network_condition">Лоша интернет връзка. Опитайте по-късно.</string>
   <string name="vp_video_invalid_cp_info">Невалидна информация за видеодоставчик, моля, рестартирайте приложението.</string>
-  <string name="vp_video_loading">&lt;CDATA&gt;Зарежда се&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="vp_video_loading">Зарежда се....</string>
   <string name="vp_video_plugin_installation">Инсталиране %1$s…</string>
   <string name="waiting_to_download">Изчаква</string>
   <string name="wasu">Wasu</string>
