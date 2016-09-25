@@ -1295,7 +1295,6 @@
   <string name="accessibility_call_muted">Заглушаване обаждане.</string>
   <string name="accessibility_speakerphone_enabled">Микрофон активиран.</string>
   <string name="activity_not_found">Приложението не е инсталирано на вашия телефон.</string>
-  <string name="advanced_settings_container">advanced settings container</string>
   <string name="associate_sim_missing_other">Други</string>
   <string name="buttonTxtContinue">Продължи</string>
   <string name="callDurationFormat">%1$s мин. %2$s сек.</string>
