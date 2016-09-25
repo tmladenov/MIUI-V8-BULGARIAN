@@ -162,4 +162,21 @@ http://miui.bg/community/
   <string name="pref_desc_skip_confirm_for_quick_delete">Без показване на диалог при изтриване на бележка чрез жест</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Бързо изтриване</string>
   <string name="toast_notes_delete_success">Успешно изтрито</string>
+  <string name="alert_title_hidden_note">Напомняне, получена скрита бележка</string>
+  <string name="all_folder_name">Всички бележки</string>
+  <string name="call_folder_name">Бележка за обаждане</string>
+  <string name="dlg_hide_message">Скриване…</string>
+  <string name="dlg_unhide_message">Скриването се отменя…</string>
+  <string name="error_hide_empty_note">"Не може да се скрие празна бележка"</string>
+  <string name="error_send_empty_note">"Не може да се изпрати празна бележка"</string>
+  <string name="hidden_notes_fragment_title">Скрити бележки</string>
+  <string name="menu_delete_forever">Изтриване завинаги</string>
+  <string name="menu_hide">Скрии</string>
+  <string name="menu_new_folder">Нова папка</string>
+  <string name="menu_restore">Възстанови</string>
+  <string name="menu_unhide">Показване</string>
+  <string name="root_folder_name">Бързи бележки</string>
+  <string name="toast_notes_hidden">Скриване успешно</string>
+  <string name="toast_notes_unhidden">Показване успешно</string>
+  <string name="trash_folder_name">Кошче</string>  
 </resources>
