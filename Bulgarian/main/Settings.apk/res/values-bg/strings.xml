@@ -4391,7 +4391,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="recognizer_settings_title">Гласово търсене</string>
   <string name="recognizer_title">Гласово разпознаване</string>
   <string name="screenshot">Екранна снимка</string>
-  <string name="screenshot_three_gesture">Плъзнете три пръста за да направите снимка на екрана</string>
+  <string name="screenshot_three_gesture">Плъзнете три пръста за снимка</string>
   <string name="screenshot_three_gesture_summary">Други жестове с три пръста ще бъдат изключени</string>
   <string name="tether_share_qrcode_title">Сподели QR код</string>
   <string name="usb_label_installer_cd">Инсталирай инструменти за прехвърляне на файлове</string>
