@@ -47,6 +47,7 @@
   <string name="app_wifi_mode">Wifi автоъпдейт</string>
   <string name="app_wifi_mode_summary">Когато сте в режим на WiFi, автоматично обнови до последната версия.</string>
   <string name="authenticated_failed">Неуспешно вписване</string>
+  <string name="authenticating">Проверка…</string>
   <string name="authenticating_manually">Грешка при удостоверяване</string>
   <string name="average_score">Рейтинг</string>
   <string name="avg_score">%.1f</string>
