@@ -272,7 +272,7 @@
   <string name="preferences_home_tz_title">Часови пояс</string>
   <string name="preferences_reminder_title">Настройки на напомняния</string>
   <string name="preferences_show_week_num_title">Показване номера на седмицата</string>
-  <string name="preferences_title">Настройки</string>
+  <string name="preferences_title">Календар</string>
   <string name="preferences_use_home_tz_descrip">Винаги показвай времето в календара според зададената часова зона (дори при далечно пътуване)</string>
   <string name="preferences_use_home_tz_title">Фиксирай часовата зона</string>
   <string name="preferences_week_start_day_default">-1</string>
