@@ -787,4 +787,20 @@
   <string name="settings_search_title_main">Music</string>
   <string name="settings_search_title_notification">Music notifications</string>
   <string name="settings_search_title_vip_service">Premium songs</string>
+  <string name="download_fail_to_fetch_info">"Не можа да се изтегли, опитайте отново"</string>
+  <string name="loadercontainer_loading">Само секунда…</string>
+  <string name="network_error_and_retry">"Не може да се свърже, докоснете за да опитате отново"</string>
+  <string name="share_image_error">Неможе да споделяте изображение, защото има грешка при изтегляне</string>
+  <string name="talkback_back">Върни се</string>
+  <string name="talkback_device">Пуснете на други устройства</string>
+  <string name="talkback_download">Изтегли</string>
+  <string name="talkback_favorite">Харесвам тази песен</string>
+  <string name="talkback_more">Още менюта</string>
+  <string name="talkback_next">Следваща песен</string>
+  <string name="talkback_play">Пусни / Пауза</string>
+  <string name="talkback_pre">Предишна песен</string>
+  <string name="talkback_radar">Разпознаване на музика</string>
+  <string name="talkback_search">Търсене</string>
+  <string name="talkback_share">Сподели</string>
+  <string name="toast_download_error_by_not_login">Влезте в Mi профила си и опитайте отново.</string>  
 </resources>
