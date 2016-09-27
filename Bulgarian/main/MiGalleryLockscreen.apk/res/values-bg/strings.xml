@@ -45,4 +45,17 @@
   <string name="wlan_download_cn">Обновяване по WLAN</string>
   <string name="cancel_lockscreen">Отказ</string>
   <string name="ok_enable_network_prov">Приемам</string>
+  <string name="apply">Приложи</string>
+  <string name="dislike">Изтрий</string>
+  <string name="from_migallerylockscreen">От wallpapers carousel</string>
+  <string name="like">Харесвам</string>
+  <string name="liked">Харесани</string>
+  <string name="lockscreen_wallpaper_changed">променени тапети</string>
+  <string name="platform_unavailable_qq">моля инсталирайте QQ</string>
+  <string name="platform_unavailable_qzone">моля инсталирайте Qzone</string>
+  <string name="platform_unavailable_wechat">моля инсталирайте wechat</string>
+  <string name="platform_unavailable_wechatmoment">моля инсталирайте wechat</string>
+  <string name="platform_unavailable_weibo">моля инсталирайте weibo</string>
+  <string name="settings">нстройки</string>
+  <string name="share">Сподели</string>  
 </resources>
