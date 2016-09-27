@@ -17,4 +17,5 @@
   <string name="settings_safetylegal_activity_title">Информация за безопасност</string>
   <string name="settings_safetylegal_activity_unreachable">"Нямате връзка за данни. За да видите тази информация сега, отворете %s от всеки компютър, свързан с интернет."</string>
   <string name="settings_safetylegal_title">Информация за безопасност</string>
+  <string name="ime_privacy_policy">Изберете клавиатура</string>  
 </resources>
