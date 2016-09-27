@@ -502,4 +502,10 @@
   <string name="xiaomi_account_type_unsupported">Системата не поддържа Mi профили</string>
   <string name="xiaomi_user">Xiaomi потребител</string>
   <string name="finish_install">Успешно инсталирано</string>
+  <string name="download_insufficient_space">Недостатъчно място</string>
+  <string name="error_empty_live_favor">Няма Колекция от телевизионни канали</string>
+  <string name="search_snack_more">Повече информация</string>
+  <string name="search_snack_sniff">Всички Net Източник</string>
+  <string name="tab_loading">...</string>
+  <string name="vertical_line">|</string>  
 </resources>
