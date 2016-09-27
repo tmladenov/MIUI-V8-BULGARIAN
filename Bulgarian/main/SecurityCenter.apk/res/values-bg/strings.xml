@@ -1510,4 +1510,27 @@ For more info check the message you received from your carrier"</string>
   <string name="toast_network_eror">Няма връзка с мрежата</string>
   <string name="unlike">Не, благодаря</string>
   <string name="use_immediately">Използвай</string>
+  <string name="bind_xiaomi_account_cancel">Отказ</string>
+  <string name="bind_xiaomi_account_confirm">Добави</string>
+  <string name="bind_xiaomi_account_dialog_summery">"На път сте да добавите Mi Account %s.  Ако сте забравили паролата си, можете да използвате този акаунт, за да я възстановите. Акаунтът, ще бъдат премахнат автоматично, ако излезете."</string>
+  <string name="bind_xiaomi_account_success">Mi Account е добавен успешно</string>
+  <string name="bind_xiaomi_account_summary">Използване на Mi Account, за да възстановите паролата си</string>
+  <string name="bind_xiaomi_account_title">Добави Mi Account</string>
+  <string name="card_main_private_space_action">Създайте</string>
+  <string name="card_main_private_space_summary">Използването на Второ място е като 2 устройства</string>
+  <string name="card_main_private_space_title">Второ място</string>
+  <string name="card_main_xspace_action">Създайте</string>
+  <string name="card_main_xspace_summary">Създавайте двоен акаунт за всяко приложение</string>
+  <string name="card_main_xspace_title">Двойни приложения</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Добавяне на Mi Account</string>
+  <string name="password_promotion_message">App заключване се обновява до Защитна парола. Можете да използвате текущия си Mi Account, за да го възстановите.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">App заключване се обновява до Защитна парола. Можете да използвате текущия си Mi Account, за да го възстановите. Добавете Mi Account, за да направи това.</string>
+  <string name="password_promotion_postbutton_text">Отидете в Настройки</string>
+  <string name="password_promotion_title">Защитна парола</string>
+  <string name="set_applock_password">Въведете парола</string>
+  <string name="setting_privacy_password">Използвай Защитна парола</string>
+  <string name="summary_garbage_clean">Изчистване на кеша за да освободите място</string>
+  <string name="tc_sms_report_title_bill">Докладване бъг за използването на данни</string>
+  <string name="tc_sms_report_title_calltime">Докладване бъг за използването на данни</string>
+  <string name="title_garbage_clean">App размер на кеша е достигнал %s</string>  
 </resources>
