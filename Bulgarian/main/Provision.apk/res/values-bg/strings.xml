@@ -57,5 +57,8 @@
   <string name="other_settings_auto_update">Актуализиране автоматично</string>
   <string name="other_settings_auto_update_summary">MIUI ще избере подходящо време, за да изтеглите и инсталирате актуализации.</string>
   <string name="other_settings_upload_debug_log_summary">Диагностичните данни могат да включват информация за вашата употреба на хардуер, операционна система и приложения. Данните ще бъдат използвани, за да се локализира и анализира проблемите в системата и никога няма да бъдат използвани, за да ви идентифицира лично.</string>
-  <string name="other_settings_upload_debug_log_title">Изпращане на данни за диагностика автоматично</string>  
+  <string name="other_settings_upload_debug_log_title">Изпращане на данни за диагностика автоматично</string>
+  <string name="app_name">Осигуряване</string>
+  <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
+  <string name="other_settings_mifg_online_content_summary">Свържете се с интернет, за да получите редовоно нови тапети за заключване на екрана.</string>  
 </resources>
