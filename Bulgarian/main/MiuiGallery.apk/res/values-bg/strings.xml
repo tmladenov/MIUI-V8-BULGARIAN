@@ -790,7 +790,7 @@
   <string name="secret_album_set_pc_password_dialog_msg">Защитна парола работи за приложения, снимки, бележки, скрити папки и т.н.</string>
   <string name="secret_album_set_pc_password_dialog_ok">Въведете парола</string>
   <string name="secret_album_set_pc_password_dialog_title">Задаване на нова парола</string>
-  <string name="secret_album_set_pc_password_first_use_msg">Защитната парола ще се използва. Тя ще работи за приложения, снимки, бележки, скрити папки и т.н.</string>
+  <string name="secret_album_set_pc_password_first_use_msg">Използване на Защитна парола. Тя ще работи за приложения, снимки, бележки, скрити папки и т.н.</string>
   <string name="secret_album_set_pc_password_first_use_title">Защитна парола</string>
   <string name="set_as_wallpaper_description">Това изображение е миниатюра, изтегляне на оригинала?</string>
   <string name="set_as_wallpaper_title">Задай като тапет</string>
