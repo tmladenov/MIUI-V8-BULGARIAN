@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cta_permission_names">
+        <item>Достъп до интернет</item>
+        <item>Четене на SMS</item>
+        <item>Промян на SMS</item>
+        <item>Получаване на SMS</item>
+        <item>Изпращане на SMS</item>
+        <item>Телефони обаждания</item>
+        <item>Четене на контакти</item>
+        <item>Промяна на контакти</item>
+        <item>Четене списъка с обаждания</item>
+        <item>Промяна списъка с обаждания</item>
+        <item>Достъп до камера</item>
+        <item>Достъп до местоположение</item>
+    </string-array>
+</resources>
