@@ -189,5 +189,5 @@ http://miui.bg/community/
   <string name="error_send_empty_note_to_weibo">"Не може да се изпрати празен бележка към Weibo"</string>
   <string name="hint_cannot_view_hidden_note_content">"Не може да видите съдържанието в скрити бележки"</string>
   <string name="toast_notes_hidden_count">Скриването на %1$s успешно</string>
-  <string name="toast_notes_unhidden_count">Отменено %1$s успешно</string>
+  <string name="toast_notes_unhidden_count">Отменено скриването на %1$s успешно</string>
 </resources>
