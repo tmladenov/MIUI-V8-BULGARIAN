@@ -276,4 +276,6 @@
   <string name="recommend_apps_notice_nodata">Препоръчани прил. (Няма данни)</string>
   <string name="children_mode_tips_message">Няма приложения в режим за деца. Моля, изберете приложение.</string>
   <string name="children_mode_tips_title">Моля, изберете приложение</string>
+  <string name="notification_installed">Успешно инсталиране</string>
+  <string name="notification_open_button">Отвори</string>  
 </resources>
