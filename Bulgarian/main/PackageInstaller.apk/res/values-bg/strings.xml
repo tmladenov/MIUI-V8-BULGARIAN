@@ -217,5 +217,13 @@
   <string name="virus_scan_install"><u>Инсталирай въпреки това</u></string>
   <string name="virus_scan_is_risk">"Това приложение представлява риск за сигурността на вашето устройство."</string>
   <string name="virus_scan_is_virus">Това приложение съдържа вирус.</string>
-  <string name="waiting_tip">Това може да отнеме известно време, но си заслужава</string>  
+  <string name="waiting_tip">Това може да отнеме известно време, но си заслужава</string>
+  <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) ще замени инсталиран понастоящем версия (%3$s). Всички съществуващи данни за приложения ще бъдат запазени.</string>
+  <string name="dlg_appstore_notice">Вземете това приложение от нашите официално &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u></string>
+  <string name="install_from_appstore_hint">Ние ви препоръчваме да инсталирате приложението от &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u></string>
+  <string name="message_appstore_verify_has_new_version">По-нова версия на това приложение е на разположение в нашия App Store. Искате ли да го инсталирате?</string>
+  <string name="message_appstore_verify_inconsistent">"Подписът на това приложение е различна от това в App Store, ще бъде по-безопасно да го инсталирате от там."</string>
+  <string name="message_appstore_verify_ok">Версията на това приложение в App Store е преминал тестовете за сигурност, препоръчваме ви да го инсталирате от там.</string>
+  <string name="safe_guard_support">Техническа помощ, предоставена от %1$s</string>
+  <string name="unknown_installer">Неизвестен PC инструмент</string>  
 </resources>
