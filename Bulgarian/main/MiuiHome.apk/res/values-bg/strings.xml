@@ -155,10 +155,10 @@
   <string name="loading_desktop">Един момент…</string>
   <string name="loading_wallpaper">Един момент…</string>
   <string name="local_wallpaper">Изтеглени</string>
-  <string name="lock_screen">Lock screen</string>
+  <string name="lock_screen">Заключен екран</string>
   <string name="lock_screen_failed_message">Неуспешно прилагане</string>
   <string name="lock_screen_success_message">Приложен</string>
-  <string name="lock_screen_wallpaper">Lock screen wallpaper</string>
+  <string name="lock_screen_wallpaper">Тапет на закл. екран</string>
   <string name="menu_add">Добави</string>
   <string name="menu_back_desktop">Обратно към началния екран</string>
   <string name="menu_customize">Настройки</string>
@@ -276,4 +276,6 @@
   <string name="recommend_apps_notice_nodata">Препоръчани прил. (Няма данни)</string>
   <string name="children_mode_tips_message">Няма приложения в режим за деца. Моля, изберете приложение.</string>
   <string name="children_mode_tips_title">Моля, изберете приложение</string>
+  <string name="notification_installed">Инсталирано</string>
+  <string name="notification_open_button">Отвори</string>
 </resources>

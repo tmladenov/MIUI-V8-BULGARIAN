@@ -152,4 +152,5 @@
   <string name="still">Снимка</string>
   <string name="ui">Стандарт</string>
   <string name="user_define_mode">Име</string>
+  <string name="google_base_app_install_choice">\"%s\" изисква Google Service Framework, за да работи нормално. Изтегляне на приложението?</string>
 </resources>

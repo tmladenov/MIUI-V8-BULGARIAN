@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Приемам</string>
-  <string name="agree_terms">"I've read and agreed to the Terms and Conditions"</string>
+  <string name="agree_terms">Прочетох и приемам правилата и условията</string>
   <string name="back">Back</string>
   <string name="congratulation_label">Насладете се на новият си телефон :)</string>
-  <string name="congratulation_title">All set</string>
+  <string name="congratulation_title">Всичко е настроено</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Използвайте вашия пръстов отпечатък за отключване на устройството,проверка на Mi Pay транзакции, или за вход в приложения и услуги.</string>
@@ -43,11 +43,22 @@
   <string name="sim_card_detection_info">Нуждаете се от SIM карта, за да настроите Mi профила.</string>
   <string name="sim_dectection_next">Продължи</string>
   <string name="sim_redetection">Провери отново за SIM карта</string>
-  <string name="skip_underline">&lt;u&gt;Пропусни тази стъпка&lt;/u&gt;</string>
+  <string name="skip_underline">Пропусни тази стъпка</string>
   <string name="summary_not_set">Не е настроено</string>
   <string name="terms_of_use">Условия за ползване</string>
   <string name="terms_of_use_label">Трябва да се съгласите с потребителското споразумение и правилата за поверителност преди да използвате MIUI</string>
   <string name="title_fingerprint">Добавете пръстов отпечатък</string>
   <string name="user_agreement">Потребителско споразумение</string>
   <string name="welcome">Добре дошли в</string>
+  <string name="app_name">Осигуряване</string>
+  <string name="content_description_complete">Завършване</string>
+  <string name="content_description_language_picker">Изберете език</string>
+  <string name="content_description_miui_version">MIUI 8</string>
+  <string name="content_description_start">Старт</string>
+  <string name="other_settings_auto_update">Автоматична актуализация</string>
+  <string name="other_settings_auto_update_summary">MIUI ще избере най-подходящото време за изтегляне и инсталиране на актуализации.</string>
+  <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
+  <string name="other_settings_mifg_online_content_summary">Свържете се с интернет, за да получавате регулярно нови тапети за вашия заключен екран.</string>
+  <string name="other_settings_upload_debug_log_summary">Диагностичните данни може да включват информация за вашето използване на хардуера, операционната система и приложенията. Данните ще бъдат използвани за локализиране и анализиране на проблемите в системата и никога няма да бъдат използвани за вашето персонално идентифициране.</string>
+  <string name="other_settings_upload_debug_log_title">Автоматично изпращане на диагностични данни</string>
 </resources>

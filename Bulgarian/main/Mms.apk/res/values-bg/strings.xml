@@ -663,9 +663,23 @@
   <string name="yes">OK</string>
   <string name="fake_cell_timeout_hint">Неуспешна проверка на сигурността</string>
   <string name="block_support_text">Поддържа се от Antiy.</string>
-  <string name="fake_cell_detection_entry">Fake base station detection</string>
+  <string name="fake_cell_detection_entry">Засичане на фалшиви базови станции</string>
   <string name="force_touch_new_message_title">Ново съобщение</string>
   <string name="pref_delivery_ringtone">Звуково известие</string>
   <string name="pref_summary_delivery_ringtone">Получаване на звуково известие за изпратено съобщение.</string>
-  <string name="networking_allow_desc_without_mx">"Smart messages allow you to recognize unknown numbers, filter spam, etc. By using this service, you agree to Xiaomi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
+  <string name="networking_allow_desc_without_mx">"Смарт съобщенията ви позволяват да разпознавате непознати номера, филтрирате спам и др. С използването на тази услуга вие се съгласявате с %1$s и %2$s на Xiaomi. Трябва да включите Жълти страници и да се свържете с интернет, за да използвате услугата."</string>
+  <string name="hold_to_talk">Задръжте, за да говорите</string>
+  <string name="no_delivery_report">Няма отчет за доставяне</string>
+  <string name="open_audio_record_panel">Отвори панел за аудиозапис</string>
+  <string name="pref_smart_messages_settings">Смарт съобщения</string>
+  <string name="privacy_password_message1">Паролата за поверителност работи за приложения, снимки, бележки и скрити папки.</string>
+  <string name="privacy_password_message2">Използвайте парола за поверителност. Тя работи за приложения, снимки, бележки и скрити папки.</string>
+  <string name="privacy_password_message3">Паролата за съобщения ще бъде заменена с парола за поверителност, която работи за приложения, снимки, бележки и скрити папки.</string>
+  <string name="privacy_password_set_password">Задай</string>
+  <string name="privacy_password_title1">Задаване на парола</string>
+  <string name="privacy_password_title2">Използване на парола за поверителност</string>
+  <string name="privacy_password_title3">Обновете вашата парола</string>
+  <string name="privacy_password_title4">Паролата е обновена</string>
+  <string name="show_delivery_status">Показвай състояние на доставяне</string>
+  <string name="slide_up_to_cancel">Плъзнете нагоре за отмяна</string>
 </resources>

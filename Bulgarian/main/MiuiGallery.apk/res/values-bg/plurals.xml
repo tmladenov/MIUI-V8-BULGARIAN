@@ -144,4 +144,16 @@
         <item quantity="other">Пропуснахме %d снимки, които не са в устройството</item>
         <item quantity="one">Пропуснахме 1 снимка, която не е в устройството</item>
      </plurals>
+     <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Добавени са %d снимки в облака, изключете \"Показвай само локални албуми\", за да ги видите.</item>
+        <item quantity="one">Добавена е %d снимка в облака, изключете \"Показвай само локални албуми\", за да я видите.</item>
+     </plurals>
+     <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">Не могат да се изтеглят %1$d снимки, свържете се с мрежата и опитайте отново</item>
+        <item quantity="one">Снимката не може да се изтегли, свържете се с мрежата и опитайте отново</item>
+     </plurals>
+     <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">Не могат да се изтеглят %1$d снимки (%2$dMB), свържете се с мрежата и опитайте отново</item>
+        <item quantity="one">Снимката не може да се изтегли (%2$dMB), свържете се с мрежата и опитайте отново</item>
+     </plurals>
 </resources>

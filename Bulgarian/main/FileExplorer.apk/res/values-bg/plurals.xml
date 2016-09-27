@@ -280,4 +280,28 @@
         <item quantity="few">%1$s гледания</item>
         <item quantity="many">%1$s гледания</item>
      </plurals>
+     <plurals name="follow_count">
+        <item quantity="other">%1$s последователи</item>
+        <item quantity="zero">%1$s последователи</item>
+        <item quantity="one">%1$s последовател</item>
+        <item quantity="two">%1$s последователи</item>
+        <item quantity="few">%1$s последователи</item>
+        <item quantity="many">%1$s последователи</item>
+     </plurals>
+     <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s коментари</item>
+        <item quantity="one">%1$s коментар</item>
+     </plurals>
+     <plurals name="user_follow_me_items">
+        <item quantity="other">последователи</item>
+        <item quantity="zero">последователи</item>
+        <item quantity="one">последовател</item>
+        <item quantity="two">последователи</item>
+        <item quantity="few">последователи</item>
+        <item quantity="many">последователи</item>
+     </plurals>
+     <plurals name="user_sign_limt">
+        <item quantity="other">Може да въведете %d символа</item>
+        <item quantity="one">Може да въведете %d символ</item>
+     </plurals>
 </resources>

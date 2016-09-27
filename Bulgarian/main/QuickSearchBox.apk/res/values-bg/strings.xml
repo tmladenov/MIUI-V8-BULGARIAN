@@ -79,4 +79,6 @@
   <string name="xiaomi_suggest_base"/>
   <string name="search_apps">Търсене на приложения</string>
   <string name="search_videos">Търсене на видеоклипове</string>
+  <string name="application_desc">Приложение</string>
+  <string name="applications_search_label">Приложения</string>
 </resources>
