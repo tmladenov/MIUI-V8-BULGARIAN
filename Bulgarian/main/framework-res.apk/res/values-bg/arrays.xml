@@ -44,4 +44,25 @@
         <item>Друг</item>
         <item>По избор</item>
     </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Запазен0</item>
+        <item>Запазен1</item>
+        <item>Поставете пръст върху сензора</item>
+        <item>Поставете пръста си напълно над сензора</item>
+        <item>Повдигнете пръст1 и покритие сензор плътно и напълно</item>
+        <item>Повдигнете пръст2 и покритие сензор плътно и напълно</item>
+        <item>Запазен6</item>
+        <item>Запазен7</item>
+        <item>Запазен8</item>
+        <item>Запазен9</item>
+        <item>Запазен10</item>
+        <item>Запазен11</item>
+        <item>Запазен12</item>
+        <item>Поставете пръст3 направо върху сензора</item>
+        <item>Преместете пръст4 малко между сканиранията</item>
+        <item>Повдигнете пръст5</item>
+        <item>Задръжте пръст6 върху сензора по-дълго</item>
+        <item>Запазен17</item>
+        <item>Запазен18</item>
+    </string-array>    
 </resources>
