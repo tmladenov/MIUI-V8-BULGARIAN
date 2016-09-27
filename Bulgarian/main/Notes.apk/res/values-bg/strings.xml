@@ -178,5 +178,16 @@ http://miui.bg/community/
   <string name="root_folder_name">Бързи бележки</string>
   <string name="toast_notes_hidden">Скриване успешно</string>
   <string name="toast_notes_unhidden">Показване успешно</string>
-  <string name="trash_folder_name">Кошче</string>  
+  <string name="trash_folder_name">Кошче</string>
+  <string name="dlg_btn_set_password">Въведете парола</string>
+  <string name="dlg_message_password_reset">"Парола "Скрити Бележки" ще бъдат заменени с Защитна парола, която работи за приложения, снимки, бележки, скрити папки и т.н."</string>
+  <string name="dlg_message_set_password">Защитна парола работи за приложения, снимки, бележки, скрити папки и т.н.</string>
+  <string name="dlg_message_use_privacy_password">Използване на Защитна парола. Тя ще работи за приложения, снимки, бележки, скрити папки и т.н.</string>
+  <string name="dlg_title_password_reset">Обновете вашата парола</string>
+  <string name="dlg_title_set_password">Въведете парола</string>
+  <string name="dlg_title_use_privacy_password">Използвай Защитна парола</string>
+  <string name="error_send_empty_note_to_weibo">"Не може да се изпрати празен бележка към Weibo"</string>
+  <string name="hint_cannot_view_hidden_note_content">"Не може да видите съдържанието в скрити бележки"</string>
+  <string name="toast_notes_hidden_count">Скриването на %1$s успешно</string>
+  <string name="toast_notes_unhidden_count">Отменено %1$s успешно</string>
 </resources>
