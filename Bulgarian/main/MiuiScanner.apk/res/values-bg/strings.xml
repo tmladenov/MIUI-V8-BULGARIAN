@@ -162,4 +162,13 @@
   <string name="wifi_ssid">SSID:</string>
   <string name="sdk_not_ready">SDK се подготвя. Опитайте по-късно.</string>
   <string name="study_rotate_picture">Снимката се обработва</string>
+  <string name="recognition_error_download_cancel">По късно</string>
+  <string name="recognition_error_download_data_msg">Свали разпознаване, за да сканирате карти. Нейният размер е около 15MB. Използване на мобилни данни за изтегляне?</string>
+  <string name="recognition_error_download_fail">"Не можа да се изтегли разпознаване"</string>
+  <string name="recognition_error_download_msg">Свали разпознаване, за да сканирате карти. Нейният размер е около 15MB.</string>
+  <string name="recognition_error_download_no_network">"Не можа да се изтегли. Уверете се, че сте свързани към интернет."</string>
+  <string name="recognition_error_download_ok">Изтегли</string>
+  <string name="recognition_error_download_success">Успешно изтегляне</string>
+  <string name="recognition_error_download_title">Изисква се разпознаване</string>
+  <string name="recognition_error_downloading">Разпознаването се изтегля…</string>  
 </resources>
