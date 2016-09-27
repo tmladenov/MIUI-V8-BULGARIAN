@@ -1031,7 +1031,7 @@
   <string name="delete_fingerprint_text">Премахване на Пръстов отпечатък</string>
   <string name="delete_legacy_fingerprint">Изтрий</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Изтриване на данните за пръстов отпечатък?</string>
-  <string name="deny">Отказ</string>
+  <string name="deny">Забрани</string>
   <string name="deny_sms_message">Не позволявай инсталираните приложения да изпращат SMS</string>
   <string name="deny_sms_title">Заключване на SMS</string>
   <string name="details_subtitle">Подробности за употреба</string>
