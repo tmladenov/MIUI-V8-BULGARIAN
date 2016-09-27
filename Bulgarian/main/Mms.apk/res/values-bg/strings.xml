@@ -499,7 +499,7 @@
   <string name="second_mms_notice">only display second message</string>
   <string name="second_mms_switch">switch user</string>
   <string name="secs">с.</string>
-  <string name="security_alert_desc">"Подателят не е във вашите контакти. "&lt;u&gt;&lt;font color="red"&gt;Докладвайте този номер&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="security_alert_desc">"Подателят не е във вашите контакти.</string>
   <string name="security_alert_desc_highlight">Докладвай този номер</string>
   <string name="security_alert_dialog_desc">Докладвайте този номер (%s) и съобщение чрез изпращане към Xiaomi</string>
   <string name="security_alert_dialog_title">Доклад</string>
@@ -667,7 +667,7 @@
   <string name="force_touch_new_message_title">Ново съобщение</string>
   <string name="pref_delivery_ringtone">Звуково известие</string>
   <string name="pref_summary_delivery_ringtone">Получаване на звуково известие за изпратено съобщение.</string>
-  <string name="networking_allow_desc_without_mx">"Smart messages allow you to recognize unknown numbers, filter spam, etc. By using this service, you agree to Xiaomi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
+  <string name="networking_allow_desc_without_mx">"Интелигентни съобщения ви позволяват да разпознае непознати номера, филтър за спам, и т.н. С помощта на тази услуга, вие се съгласявате с Xiaomi's %1$s и %2$s. Трябва да включите Yellow pages и да се свържете към интернет, за да използвате тази услуга."</string>
   <string name="hold_to_talk">Задръжте за говорене</string>
   <string name="no_delivery_report">Няма доклад за доставка</string>
   <string name="open_audio_record_panel">Отвори панел за аудио запис</string>
