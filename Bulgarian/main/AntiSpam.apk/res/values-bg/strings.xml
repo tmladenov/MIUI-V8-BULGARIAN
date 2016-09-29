@@ -347,10 +347,4 @@
   <string name="st_title_sim_unknown">Неизвестно</string>
   <string name="sure">OK</string>
   <string name="tab_block_log">История</string>
-  <string name="dlg_add_blacklist_title">Добави към блокирани</string>
-  <string name="mark_courier">Блокирай отчет за доставчик</string>
-  <string name="mark_courier_block">Отчет за доставчик</string>
-  <string name="mark_courier_block_large">Доставчици</string>
-  <string name="mark_courier_time_setting">Блокиране на номера, които са докладвани като доставчици за определен брой пъти</string>
-  <string name="mark_number_courier">Доставчик</string>  
 </resources>

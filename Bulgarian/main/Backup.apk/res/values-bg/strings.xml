@@ -352,5 +352,4 @@
 Делта актуализация: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Налична е нова версия!</string>
   <string name="multi_user_mode_backup_message">"Не може да архивирате, когато използвате режим за двама потребители. Изключете го, за да продължите."</string>
-  <string name="abort_restore_confirm">"Възстановяване не е довършено. Спри въпреки това?"</string>
 </resources>

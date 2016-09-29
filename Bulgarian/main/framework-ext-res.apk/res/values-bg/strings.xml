@@ -90,11 +90,19 @@
   <string name="screen_on_proximity_sensor_title">Предотвратяване на нежелани обаждания</string>
   <string name="screen_paper_mode_enter_toast">Режим четене е включен. Управлявайте тази функция от Допълнителни настройки &gt; Режим четене.</string>
   <string name="screen_rotation_freeze_message">Авт. завъртане е изключено.</string>
+<<<<<<< HEAD
   <string name="security_permission_denied_text">Достъпът отказан</string>
   <string name="security_permission_failed_text">Internal error, retry later</string>
   <string name="security_permission_validate_warning">Thank you for helping make MIUI better!</string>
   <string name="security_permission_wifi_and_data_opened_text">WLAN and mobile data turned on</string>
   <string name="security_permission_xiaomi_account_missed_text">Enter your Mi Account ID</string>
+=======
+  <string name="security_permission_denied_text">Отказан достъп</string>
+  <string name="security_permission_failed_text">Вътрешна грешка, опитайте по-късно</string>
+  <string name="security_permission_validate_warning">Благодарим ви за помощта да направим MIUI по-добър!</string>
+  <string name="security_permission_wifi_and_data_opened_text">Wi-Fi и мобилни данни са включени</string>
+  <string name="security_permission_xiaomi_account_missed_text">Въведете вашето Mi Account ID</string>
+>>>>>>> refs/remotes/tmladenov/master
   <string name="select">Избор</string>
   <string name="select_all">Избери всички</string>
   <string name="set_password_action">Задай парола</string>
@@ -106,7 +114,7 @@
   <string name="sim_added_reboot_title">SIM картата ще бъде активна след рестартиране на устройството ви.</string>
   <string name="softap_notifif_summary">%d свързани</string>
   <string name="softap_notifif_title">Хотспотът \"%s\" е активен</string>
-  <string name="start_security_permission_verify_text">Verify permissions with your Mi Account</string>
+  <string name="start_security_permission_verify_text">Потвърждаване на разрешения с вашия Mi профил</string>
   <string name="status_bar_toggle_ac">Достъп</string>
   <string name="status_bar_toggle_auto_brightness">Яркост</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
@@ -119,7 +127,6 @@
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Заключи</string>
   <string name="status_bar_toggle_midrop">Mi Drop</string>
-  <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
   <string name="status_bar_toggle_mute">Без звук</string>
   <string name="status_bar_toggle_network_type">Мрежа</string>
   <string name="status_bar_toggle_paper_mode">Четене</string>
@@ -140,17 +147,9 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi VPN</string>
   <string name="subinfo_default_name">SIM %d</string>
-  <string name="translation_query_error">"Couldn't find results"</string>
-  <string name="translation_query_error_network">"Couldn't connect to the network. Check settings and try again"</string>
+  <string name="translation_query_error">Не могат да се открият резултати</string>
+  <string name="translation_query_error_network">Няма връзка с мрежата. Проверете настройките и опитайте отново</string>
   <string name="turn_off">Изключване</string>
   <string name="unknown_caller">Неизвестен</string>
   <string name="user_switching_dialog_text">Превключване…</string>
-  <string name="xspace_resolver_activity_title">Избери app</string>
-  <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Докоснете отново, за да излезете</string>
-  <string name="screenshot_gesture_detect_alert_button">Включете в Настройки</string>
-  <string name="screenshot_gesture_detect_alert_dont_again">"Да не се показва отново"</string>
-  <string name="screenshot_gesture_detect_alert_msg">Плъзнете надолу с три пръста, за да направите снимка на екрана?</string>
-  <string name="screenshot_gesture_detect_alert_title">Три пръста скрийншот</string>
-  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">За да изключите функцията, натиснете бутона на звука нагоре.</string>
-  <string name="status_bar_toggle_edit">Редакция</string>  
 </resources>

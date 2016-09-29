@@ -139,11 +139,4 @@
   <string name="recognition_status_downloading">Изтегляне</string>
   <string name="runtime_permission_ungranted">Не може да използвате Звукозапис, поради нелегитимни права</string>
   <string name="empty_recognition_tip">Празно</string>
-  <string name="alert_message_clear_records">Изтриване на избраните записи?</string>
-  <string name="btn_clear_records">Изтриване на записи (%d елемента)</string>
-  <string name="choose_call_records_count">%d елемента</string>
-  <string name="clear_records">Изтриване на синхронизираните записи</string>
-  <string name="low_battery_error_confirm">OK</string>
-  <string name="low_battery_error_title">Изтощена батерия</string>
-  <string name="record_list_category_title_format">MMMM yyyy</string>  
 </resources>

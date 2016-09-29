@@ -499,7 +499,11 @@
   <string name="second_mms_notice">only display second message</string>
   <string name="second_mms_switch">switch user</string>
   <string name="secs">с.</string>
+<<<<<<< HEAD
   <string name="security_alert_desc">"Подателят не е във вашите контакти.</string>
+=======
+  <string name="security_alert_desc">Подателят не е във вашите контакти.</string>
+>>>>>>> refs/remotes/tmladenov/master
   <string name="security_alert_desc_highlight">Докладвай този номер</string>
   <string name="security_alert_dialog_desc">Докладвайте този номер (%s) и съобщение чрез изпращане към Xiaomi</string>
   <string name="security_alert_dialog_title">Доклад</string>
@@ -663,23 +667,8 @@
   <string name="yes">OK</string>
   <string name="fake_cell_timeout_hint">Неуспешна проверка на сигурността</string>
   <string name="block_support_text">Поддържа се от Antiy.</string>
-  <string name="fake_cell_detection_entry">Fake base station detection</string>
+  <string name="fake_cell_detection_entry">Засичане на фалшиви базови станции</string>
   <string name="force_touch_new_message_title">Ново съобщение</string>
   <string name="pref_delivery_ringtone">Звуково известие</string>
   <string name="pref_summary_delivery_ringtone">Получаване на звуково известие за изпратено съобщение.</string>
-  <string name="networking_allow_desc_without_mx">"Интелигентни съобщения ви позволяват да разпознае непознати номера, филтър за спам, и т.н. С помощта на тази услуга, вие се съгласявате с Xiaomi's %1$s и %2$s. Трябва да включите Yellow pages и да се свържете към интернет, за да използвате тази услуга."</string>
-  <string name="hold_to_talk">Задръжте за говорене</string>
-  <string name="no_delivery_report">Няма доклад за доставка</string>
-  <string name="open_audio_record_panel">Отвори панел за аудио запис</string>
-  <string name="pref_smart_messages_settings">Интелигентни съобщения</string>
-  <string name="privacy_password_message1">Защитна парола работи за приложения, снимки, бележки, скрити папки и т.н.</string>
-  <string name="privacy_password_message2">Използване на Защитна парола. Тя ще работи за приложения, снимки, бележки, скрити папки и т.н.</string>
-  <string name="privacy_password_message3">"Парола лични съобщения ще бъдат заменени с Защитна парола, която работи за приложения, снимки, бележки, скрити папки и т.н."</string>
-  <string name="privacy_password_set_password">Въведи</string>
-  <string name="privacy_password_title1">Въведете парола</string>
-  <string name="privacy_password_title2">Използвай Защитна парола</string>
-  <string name="privacy_password_title3">Обновете вашата парола</string>
-  <string name="privacy_password_title4">Паролата е обновена</string>
-  <string name="show_delivery_status">Показване състоянието на доставка</string>
-  <string name="slide_up_to_cancel">Плъзнете нагоре за отказ</string>  
 </resources>

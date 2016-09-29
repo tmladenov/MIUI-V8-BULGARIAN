@@ -1202,4 +1202,10 @@
   <string name="t9_search_guide_zhuyin_title1">Бързо търсене на контакти по букви</string>
   <string name="t9_search_guide_zhuyin_title2">Въведете 2 и 3 за търсене на Григор Димитров</string>
   <string name="fraud_more_indemnity">Още</string>
+  <string name="call_operator_init">Задай оператор</string>
+  <string name="call_problem_report">Докладвай грешка</string>
+  <string name="contact_detail_calllog_empty">Няма история</string>
+  <string name="data_unit_gb">ГБ</string>
+  <string name="data_unit_mb">МБ</string>
+  <string name="gallery">Галерия</string>
 </resources>
