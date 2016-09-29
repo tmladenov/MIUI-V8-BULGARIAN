@@ -151,6 +151,5 @@
   <string name="screenshot_gesture_detect_alert_dont_again">Не показвай повече</string>
   <string name="screenshot_gesture_detect_alert_msg">Плъзване надолу с три пръста за заснемане на екранна снимка?</string>
   <string name="screenshot_gesture_detect_alert_title">Екр. снимка с три пръста</string>
-  <string name="status_bar_toggle_edit">Редакция</string>
-  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">За да изключите функцията, натиснете бутона на звука нагоре.</string> 
+  <string name="status_bar_toggle_edit">Редакция</string> 
 </resources>
