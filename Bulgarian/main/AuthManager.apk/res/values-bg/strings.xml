@@ -290,4 +290,8 @@
   <string name="permisson_reject_notice_toast_text2">няма разрешение за %1$s.</string>
   <string name="HIPS_Perm_get_tasks">Достъп до задачите</string>
   <string name="HIPS_Perm_get_tasks_Desc">Достъп до задачите</string>
+  <string name="HIPS_Perm_background_start_activity">Старт на заден план</string>
+  <string name="HIPS_Perm_background_start_activity_Desc">стартиране на заден план</string>
+  <string name="HIPS_Perm_show_when_locked">Показване на заключен екран</string>
+  <string name="HIPS_Perm_show_when_locked_Desc">да се показва на закл. екран</string>
 </resources>

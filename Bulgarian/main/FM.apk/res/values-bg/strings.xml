@@ -65,4 +65,5 @@
   <string name="using_recorder_confirm">Приемам</string>
   <string name="using_recorder_dialog_message">"Радио се нуждае от достъп до услугата за запис на звук, за да работи нормално."</string>
   <string name="using_recorder_dialog_title">Изисква се разрешение</string>
+  <string name="runtime_permission_ungranted">Записът не може да стартира поради непълни разрешения</string>
 </resources>

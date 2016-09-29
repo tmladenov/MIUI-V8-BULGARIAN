@@ -1509,4 +1509,51 @@ For more info check the message you received from your carrier"</string>
   <string name="toast_network_eror">Няма връзка с мрежата</string>
   <string name="unlike">Не, благодаря</string>
   <string name="use_immediately">Използвай</string>
+  <string name="adb_install_no_network">Свържете се с мрежата и опитайте отново</string>
+  <string name="adb_install_open">Позволяване…</string>
+  <string name="adb_install_open_error">Не може да се поволи, проверете мрежата и опитайте отново</string>
+  <string name="adb_install_reject_notiy">Не се позволява инсталиране на %s чрез USB</string>
+  <string name="adb_install_reject_notiy_desc">Може да позволите инсталиране чрез USB в Опции на програмиста</string>
+  <string name="adb_login_xiaomi_account">Първо влезте в Mi профила си</string>
+  <string name="bind_xiaomi_account_cancel">Отказ</string>
+  <string name="bind_xiaomi_account_confirm">Добави</string>
+  <string name="bind_xiaomi_account_dialog_summery">"Напът сте да добавите Mi профила %s. Ако забравите паролата си, може да използвате този профил, за да я възстановите. Профилът ще бъде премахнат автоматично, ако се отпишете."</string>
+  <string name="bind_xiaomi_account_success">Mi профилът е добавен успешно</string>
+  <string name="bind_xiaomi_account_summary">Използвайте Mi профила, за да възстановите вашата парола</string>
+  <string name="bind_xiaomi_account_title">Добавяне на Mi профил</string>
+  <string name="card_main_private_space_action">Създаване</string>
+  <string name="card_main_private_space_summary">Използвайте Второ пространство все едно имате 2 устройства</string>
+  <string name="card_main_private_space_title">Второ пространство</string>
+  <string name="card_main_xspace_action">Създай</string>
+  <string name="card_main_xspace_summary">Създайте два профила за едно приложение</string>
+  <string name="card_main_xspace_title">Двойни приложения</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Добавяне на Mi профил</string>
+  <string name="menu_text_garbage_cleanup_danger">%s в повече</string>
+  <string name="notification_sysapp_cracked_text">Текущата версия на MIUI беше модифицирана</string>
+  <string name="notification_sysapp_cracked_title">Засечен е риск в сигурността</string>
+  <string name="password_promotion_button_text">Разбрах</string>
+  <string name="password_promotion_message">Заключването на приложения бе надградено до Парола за поверителност. Може да използвате текущия си Mi профил, за да я възстановите.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Заключването на приложения бе надградено до Парола за поверителност. Може да използвате текущия си Mi профил, за да я възстановите. Добавете вашия Mi профил, за да може да направите това.</string>
+  <string name="password_promotion_postbutton_text">Към Настройки</string>
+  <string name="password_promotion_title">Парола за поверителност</string>
+  <string name="set_applock_password">Задай парола</string>
+  <string name="setting_privacy_password">Задай Парола за поверителност</string>
+  <string name="summary_garbage_clean">Изчистете кеша, за да освободите място</string>
+  <string name="sys_app_prot_cracked_confirm">Разбрах</string>
+  <string name="sys_app_prot_cracked_login">Вход с Mi профил</string>
+  <string name="sys_app_prot_cracked_text_login">"Текущата версия на MIUI беше модифицирана, което поставя устройството ви под риск.
+
+Уверете се, че знаете от къде идва това устройство и се свържете със сервизен център на Xiaomi, за да получите помощ."</string>
+  <string name="sys_app_prot_cracked_text_unlogin">"Текущата версия на MIUI беше модифицирана, което поставя устройството ви под риск. Впишете се с вашия Mi профил, за да изключите предупреждението.
+
+Ако вие не сте модифицирали MIUI по никакъв начин, уверете се, че знаете от къде идва това устройство и се свържете със сервизен център на Xiaomi, за да получите помощ."</string>
+  <string name="sys_app_prot_cracked_title">Риск в сигурността</string>
+  <string name="tc_sms_report_get_sms_bill">Get SMS</string>
+  <string name="tc_sms_report_get_sms_calltime">Get SMS</string>
+  <string name="tc_sms_report_title_bill">Report data usage bug</string>
+  <string name="tc_sms_report_title_calltime">Report data usage bug</string>
+  <string name="title_garbage_clean">Кешът на приложенията достигна %s</string>
+  <string name="usb_adb_input_apply_step_1">Вашият компютър ще може да променя настройки и да дава разрешения без да знаете, когато устройството е свързано чрез USB</string>
+  <string name="usb_adb_input_apply_step_2">Това може да доведе до изтичане на лична информация като профили или съобщения</string>
+  <string name="usb_adb_input_apply_step_3">Уверете се, че разбирате всички свързани с това рискове. Разрешаване сега?</string>  
 </resources>

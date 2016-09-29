@@ -208,4 +208,18 @@
   <string name="yellow_page_sms_send_failed">Неуспешно изпращане на съобщението</string>
   <string name="yellow_page_sms_sending">Изпращане…</string>
   <string name="yellow_page_unable_send_sms">Не може да изпрати текстово съобщение</string>
+  <string name="cta_button_continue">Приемам</string>
+  <string name="cta_button_quit">Изход</string>
+  <string name="cta_check_reminder">"Не показвай отново"</string>
+  <string name="cta_message_license">С използването на този продукт, вие се съгласявате с условията, посочени в нашите Условия за ползване и Политика на поверителност.</string>
+  <string name="cta_message_permission">Това приложение се нуждае от %2$s да работи нормално.</string>
+  <string name="cta_permission_and"> и </string>
+  <string name="cta_permission_delimiter">, </string>
+  <string name="cta_title">Условия за ползване</string>
+  <string name="daydream">Мечта</string>
+  <string name="glockenspiel">Камбани</string>
+  <string name="vip_achievements">Постижения</string>
+  <string name="vip_login">Докоснете, за да влезете</string>
+  <string name="vip_not_login">Не сте влезли</string>
+  <string name="vip_sign">Подпис:</string>   
 </resources>

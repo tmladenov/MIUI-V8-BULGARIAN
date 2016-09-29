@@ -81,4 +81,7 @@
   <string name="search_videos">Търсене на видеоклипове</string>
   <string name="application_desc">Приложение</string>
   <string name="applications_search_label">Приложения</string>
+  <string name="hot_words">[{\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"ANDROIDBG\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"MIUI BULGARIAN\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Weather\",\"type\":\"unknown\",\"url\":\"\"}]</string>
+  <string name="search_keyword_quicksearchbox">Търсене</string>
+  <string name="settings_description">Имена на инсталирани приложения</string>
 </resources>

@@ -434,4 +434,16 @@
   <string name="low_memory_warning_dialog_msg">Няма свободно място в устройството, първо почистете</string>
   <string name="low_memory_warning_dialog_ok_button">ОК и почисти</string>
   <string name="low_memory_warning_dialog_title">Недостатъчно свободно място</string>
+  <string name="ad_install_success_dialog_lunch">Отваряне</string>
+  <string name="ad_install_success_dialog_title">%1$s е инсталирано. Да се отвори ли сега?</string>
+  <string name="btn_text_quick_cleanup_apk">Изтрий изпраните APK %1$s</string>
+  <string name="btn_text_quick_cleanup_appdata">Изтрий избраните данни %1$s</string>
+  <string name="btn_text_quick_cleanup_large_file">Изтрий избраните файлове %1$s</string>
+  <string name="btn_text_quick_cleanup_video">Изтрий избраните видеота %1$s</string>
+  <string name="deep_clean_completed_tips">Почистването е успешно</string>
+  <string name="deep_clean_uninstall_completed_tips">Деинсталирането е успешно</string>
+  <string name="deepclean_empty">Всичко изглежда наред</string>
+  <string name="deepclean_install_info_desc2">Изтриване на прил. за освобождаване на място</string>
+  <string name="hint_clean_select_items">Изтриване на дубликати…</string>
+  <string name="scanning">Сканиране…</string>  
 </resources>

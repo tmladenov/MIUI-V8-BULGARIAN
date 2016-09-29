@@ -50,4 +50,15 @@
   <string name="title_fingerprint">Добавете пръстов отпечатък</string>
   <string name="user_agreement">Потребителско споразумение</string>
   <string name="welcome">Добре дошли в</string>
+  <string name="app_name">Осигуряване</string>
+  <string name="content_description_complete">Завършване</string>
+  <string name="content_description_language_picker">Изберете език</string>
+  <string name="content_description_miui_version">MIUI 8</string>
+  <string name="content_description_start">Старт</string>
+  <string name="other_settings_auto_update">Автоматична актуализация</string>
+  <string name="other_settings_auto_update_summary">MIUI ще избере най-подходящото време за изтегляне и инсталиране на актуализации.</string>
+  <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
+  <string name="other_settings_mifg_online_content_summary">Свържете се с интернет, за да получавате регулярно нови тапети за вашия заключен екран.</string>
+  <string name="other_settings_upload_debug_log_summary">Диагностичните данни може да включват информация за вашето използване на хардуера, операционната система и приложенията. Данните ще бъдат използвани за локализиране и анализиране на проблемите в системата и никога няма да бъдат използвани за вашето персонално идентифициране.</string>
+  <string name="other_settings_upload_debug_log_title">Автоматично изпращане на диагностични данни</string>
 </resources>
