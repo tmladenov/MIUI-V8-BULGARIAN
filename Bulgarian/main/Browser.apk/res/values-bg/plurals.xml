@@ -35,4 +35,8 @@
         <item quantity="other">Да се изтрият ли %1$d елементи от историята?</item>
         <item quantity="one">Да се изтрие ли %1$d елемент от историята?</item>
      </plurals>
+     <plurals name="video_subtitle_last_message">
+        <item quantity="other">%d оставащи минути</item>
+        <item quantity="one">1 оставаща минута</item>
+     </plurals>
 </resources>

@@ -795,5 +795,5 @@
   <string name="set_as_wallpaper_description">Тази снимка е умалена, да се изтегли ли оригинала?</string>
   <string name="set_as_wallpaper_title">Задаване като тапет</string>
   <string name="video_editor_loading_warning_msg">"Поради грешка при кодирането, някой функции и прегледи може да са недостъпни по време на процеса на редактиране. Все пак това няма да засегне крайния видео файл."</string>
-  <string name="video_editor_loading_warning_title">Грешка при кодиране</string>
+  <string name="video_editor_loading_warning_title">Грешка при кодиране</string>  
 </resources>

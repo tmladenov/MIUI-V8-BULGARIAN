@@ -250,4 +250,10 @@
   <string name="michat_in_artificial_customer_state">"Can't do this while being helped by a person"</string>
   <string name="michat_lose_artificial">A network error occurred, you left the chat</string>
   <string name="michat_motto">Mi Support is ready to help</string>
+  <string name="bugreport_dialog_not_show_again">"Не показвай отново"</string>
+  <string name="bugreport_dialog_submit_content">Вашето обратна връзка може да съдържа лична информация.</string>
+  <string name="feedback_submitting">Изпращане…</string>
+  <string name="michat_message_error_network">"Не може да се свърже с мрежата"</string>
+  <string name="michat_message_send_error_network">"Не може да се изпрати, проверка на мрежовата връзка"</string>
+  <string name="upload_log_failed">"Не може да се изпрати логове"</string>  
 </resources>

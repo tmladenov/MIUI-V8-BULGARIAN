@@ -313,4 +313,11 @@
         <item>месеци</item>
         <item>години</item>
     </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>Преди 3 часа</item>
+        <item>Преди 4 часа</item>
+        <item>Преди 5 часа</item>
+        <item>Преди 6 часа</item>
+        <item>Преди 1 ден</item>
+     </string-array>    
 </resources>

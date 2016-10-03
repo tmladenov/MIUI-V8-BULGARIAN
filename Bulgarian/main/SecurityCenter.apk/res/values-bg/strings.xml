@@ -1555,5 +1555,5 @@ For more info check the message you received from your carrier"</string>
   <string name="title_garbage_clean">Кешът на приложенията достигна %s</string>
   <string name="usb_adb_input_apply_step_1">Вашият компютър ще може да променя настройки и да дава разрешения без да знаете, когато устройството е свързано чрез USB</string>
   <string name="usb_adb_input_apply_step_2">Това може да доведе до изтичане на лична информация като профили или съобщения</string>
-  <string name="usb_adb_input_apply_step_3">Уверете се, че разбирате всички свързани с това рискове. Разрешаване сега?</string>
+  <string name="usb_adb_input_apply_step_3">Уверете се, че разбирате всички свързани с това рискове. Разрешаване сега?</string>  
 </resources>

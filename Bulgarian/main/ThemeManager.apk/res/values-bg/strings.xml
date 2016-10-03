@@ -397,4 +397,5 @@
   <string name="incompatible_dialog_message">Тази тема не е напълно съвместима с MIUI 8. Някои елементи може да не се виждат коректно.</string>
   <string name="incompatible_dialog_ok">Разбрах</string>
   <string name="incompatible_dialog_title">Грешка при съвместимостта</string>
+  <string name="resource_data_empty">Съдържанието е празно.</string>  
 </resources>

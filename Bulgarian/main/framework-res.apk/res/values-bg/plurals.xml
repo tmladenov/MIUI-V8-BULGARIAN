@@ -72,4 +72,68 @@
         <item quantity="other">За %1$d мин (до %2$s)</item>
         <item quantity="one">За 1 мин (до %2$s)</item>
      </plurals>
+     <plurals name="abbrev_in_num_days">
+        <item quantity="other">След %d дни</item>
+        <item quantity="one">утре</item>
+     </plurals>
+     <plurals name="abbrev_in_num_hours">
+        <item quantity="other">След %d часа</item>
+        <item quantity="one">След 1 час</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">След %d минути</item>
+        <item quantity="one">След 1 минута</item>
+     </plurals>
+     <plurals name="abbrev_in_num_seconds">
+        <item quantity="other">След %d секунди</item>
+        <item quantity="one">След 1 секунда</item>
+     </plurals>
+     <plurals name="abbrev_num_days_ago">
+        <item quantity="other">%d дни преди</item>
+        <item quantity="one">вчера</item>
+     </plurals>
+     <plurals name="abbrev_num_hours_ago">
+        <item quantity="other">%d часа преди</item>
+        <item quantity="one">1 час преди</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d минути преди</item>
+        <item quantity="one">1 минута преди</item>
+     </plurals>
+     <plurals name="abbrev_num_seconds_ago">
+        <item quantity="other">%d секунди преди</item>
+        <item quantity="one">1 секунда преди</item>
+     </plurals>
+     <plurals name="in_num_days">
+        <item quantity="other">След %d дни</item>
+        <item quantity="one">утре</item>
+     </plurals>
+     <plurals name="in_num_hours">
+        <item quantity="other">След %d часа</item>
+        <item quantity="one">След 1 час</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+        <item quantity="other">След %d минути</item>
+        <item quantity="one">След 1 минута</item>
+     </plurals>
+     <plurals name="in_num_seconds">
+        <item quantity="other">След %d секунди</item>
+        <item quantity="one">След 1 секунда</item>
+     </plurals>
+     <plurals name="num_days_ago">
+        <item quantity="other">%d дни преди</item>
+        <item quantity="one">вчера</item>
+     </plurals>
+     <plurals name="num_hours_ago">
+        <item quantity="other">%d часа преди</item>
+        <item quantity="one">1 час преди</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+        <item quantity="other">%d минути преди</item>
+        <item quantity="one">1 минута преди</item>
+     </plurals>
+     <plurals name="num_seconds_ago">
+        <item quantity="other">%d секунди преди</item>
+        <item quantity="one">1 секунда преди</item>
+     </plurals>    
 </resources>

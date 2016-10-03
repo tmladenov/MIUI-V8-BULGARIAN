@@ -11,7 +11,7 @@
   <string name="auto_disable_screenbuttons_enable_toast_text">Navigation buttons enabled</string>
   <string name="auto_disable_screenbuttons_float_text">Touch to disable navigation buttons</string>
   <string name="auto_disable_screenbuttons_prompts_message">Double tap any button to turn navigations back on at any time.</string>
-  <string name="auto_disable_screenbuttons_prompts_not_show_again">"Don't show again"</string>
+  <string name="auto_disable_screenbuttons_prompts_not_show_again">"Да не се показва отново"</string>
   <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
   <string name="auto_disable_screenbuttons_prompts_title">Disable navigation buttons?</string>
   <string name="auto_start_warning_allow">Разреши</string>
@@ -54,9 +54,9 @@
   <string name="handy_mode_title">Ползване с една ръка</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Поставете пръст на бутон Начало</string>
   <string name="internal_livetalk_enable">Use top-up packages for domestic calls</string>
-  <string name="internal_remain_mins">%1$s minutes remaining (domestic calls)</string>
+  <string name="internal_remain_mins">%1$s оставащи минути (domestic calls)</string>
   <string name="international_livetalk_enable">Use top-up packages for international calls</string>
-  <string name="international_remain_mins">%1$s minutes remaining (%2$s calls)</string>
+  <string name="international_remain_mins">%1$s оставащи минути (%2$s повиквания)</string>
   <string name="key_btn_ok">ОК</string>
   <string name="key_btn_space">Интервал</string>
   <string name="livetalk_not_enable">Top-up package off</string>
@@ -147,9 +147,9 @@
   <string name="xspace_resolver_activity_title">Избор на приложение</string>
   <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Чукнете отново за изход</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">За изключване на функцията натиснете бутона за усилване на звука.</string>
-  <string name="screenshot_gesture_detect_alert_button">Включете в Настройки</string>
+  <string name="screenshot_gesture_detect_alert_button">Включете</string>
   <string name="screenshot_gesture_detect_alert_dont_again">Не показвай повече</string>
   <string name="screenshot_gesture_detect_alert_msg">Плъзване надолу с три пръста за заснемане на екранна снимка?</string>
   <string name="screenshot_gesture_detect_alert_title">Екр. снимка с три пръста</string>
-  <string name="status_bar_toggle_edit">Редакция</string>
+  <string name="status_bar_toggle_edit">Редакция</string> 
 </resources>

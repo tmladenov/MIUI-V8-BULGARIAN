@@ -80,5 +80,5 @@
     <plurals name="dialog_content_delete_image_from_all_devices_confirm">
         <item quantity="other">Изтриване на %1$s снимки от всички устройства?</item>
         <item quantity="one">Изтриване на %1$s снимка от всички устройства?</item>
-    </plurals>
+    </plurals>	
 </resources>

@@ -499,7 +499,7 @@
   <string name="second_mms_notice">only display second message</string>
   <string name="second_mms_switch">switch user</string>
   <string name="secs">с.</string>
-  <string name="security_alert_desc">Подателят не е във вашите контакти.</string>
+  <string name="security_alert_desc">"Подателят не е във вашите контакти.</string>
   <string name="security_alert_desc_highlight">Докладвай този номер</string>
   <string name="security_alert_dialog_desc">Докладвайте този номер (%s) и съобщение чрез изпращане към Xiaomi</string>
   <string name="security_alert_dialog_title">Доклад</string>

@@ -272,7 +272,7 @@
   <string name="preferences_home_tz_title">Часови пояс</string>
   <string name="preferences_reminder_title">Настройки на напомняния</string>
   <string name="preferences_show_week_num_title">Показване номера на седмицата</string>
-  <string name="preferences_title">Настройки</string>
+  <string name="preferences_title">Календар</string>
   <string name="preferences_use_home_tz_descrip">Винаги показвай времето в календара според зададената часова зона (дори при далечно пътуване)</string>
   <string name="preferences_use_home_tz_title">Фиксирай часовата зона</string>
   <string name="preferences_week_start_day_default">-1</string>
@@ -416,4 +416,25 @@
   <string name="yearly">Ежегодно (%s)</string>
   <string name="yearly_plain">Годишно</string>
   <string name="zhushen"/>
+  <string name="festival_detail_title">Фестивал</string>
+  <string name="force_touch_title_add_new_event">Добави събитие</string>
+  <string name="holiday_card_title">Празник</string>
+  <string name="no_visiable_calendar_message">Вие трябва да изберете един календарен профил. Докоснете Избери за да продължите.</string>
+  <string name="no_visiable_calendar_select_account">Избери профил</string>
+  <string name="no_visiable_calendar_title">Изберете календар профил</string>
+  <string name="preferences_alerts_vibrate_title">Вибрация и мелодия</string>
+  <string name="preferences_notification_ringtone_title">Мелодия</string>
+  <string name="preferences_solar_terms">Покажи слънчеви условия</string>
+  <string name="setting_about_calendar_version">Версия календар:</string>
+  <string name="setting_about_miui_version">MIUI версия:</string>
+  <string name="setting_about_summary">Версия:</string>
+  <string name="setting_holiday_display_desc">Празнични карти са разположени под вашия дневен ред на началната страница</string>
+  <string name="setting_holiday_display_title">Показване на празници</string>
+  <string name="setting_holiday_reminder">Напомняне на празници</string>
+  <string name="setting_homepage">Настройки начална страница</string>
+  <string name="setting_title_about">Относно</string>
+  <string name="settings_calendar">Календар</string>
+  <string name="today_flight_event">Полет</string>
+  <string name="today_train_event">Влак</string>
+	<string name="template_week_num">Седмица %1$s</string>  
 </resources>

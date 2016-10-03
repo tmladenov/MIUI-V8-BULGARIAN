@@ -28,4 +28,13 @@
         <item>Приятели</item>
         <item>Неизвестни</item>
     </string-array>
+    <string-array name="relation_with_me_value">
+        <item>Аз</item>
+        <item>Дете</item>
+        <item>Семейство</item>
+        <item>Колеги</item>
+        <item>Съученици</item>
+        <item>Приятели</item>
+        <item>Неизвестни</item>
+    </string-array>     
 </resources>

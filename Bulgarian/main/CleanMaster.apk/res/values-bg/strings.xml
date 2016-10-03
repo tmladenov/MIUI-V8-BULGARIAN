@@ -445,5 +445,5 @@
   <string name="deepclean_empty">Всичко изглежда наред</string>
   <string name="deepclean_install_info_desc2">Изтриване на прил. за освобождаване на място</string>
   <string name="hint_clean_select_items">Изтриване на дубликати…</string>
-  <string name="scanning">Сканиране…</string>
+  <string name="scanning">Сканиране…</string>  
 </resources>
