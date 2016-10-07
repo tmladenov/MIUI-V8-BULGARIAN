@@ -26,9 +26,6 @@
   <string name="cit_audio_cali_summary">Калибриране на говорител PA</string>
   <string name="cit_audio_cali_t0">T0:</string>
   <string name="cit_audio_cali_title">Говорител PA-тест за калибриране</string>
-  <string name="cit_audio_cali_valueF0">F0:</string>
-  <string name="cit_audio_cali_valueR">Ref_diff:</string>
-  <string name="cit_audio_cali_valueT">Temp_acc:</string>
   <string name="cit_audio_calibrating">Калибрирането се извършва...</string>
   <string name="cit_audio_get_temp_fail">Не може да се получи информация за температурата!</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Заден микрофон-тест за реагиране</string>

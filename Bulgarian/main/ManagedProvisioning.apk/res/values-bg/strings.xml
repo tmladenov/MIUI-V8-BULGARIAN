@@ -12,8 +12,6 @@
   <string name="continue_provisioning_notify_text">Докоснете, за да продължите с настройването на служебния си потребителски профил</string>
   <string name="continue_provisioning_notify_title">Шифроването завърши</string>
   <string name="copying_certs">Setting up CA certificates</string>
-  <string name="default_managed_profile_name">Служебен потребителски профил</string>
-  <string name="default_owned_device_username">Потребител на служебното устройство</string>
   <string name="delete_profile">Изтриване</string>
   <string name="delete_profile_title">Remove work profile?</string>
   <string name="device_owner_cancel_cancel">Отказ</string>

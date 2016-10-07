@@ -1122,9 +1122,6 @@ For more info check the message you received from your carrier"</string>
   <string name="tc_diagnostic_brand_error_notification_title">Wrong network type</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Wrong carrier brand&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Done</string>
-  <string name="tc_diagnostic_fragment_default">"About diagnostics
-1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
-2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Tap to adjust location</string>
   <string name="tc_diagnostic_location_error_notification_title">Wrong location</string>
   <string name="tc_diagnostic_notification_sumarry">Tap to view results</string>

@@ -444,14 +444,10 @@
   <string name="pref_camera_snap_entry_take_movie">Когато екранът е изключен, натиснете &amp; задръжте бутон НАМАЛЯВАНЕ на звук за да стартирате запис на видео. Пуснете, за да спре.</string>
   <string name="pref_camera_snap_entry_take_picture">Когато екранът е изключен, натиснете &amp; задръжте бутон НАМАЛЯВАНЕ на звук, за да стартирате серия от бързо заснемане. Пуснете, за да спре.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Не може да се използват бутони за бързо стартиране \"Събуждане със странични бутони\" е вкл."</string>
-  <string name="pref_camera_snap_value_off">Изкл.</string>
-  <string name="pref_camera_snap_value_take_movie">Видео</string>
-  <string name="pref_camera_snap_value_take_picture">Снимка</string>
   <string name="pref_camera_sound_entry_off">Изкл.</string>
   <string name="pref_camera_sound_entry_on">Вкл.</string>
   <string name="pref_camera_sound_title">Звук на камерата</string>
   <string name="pref_camera_square_mode_title">Квадрат</string>
-  <string name="pref_camera_tilt_shift_default">Кръг</string>
   <string name="pref_camera_tilt_shift_entry_circle">Кръг</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Паралелно</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>

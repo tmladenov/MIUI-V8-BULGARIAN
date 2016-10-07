@@ -77,7 +77,6 @@
   <string name="phone_locked_timeout_minutes_string">Моля, върнете се след %s минути</string>
   <string name="phone_locked_timeout_seconds_string">Моля, върнете се след %s секунди</string>
   <string name="pin_operation_failed">Неуспешна PIN операция.</string>
-  <string name="pincode_set_to_default_msg">Зададен е PIN код 1234, може да го промените тук:</string>
   <string name="puk_operation_failed">Неуспешна PUK операция.</string>
   <string name="return_to_me_message">Моля, върнете телефона, ако сте го намерили!</string>
   <string name="screen_on_proximity_sensor_hint">"Принудително прекратяване: натиснете едновременно бутони 'Назад' и 'Звук +'"</string>

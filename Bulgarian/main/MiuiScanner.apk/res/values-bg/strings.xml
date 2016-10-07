@@ -111,7 +111,6 @@
   <string name="phone">Телефон:</string>
   <string name="picker_lable">Снимка</string>
   <string name="place_barcode_into_rectangle">Нагласете кода вътре в рамката</string>
-  <string name="pref_camera_focusmode_default">продължаване-снимка</string>
   <string name="pref_camera_jpeg_quality_fine">фин</string>
   <string name="pref_camera_jpeg_quality_normal">нормален</string>
   <string name="pref_camera_jpeg_quality_superfine">суперфин</string>

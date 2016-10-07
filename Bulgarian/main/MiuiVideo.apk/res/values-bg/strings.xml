@@ -230,7 +230,6 @@
   <string name="not_buy_vip">Няма закупен ВИП</string>
   <string name="not_exist_openid">Получаване на информация за акаунта, моля, изчакайте...</string>
   <string name="not_login">Не сте вписан</string>
-  <string name="notification_default_title">Офлайн видео</string>
   <string name="notification_sub_title">Общо %d задача/и за изтегляне са завършени</string>
   <string name="notification_ticker_text">Завършване на изтегляне на видео офлайн.</string>
   <string name="notification_title">\"%s\" изтегляне завършено</string>

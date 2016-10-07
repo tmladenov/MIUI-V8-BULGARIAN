@@ -3857,8 +3857,6 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="wait_for_debugger_summary">Прил. изчаква инстр. за отстраняване на грешки да се прикачи преди изпълнение</string>
   <string name="wakeup_for_keyguard_notification_title">Събуждане на екрана при известия</string>
   <string name="wallpaper_attributions">Тапети</string>
-  <string name="wallpaper_attributions_values">"Доставчици на сателитни изображения:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Начален екран</string>
   <string name="wallpaper_live">Динамичен тапет</string>
   <string name="wallpaper_lockscreen">Закл. екран</string>

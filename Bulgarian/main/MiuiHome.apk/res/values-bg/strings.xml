@@ -58,11 +58,9 @@
   <string name="current_preview">Преглед</string>
   <string name="current_wallpaper">Текущ</string>
   <string name="custom_wallpaper_picker">Преглеждане</string>
-  <string name="default_folder_title_claro">Claro</string>
   <string name="default_folder_title_game">Игри</string>
   <string name="default_folder_title_recommend">Препоръчителни</string>
   <string name="default_folder_title_security">Безопасност</string>
-  <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Инструменти</string>
   <string name="delete">Изтрий</string>
   <string name="delete_screen">Изтрий бутон за екрани</string>

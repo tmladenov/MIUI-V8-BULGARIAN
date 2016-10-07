@@ -164,7 +164,6 @@
   <string name="data_enabled">Данните са активирани</string>
   <string name="default_area_code_setting">Селищен код по подразбиране</string>
   <string name="default_notification_description">Тон по подразбиране (%1$s)</string>
-  <string name="default_preference_summary">&lt;Не е настроен&gt;</string>
   <string name="delete_fdn_contact">Изтриване на фиксирани номера за набиране</string>
   <string name="deleting_fdn_contact">Фиксираните номера за набиране се изтриват…</string>
   <string name="description_delete_button">изтриване</string>
@@ -630,7 +629,6 @@
   <string name="respond_via_sms_confirmation_format">До %s бе изпратено съобщение.</string>
   <string name="respond_via_sms_custom_message">Персонализирано съобщение...</string>
   <string name="respond_via_sms_edittext_dialog_title">Бърз отговор</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Възст. на станд. настройки</string>
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Бързи отговори</string>
   <string name="respond_via_sms_setting_title_2">Редакт. бързи отговори</string>
@@ -709,7 +707,6 @@
   <string name="sum_cfu_enabled_no_number">Номерът не е наличен</string>
   <string name="sum_cw_disabled">Да бъда уведомяван/а за вх. обаждания по време на разговор</string>
   <string name="sum_cw_enabled">Да бъда уведомяван/а за вх. обаждания по време на разговор</string>
-  <string name="sum_default_caller_id">Използване на стандартните настройки на оператора за извеждане на номера ми при изходящи обаждания.</string>
   <string name="sum_fdn">Управление на фиксираните номера за набиране</string>
   <string name="sum_fdn_change_pin">Промяна на PIN за достъп до ФНН</string>
   <string name="sum_fdn_manage_list">Управление на списъка с телефонни номера</string>
@@ -762,7 +759,6 @@
   <string name="voice_privacy_summary">Активиране на разширен режим на поверителност</string>
   <string name="voicemail">Гласова поща</string>
   <string name="voicemail_abbreviated">VM:</string>
-  <string name="voicemail_default">Моят оператор</string>
   <string name="voicemail_notification_ringtone_title">Мелодия</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Вибриране</string>
   <string name="voicemail_notification_vibrate_when_title">Вибриране</string>

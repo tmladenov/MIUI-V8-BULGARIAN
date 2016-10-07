@@ -799,8 +799,6 @@
   <string name="preference_swipe_description">В списък с кореспонденции</string>
   <string name="preference_swipe_title_archive">Прекарайте пръст, за да архивирате</string>
   <string name="preference_swipe_title_delete">Прекарайте пръст, за да изтриете</string>
-  <string name="preferences_default_reply_all_summary">Използване като стандартна опция при отговор на съобщения</string>
-  <string name="preferences_default_reply_all_title">Отговор до всички</string>
   <string name="preferences_signature_dialog_title">Подпис</string>
   <string name="preferences_signature_summary_not_set">Не е зададен</string>
   <string name="preferences_signature_title">Подпис</string>

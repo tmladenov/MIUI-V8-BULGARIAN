@@ -343,7 +343,6 @@
   <string name="granularity_label_line">ред</string>
   <string name="granularity_label_link">връзка</string>
   <string name="granularity_label_word">дума</string>
-  <string name="gsm_alphabet_default_charset"/>
   <string name="hardware">Хардуер</string>
   <string name="heavy_weight_notification">%1$s се изпълнява</string>
   <string name="heavy_weight_notification_detail">Докоснете за превключване към приложение</string>
@@ -1309,8 +1308,6 @@
   <string name="whichSendApplicationNamed">Споделяне чрез %1$s</string>
   <string name="whichViewApplication">Отваряне чрез</string>
   <string name="whichViewApplicationNamed">Отваряне чрез %1$s</string>
-  <string name="widget_default_class_name"/>
-  <string name="widget_default_package_name"/>
   <string name="wifi_available_sign_in">Влизане в Wi-Fi мрежа</string>
   <string name="wifi_calling_off_summary">Изключено</string>
   <string name="wifi_connect_alert_message">Приложението %1$s иска да се свърже с Wi-Fi мрежата „%2$s“</string>

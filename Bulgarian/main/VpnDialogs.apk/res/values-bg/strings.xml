@@ -4,7 +4,6 @@
   <string name="configure">Конфигуриране</string>
   <string name="data_received">Получено:</string>
   <string name="data_transmitted">Изпратено:</string>
-  <string name="data_value_format">%1$s байта/ %2$s пакета</string>
   <string name="disconnect">Изключване</string>
   <string name="duration">Продължителност:</string>
   <string name="legacy_title">VPN е свързана</string>

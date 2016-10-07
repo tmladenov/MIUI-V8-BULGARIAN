@@ -348,7 +348,6 @@
   <string name="dial_emergency_error">баждането не е изпратено, %s не е номер за спешен номер!</string>
   <string name="dial_related_setting_catory">Набиране</string>
   <string name="dialerKeyboardHintText">Използвайте клавиатурата за набиране</string>
-  <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
   <string name="dialog_network_priority_title">Приоритет</string>
   <string name="dialog_no">Не</string>
   <string name="dialog_yes">Да</string>
@@ -694,7 +693,6 @@
   <string name="msim_not_set_summary">Не е зададено</string>
   <string name="msim_pref_title_data">Интернет</string>
   <string name="msim_pref_title_voice">Обаждания</string>
-  <string name="msim_select_default_time_left">(%d сек.)</string>
   <string name="msim_set_icc_card_error">Грешка на ICC картата</string>
   <string name="msim_set_sub_not_supported_phone_in_call">По време на обаждане не може да настройвате</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Грешка на SIM картата</string>
@@ -801,7 +799,6 @@
   <string name="operator_first_title">Първо оператор</string>
   <string name="operator_mins_first">Даване на приоритет на абонамент от опрератор.</string>
   <string name="operator_remain_mins">Минути от оператор</string>
-  <string name="operator_remain_mins_value">%1$s минути</string>
   <string name="optional_summary">&lt;По избор&gt;</string>
   <string name="order_error_network">Зареждането неуспешно, недостъпна мрежа.</string>
   <string name="order_error_retry">Повторен опит</string>
@@ -1271,7 +1268,6 @@
   <string name="voicemail_default">Моят оператор</string>
   <string name="voicemail_notification_ringtone_title">Мелодия</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Вибриране</string>
-  <string name="voicemail_notification_vibrate_when_default">Никога</string>
   <string name="voicemail_notification_vibrate_when_title">Вибриране</string>
   <string name="voicemail_number_not_set">&lt;не е зададен&gt;</string>
   <string name="voicemail_provider">Услуга за гласова поща</string>

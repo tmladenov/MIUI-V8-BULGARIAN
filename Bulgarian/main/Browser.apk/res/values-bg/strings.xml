@@ -150,7 +150,6 @@
      <string name="color_picker_dialog_title">Изберете цвят</string>
      <string name="color_picker_hue">Оттенък</string>
      <string name="color_picker_saturation">Наситеност</string>
-     <string name="color_picker_value">Стойност</string>
      <string name="comment_app_menu">Коментар</string>
      <string name="comment_menu">Коментар</string>
      <string name="common_use_phrase_bottom_bar_cn_txt">.bg</string>
@@ -325,7 +324,6 @@
      <string name="js_dialog_before_unload_positive_button">Напускане на тази страница</string>
      <string name="js_dialog_before_unload_title">Потвърждаване на придвижването</string>
      <string name="js_dialog_title">Страницата на адрес \" %s \" съобщава:</string>
-     <string name="js_dialog_title_default">JavaScript</string>
      <string name="js_disable_confirm_message">Деактивирането на JavaScript може да доведе до неправилно визуализиране на някои уеб сайтове</string>
      <string name="js_disable_confirm_title">Да се деактивира ли JavaScript?</string>
      <string name="keep_queued_download">Запази</string>

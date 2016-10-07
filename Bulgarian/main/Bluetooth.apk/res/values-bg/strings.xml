@@ -54,7 +54,6 @@
   <string name="bt_toast_6">Спри изпращането на файл към \"%1$s\"</string>
   <string name="btopp_live_folder">Получено по Bluetooth</string>
   <string name="defaultname">Автомобилен комплект</string>
-  <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Изтрийте всички записи</string>
   <string name="delete_record">Изтрий запис</string>
   <string name="device_picker">Избор на Bluetooth устройство</string>

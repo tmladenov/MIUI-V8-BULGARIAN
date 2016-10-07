@@ -22,7 +22,6 @@
   <string name="convertion_unit_weight">Сметни в тежести</string>
   <string name="cos">cos</string>
   <string name="cosDesc">косинус</string>
-  <string name="cos_mathematical_value">cos</string>
   <string name="currency_update_time_format">Обновено %s</string>
   <string name="del">DEL</string>
   <string name="digit0">0</string>
@@ -41,7 +40,6 @@
   <string name="dotDesc">десетична запетая</string>
   <string name="e">e</string>
   <string name="eDesc">Неперово число</string>
-  <string name="e_mathematical_value">e</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">равно</string>
@@ -72,10 +70,8 @@
   <string name="leftParenDesc">лява скоба</string>
   <string name="lg">лог</string>
   <string name="lgDesc">логаритъм</string>
-  <string name="lg_mathematical_value">lg</string>
   <string name="ln">ln</string>
   <string name="lnDesc">естествен логаритъм</string>
-  <string name="ln_mathematical_value">ln</string>
   <string name="loan_edittext_hint_commercial">Комерсиални заеми</string>
   <string name="loan_edittext_hint_commercial_combined">Комбинирани комерсиални заеми</string>
   <string name="loan_edittext_hint_fund">Налични средства</string>
@@ -134,12 +130,10 @@
   <string name="rightParenDesc">дясна скоба</string>
   <string name="sin">sin</string>
   <string name="sinDesc">синус</string>
-  <string name="sin_mathematical_value">sin</string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">квадратен корен</string>
   <string name="tan">tan</string>
   <string name="tanDesc">тангенс</string>
-  <string name="tan_mathematical_value">tan</string>
   <string name="tax_accumulation_fund">Accumulation fund</string>
   <string name="tax_annual_bonus_hint">Enter your bonus before tax</string>
   <string name="tax_birth">Birth</string>
@@ -172,21 +166,8 @@
   <string name="tax_update_time_format">Data in year %s</string>
   <string name="title_bar">Име</string>
   <string name="to_num">62.7</string>
-  <string name="unit_data_default_area_0">sq.m</string>
-  <string name="unit_data_default_area_1">sq.cm</string>
-  <string name="unit_data_default_currency_0">CNY</string>
-  <string name="unit_data_default_currency_1">USD</string>
-  <string name="unit_data_default_currency_2">EUR</string>
   <string name="unit_data_default_length_0">m</string>
   <string name="unit_data_default_length_1">cm</string>
-  <string name="unit_data_default_temperature_0">C</string>
-  <string name="unit_data_default_temperature_1">F</string>
-  <string name="unit_data_default_time_0">min</string>
-  <string name="unit_data_default_time_1">s</string>
-  <string name="unit_data_default_velocity_0">mps</string>
-  <string name="unit_data_default_velocity_1">kmps</string>
-  <string name="unit_data_default_volume_0">cu.m</string>
-  <string name="unit_data_default_volume_1">cu.cm</string>
   <string name="unit_data_default_weight_0">kg</string>
   <string name="unit_data_default_weight_1">g</string>
   <string name="unit_data_display_area_acre">Acre</string>

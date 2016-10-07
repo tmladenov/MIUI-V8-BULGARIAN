@@ -1,29 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
-    <string-array name="default_smiley_names">
-        <item>Усмивка</item>
-        <item>Тъга</item>
-        <item>Намигване</item>
-        <item>Изплезен език</item>
-        <item>Учудване</item>
-        <item>Целувка</item>
-        <item>Крещене</item>
-        <item>Хладнокръвие</item>
-        <item>Изчервяване</item>
-        <item>Много говоря</item>
-        <item>Объркване</item>
-        <item>Ангел</item>
-        <item>Нерешителност</item>
-        <item>Ридание</item>
-        <item>Гроб съм!</item>
-        <item>Смях</item>
-        <item>Смущение</item>
-        <item>Сърце</item>
-        <item>Ядосване</item>
-        <item>Самодоволство</item>
-        <item>Без изражение</item>
-    </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>1 път</item>
         <item>2 пъти</item>
@@ -86,10 +63,6 @@
     <string-array name="entries_mms_validity_period">
         <item>Максимално</item>
         <item>Два дни</item>
-    </string-array>
-    <string-array name="entries_date_type_rightvalue">
-        <item>Получено</item>
-        <item>Изпратено</item>
     </string-array>
     <string-array name="wild_msg_sync_options">
         <item>Синхр. на всички съобщения</item>
