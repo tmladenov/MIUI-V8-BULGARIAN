@@ -47,7 +47,7 @@
   <string name="done">Готово</string>
   <string name="grant_confirm_question">Разрешавате ли тези права на приложението ? То ще има достъп до:</string>
   <string name="grant_dialog_button_allow">Приеми</string>
-  <string name="grant_dialog_button_deny">Отказ</string>
+  <string name="grant_dialog_button_deny">Забрани</string>
   <string name="install">Инсталирай</string>
   <string name="install_confirm_question">Искате ли да инсталирате това приложение? \nПолучава достъп до тези разрешения</string>
   <string name="install_confirm_question_no_perms">Искате ли да инсталирате това приложение? Не се изискват специални права на достъп.</string>
