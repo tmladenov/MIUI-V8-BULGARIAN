@@ -728,7 +728,7 @@
   <string name="title_expire_video">Почти изтекло</string>
   <string name="title_recent">Скорошни</string>
   <string name="title_report_video">Докладвай</string>
-  <string name="title_select_volume">Сила на звука</string>
+  <string name="title_select_volume">Изберете папка</string>
   <string name="title_upload_video">Качи видеоклип</string>
   <string name="toast_file_not_can_read">Файлът е повреден.</string>
   <string name="tools">Инструменти</string>
