@@ -122,7 +122,7 @@
   <string name="permission_request_title">Искат се разрешения</string>
   <string name="permission_summary_enforced_by_policy">Изискване на сигурността</string>
   <string name="permission_title">%1$s разрешения</string>
-  <string name="permission_warning_template">Съгласяване с %1$s to %2$s?</string>
+  <string name="permission_warning_template">Позволявате ли %1$s да %2$s?</string>
   <string name="permlab_togglePermissions">Превкл. на разрешения</string>
   <string name="privacyPerms">Лични</string>
   <string name="screen_overlay_button">Отворете настройките</string>
