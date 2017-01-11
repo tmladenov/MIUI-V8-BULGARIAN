@@ -919,7 +919,7 @@
   <string name="rlv_closing">Затваряне…</string>
   <string name="rlv_pull_to_close">Дръпнете надолу за затваряне</string>
   <string name="rlv_release_to_close">Отпуснете за затваряне</string>
-  <string name="select_volume">Изберете сила на звука</string>
+  <string name="select_volume">Изберете хранилище</string>
   <string name="set_pattern">Паролата бе обновена</string>
   <string name="set_pattern_btn">Настройка</string>
   <string name="set_pattern_msg">Задайте отново вашата парола. Паролата за поверителност работи също и за снимки и съобщения.</string>
