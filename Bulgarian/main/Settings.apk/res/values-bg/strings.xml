@@ -3174,7 +3174,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Плаващите известия ще изчезват автоматично, след като се покажат в горната част на екрана"</string>
   <string name="status_bar_settings_show_flow_info">Показвай трафика</string>
   <string name="status_bar_settings_show_home_message">Икона на приложение</string>
-  <string name="status_bar_settings_show_keyguard_notification">Изскачащи извесия</string>
+  <string name="status_bar_settings_show_keyguard_notification">Известия на закл. екран</string>
   <string name="status_bar_settings_show_network_speed">Показвай скоростта на връзката</string>
   <string name="status_bar_settings_show_notification_icon">Покажи икона на известието</string>
   <string name="status_bar_settings_show_wifi_name">Показвай Wi-Fi</string>
