@@ -65,7 +65,6 @@
 
 Забележка: Докосването три пъти за промяна на мащаба работи навсякъде освен при клавиатурата и навигационната лента."</string>
   <string name="accessibility_screen_magnification_title">Жестове за увеличение</string>
-  <string name="accessibility_service_default_description">Няма описание.</string>
   <string name="accessibility_services_title">Услуги</string>
   <string name="accessibility_settings">Достъпност</string>
   <string name="accessibility_settings_title">Настройки за достъпност</string>
@@ -219,7 +218,6 @@
   <string name="app_launch_domain_links_title">Връзки за приложението</string>
   <string name="app_launch_open_domain_urls_summary">Отваряне без запитване</string>
   <string name="app_launch_open_domain_urls_title">Отваряне на поддържани връзки</string>
-  <string name="app_launch_other_defaults_title">Други стандартни настройки</string>
   <string name="app_launch_supported_domain_urls_title">Поддържани връзки</string>
   <string name="app_link_open_always">Отваряне в това приложение</string>
   <string name="app_link_open_ask">Извеждане на запитване всеки път</string>
@@ -326,7 +324,6 @@
   <string name="background_data_dialog_title">Да се деактивират ли данните на заден план?</string>
   <string name="background_data_summary">Приложенията да синхр., пращат и получават данни винаги</string>
   <string name="background_process_stop_description">Това е стар процес на приложение, който все още работи, в случай че бъде необходим отново. Обикновено няма причина да го спирате.</string>
-  <string name="backup_configure_account_default_summary">Понастоящем няма профил, който съхранява данните от резервното копие</string>
   <string name="backup_configure_account_title">Резервно копие на профила</string>
   <string name="backup_data_summary">Създаване на резервно копие в сървърите на Google на данните за приложенията, паролите за Wi-Fi и другите настройки</string>
   <string name="backup_data_title">Създаване на резервно копие на данните ми</string>
@@ -564,8 +561,6 @@
   <string name="bluetooth_pb_remember_choice">Без повторно питане</string>
   <string name="bluetooth_permission_request">Заявка за разрешение на Bluetooth</string>
   <string name="bluetooth_phonebook_request">Заявка за достъп до телефонния указател</string>
-  <string name="bluetooth_pin_values_hint">Обикновено 0000 или 1234</string>
-  <string name="bluetooth_pin_values_hint_16_digits">Трябва да е 16 цифри</string>
   <string name="bluetooth_preference_connected_devices">Свързани устройства</string>
   <string name="bluetooth_preference_device_settings">Настройки на устройството</string>
   <string name="bluetooth_preference_found_devices">Налични устройства</string>
@@ -1015,17 +1010,6 @@
   <string name="debug_monitoring_category">Наблюдение</string>
   <string name="debug_networking_category">Мрежи</string>
   <string name="debug_view_attributes">Активиране на инспектирането на атрибутите за преглед</string>
-  <string name="default_app">(По подразбиране)</string>
-  <string name="default_apps_title">Приложения по подразбиране</string>
-  <string name="default_assist_none">Няма</string>
-  <string name="default_assist_title">Помощно приложение</string>
-  <string name="default_browser_title">Браузър</string>
-  <string name="default_browser_title_none">Няма браузър по подразбиране</string>
-  <string name="default_emergency_app">Приложение за спешни случаи</string>
-  <string name="default_input_method">Избор на метод за въвеждане по подразбиране</string>
-  <string name="default_phone_title">Приложение Телефон</string>
-  <string name="default_sound">Стандартен звук</string>
-  <string name="default_usb_mode">USB връзка</string>
   <string name="delete">Изтриване</string>
   <string name="delete_fingerprint_confirm_msg">Да се премахне ли отпечатъка?</string>
   <string name="delete_fingerprint_text">Премахване на Пръстов отпечатък</string>
@@ -1057,7 +1041,6 @@
   <string name="device_cpu8_info">"Осемядрен "</string>
   <string name="device_edit_title">Преименуване на устройството</string>
   <string name="device_feedback">Изпращане на отзиви за устройството</string>
-  <string name="device_info_default">Неизвестно</string>
   <string name="device_info_label">Информация за устройство</string>
   <string name="device_info_not_available">Не е налично</string>
   <string name="device_info_settings">Състояние на устройството</string>
@@ -1538,7 +1521,6 @@
   <string name="internal_storage">Вътр. хранилище</string>
   <string name="internal_storage_sentence">Вътрешно хранилище</string>
   <string name="invalid_location">Мястото за инсталиране е невалидно.</string>
-  <string name="invalid_size_value">Размерът на пакета не можа да бъде изчислен.</string>
   <string name="ipaddr_label">"IP адрес: "</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s и %2$s</string>
@@ -1551,7 +1533,6 @@
   <string name="key_position_cat">Позиция на бутоните</string>
   <string name="key_settings">Бутони</string>
   <string name="key_settings_title">Бутони</string>
-  <string name="keyboard_layout_default_label">По подразбиране</string>
   <string name="keyboard_layout_dialog_setup_button">Настройка на клавиатурните подредби</string>
   <string name="keyboard_layout_dialog_switch_hint">За превключване натиснете „Ctrl“-интервал</string>
   <string name="keyboard_layout_dialog_title">Избор на клавиатурна подредба</string>
@@ -1572,8 +1553,6 @@
   <string name="keywords_app_permissions">сигурност на разрешенията за приложения</string>
   <string name="keywords_battery">захранване</string>
   <string name="keywords_date_and_time">часовник</string>
-  <string name="keywords_default_apps">приложения, по подразбиране</string>
-  <string name="keywords_default_phone_app">телефон, стандартен дайлер</string>
   <string name="keywords_display">екран, сензорен екран</string>
   <string name="keywords_display_auto_brightness">затъмнен екран, сензорен екран</string>
   <string name="keywords_display_brightness_level">затъмнен екран, сензорен екран</string>
@@ -1589,7 +1568,6 @@
   <string name="keywords_location">в района, местоположение, история, отчитане</string>
   <string name="keywords_location_mode">точност</string>
   <string name="keywords_lockscreen">плъзгане, парола, фигура, ПИН код</string>
-  <string name="keywords_more_default_sms_app">текстово съобщение</string>
   <string name="keywords_more_mobile_networks">мобилна мрежа, клетка, оператор, безжична мрежа</string>
   <string name="keywords_network_reset">нулиране, възстановяване, фабрични настройки</string>
   <string name="keywords_printing">принтер</string>
@@ -1613,9 +1591,6 @@
   <string name="large_font">Голям</string>
   <string name="last_synced">Последно синхронизиране: %1$s</string>
   <string name="last_time_used_label">Последно използване</string>
-  <string name="launch_by_default">Отваряне по подразбиране</string>
-  <string name="launch_defaults_none">Няма зададени стандартни настройки</string>
-  <string name="launch_defaults_some">Зададени са някои стандартни настройки</string>
   <string name="launching_cit">Стартира се cit, моля изчакайте.</string>
   <string name="launching_pho">Зареждане на информация за устройството...</string>
   <string name="launching_rep">Докладва се грешка, моля изчакайте.</string>
@@ -1660,7 +1635,6 @@
   <string name="local_backup_password_toast_validation_failure">Задаването на парола за резервно копие не бе успешно</string>
   <string name="local_backup_section_summary">Резервно копие на системните настройки, профил и приложения</string>
   <string name="local_backup_section_title">Локални резервни копия</string>
-  <string name="locale_default">По подразбиране</string>
   <string name="locale_settings">Локално</string>
   <string name="location_access_summary">Приложенията, които са поискали от вас разрешение, да използват информацията за местоположението ви</string>
   <string name="location_access_title">Достъп до местоположението ми</string>
@@ -2086,18 +2060,11 @@
   <string name="nfc_how_it_works_title">Плащане на терминал</string>
   <string name="nfc_more_title">Още...</string>
   <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
-  <string name="nfc_payment_default">Основно приложение за плащане</string>
-  <string name="nfc_payment_default_not_set">Не е зададено</string>
-  <string name="nfc_payment_favor_default">Винаги</string>
   <string name="nfc_payment_favor_open">Освен когато е отворено друго приложение за плащане</string>
   <string name="nfc_payment_how_it_works">Начин на работа</string>
   <string name="nfc_payment_no_apps">Платете само с едно докосване</string>
   <string name="nfc_payment_pay_with">На терминали за мобилно плащане да се използва:</string>
-  <string name="nfc_payment_set_default">Винаги ли да се използва %1$s с функцията „докоснете и платете“?</string>
-  <string name="nfc_payment_set_default_instead_of">Винаги ли да се използва %1$s вместо %2$s с функцията „докоснете и платете“?</string>
-  <string name="nfc_payment_set_default_label">Да се зададе ли като ваше предпочитание?</string>
   <string name="nfc_payment_settings_title">Докоснете и платете</string>
-  <string name="nfc_payment_use_default">Използване на стандартното</string>
   <string name="nfc_quick_toggle_summary">Разрешаване на обмен на данни, когато устройството докосва друго устройство</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Позиция на защитния елемент</string>
@@ -2111,7 +2078,6 @@
   <string name="no_applications">Няма приложения.</string>
   <string name="no_battery_summary">Батерията не е изразходвана от последното пълно зареждане</string>
   <string name="no_data_usage">Не са използвани данни</string>
-  <string name="no_default_apps">Няма стандартни прилож.</string>
   <string name="no_device_admins">Няма налични администратори на устройство</string>
   <string name="no_internet_access_remember">Без повторно запитване за тази мрежа</string>
   <string name="no_internet_access_text">Тази Wi-Fi мрежа %1$s няма достъп до интернет. Искате ли да останете свързани с нея?</string>
@@ -2318,7 +2284,6 @@
   <string name="pref_volume_wake_title">Събуждане на телефона</string>
   <string name="preference_change_password_title">Промяна на паролата</string>
   <string name="preferred_app_settings">Стандартни</string>
-  <string name="preferred_app_settings_default">Стандартно</string>
   <string name="preferred_app_settings_reset">Възстанови стандартните</string>
   <string name="preferred_app_settings_reset_button">Нулиране</string>
   <string name="preferred_app_settings_reset_message">Ще бъдат възстановени стандартните настройки на приложението.</string>
@@ -2415,7 +2380,6 @@
   <string name="provision_skip">Пропусни</string>
   <string name="proxy_action_text">Готово</string>
   <string name="proxy_clear_text">Изчистване</string>
-  <string name="proxy_defaultView_text">Възстановяване на стандартните</string>
   <string name="proxy_error">Внимание</string>
   <string name="proxy_error_dismiss">OK</string>
   <string name="proxy_error_empty_host_set_port">Полето за порт трябва да е празно, ако полето за хост е.</string>
@@ -2539,8 +2503,6 @@
   <string name="reset_network_title">Нулиране на настройките на мрежата</string>
   <string name="resolver_settings_label">Сортиране</string>
   <string name="resource_ringtone_volume_mute">Понастоящем звъненето е заглушено</string>
-  <string name="restore_default_apn">Стандартните настройки за името на точката за достъп (APN) се възстановяват.</string>
-  <string name="restore_default_apn_completed">Възстановяването на стандартните настройките за името на точката за достъп (APN) завърши.</string>
   <string name="restr_pin_enter_admin_pin">Въведете администраторския ПИН код</string>
   <string name="restrict_background_data_dialog_summary">"Приложенията, работещи във фонов режим няма да могат да получават съобщения. Ще ограничите ли фоновите данни?"</string>
   <string name="restrict_background_data_notification_summary">"Приложенията не могат да се свържат с интернет ако фоновите данни са ограничени"</string>
@@ -3097,9 +3059,6 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="smallwindow_smartcover_title">Прозрачен преден капак</string>
   <string name="smartcover_sensitive_title">Smartcover режим</string>
   <string name="sms_application_title">Стандартно приложение за SMS</string>
-  <string name="sms_change_default_dialog_text" formatted="false">Да се използва ли %s вместо %s като приложение за SMS?</string>
-  <string name="sms_change_default_dialog_title">Да се промени ли приложението за SMS?</string>
-  <string name="sms_change_default_no_previous_dialog_text">Да се използва ли %s като приложение за SMS?</string>
   <string name="sms_delivered_sound_dialog_title">Избери звук за доставени съобщения</string>
   <string name="sms_delivered_sound_title">Отчет за доставка</string>
   <string name="sms_messages_title">SMS съобщения</string>
@@ -3462,16 +3421,6 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="trusted_credentials_system_tab">Система</string>
   <string name="trusted_credentials_user_tab">Потребител</string>
   <string name="tts_data_installed_summary">Вече нормално инсталирани гласове, нужни за синтезиране на реч</string>
-  <string name="tts_default_lang_summary">Задава глас за конкретен език за изговорения текст</string>
-  <string name="tts_default_lang_title">Език</string>
-  <string name="tts_default_pitch_summary">Отразява се на тона на изговорения текст</string>
-  <string name="tts_default_pitch_title">Височина</string>
-  <string name="tts_default_rate_summary">Скорост, с която се изговаря текста</string>
-  <string name="tts_default_rate_title">Скорост на речта</string>
-  <string name="tts_default_sample_string">Това е пример за синтезиране на говор</string>
-  <string name="tts_default_settings_section">Стандартни настройки</string>
-  <string name="tts_default_synth_summary">Настройва машината за речеви синтез за изговорен текст</string>
-  <string name="tts_default_synth_title">Стандартна машина</string>
   <string name="tts_engine_error">Избраната от вас машина не може да стартира.</string>
   <string name="tts_engine_error_config">Конфигуриране</string>
   <string name="tts_engine_error_reselect">Избор на друга машина</string>
@@ -3632,8 +3581,6 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="usb_use_charging_only">Само за зареждане</string>
   <string name="usb_use_file_transfers">Прехвърляне на файлове (MTP)</string>
   <string name="usb_use_photo_transfers">Прехвърляне на снимки (PTP)</string>
-  <string name="use_default_tts_settings_summary">Стандартните настройки по-долу заменят тези на приложенията</string>
-  <string name="use_default_tts_settings_title">Винаги да се използват моите настройки</string>
   <string name="use_location_summary">Разрешавам на Google да използва местоположението ми за подобряване на резултатите от търсенето и др. услуги</string>
   <string name="use_location_title">Местопол. и търсене с Google</string>
   <string name="use_personalized_ad_service">Персонализирани реклами</string>
@@ -4185,7 +4132,6 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="wifi_switch_to_gsm_title">Използване на GSM?</string>
   <string name="wifi_tether_checkbox_text">Преносима точка за достъп до Wi-Fi</string>
   <string name="wifi_tether_configure_ap_text">Настройка на точката за достъп до Wi-Fi</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">Преносима точка за достъп до Wi-Fi: %1$s %2$s</string>
   <string name="wifi_tether_enabled_subtext">Активна преносима точка за достъп до %1$s</string>
   <string name="wifi_tether_failed_subtext">Грешка на преносимата точка за достъп до Wi-Fi</string>

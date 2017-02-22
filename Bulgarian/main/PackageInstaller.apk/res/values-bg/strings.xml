@@ -34,7 +34,6 @@
   <string name="app_permissions_group_summary">%1$d of %2$d приложения са разрешени</string>
   <string name="cancel">Отказ</string>
   <string name="current_permission_template">%1$s of %2$s</string>
-  <string name="default_permission_description">Изпълнение на непознато действие</string>
   <string name="devicePerms">Достъп до устройството</string>
   <string name="dlg_app_replacement_statement">"Приложението, което инсталирате ще замени друго приложение.
 

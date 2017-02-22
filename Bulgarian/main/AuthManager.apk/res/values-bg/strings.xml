@@ -267,7 +267,6 @@
   <string name="SysOpt_Boost_Receiver">На заден план</string>
   <string name="app_name">Разрешения</string>
   <string name="current_permission_template">%1$s от %2$s</string>
-  <string name="default_permission_description">изпълнява неизвестно действие</string>
   <string name="grant_confirm_question">Искате ли да осигурите разрешенията по-долу? Ще се получи достъп до:</string>
   <string name="grant_dialog_button_allow">Приемам</string>
   <string name="grant_dialog_button_deny">Отказвам</string>

@@ -270,14 +270,11 @@
   <string name="cfnrc_title_cta">Пренасочване, когато сте недостъпен</string>
   <string name="cfnry_title">Пренас.,когато няма отговор</string>
   <string name="cfu_title">Да се пренасочва винаги</string>
-  <string name="change_default_data_card">SIM карта по подр. за мобилни данни</string>
-  <string name="change_default_data_card_summary">Изглежда сте сменили SIM картите. Да се зададе ли тази СИМ за мобилни данни по подразбиране?</string>
   <string name="change_num">Актуализирай</string>
   <string name="change_password">Промени парола за забрана на повиквания</string>
   <string name="change_pin">Промяна на PIN за SIM карта</string>
   <string name="change_pin2">Промяна на PIN2</string>
   <string name="clir_choices_hide_number">Скрий номера</string>
-  <string name="clir_choices_network_default">Зададено от мрежата</string>
   <string name="clir_choices_show_number">Покажи номера</string>
   <string name="close_dialog">OK</string>
   <string name="close_profile">Затваряне</string>
@@ -285,7 +282,6 @@
   <string name="cmcc_ut_data_enable_prompt">Не можете да се свържете, използвайки VoLTE мрежа. Включете използването на мобилни данни.</string>
   <string name="command_error_fdn_failure">Тази операция не се позволява, докато FDN е включен.</string>
   <string name="common_setting">Основни настройки</string>
-  <string name="config_default_data_sim">Настройки</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="config_disable_cdma_activation_code">false</string>
   <string name="config_world_mode"/>
@@ -300,7 +296,6 @@
   <string name="connect_disconnect_vibrate_title">Вибрация при начало/край на разговор</string>
   <string name="connect_disconnect_vibrate_weak">Слаба</string>
   <string name="connect_later">В момента няма връзка към тази мрежа. Моля, опитайте по-късно.</string>
-  <string name="connection_service_default_label">Вградена услуга за свързване</string>
   <string name="contactAddFailed">Неуспешно добавяне на контакт в SIM картата.</string>
   <string name="contactAddSuccess">Контактът е добавен в SIM картата.</string>
   <string name="contactPhoto">снимка на контакта</string>
@@ -317,10 +312,6 @@
   <string name="data_enable_summary">Активиране на достъп до данните в мобилната мрежа</string>
   <string name="data_enabled">Данните са активирани</string>
   <string name="deactivate_all">Отмени всички</string>
-  <string name="default_area_code_setting">Код по подразбиране</string>
-  <string name="default_areacode">Код по подразбиране</string>
-  <string name="default_notification_description">Тон по подразбиране (%1$s)</string>
-  <string name="default_preference_summary">&lt;Не е зададено&gt;</string>
   <string name="delete">Изтриване</string>
   <string name="deleteAllSimEntries">Изтрий всички контакти от SIM карта</string>
   <string name="deleteSimContacts">Изтриване на контактите от SIM картата</string>
@@ -677,10 +668,7 @@
   <string name="mobile_network_settings_not_available">Настройките за клетъчна мрежа не са налице за този потребител</string>
   <string name="mobile_networks">Настройки на мобилната мрежа</string>
   <string name="msim_apn_not_set">Не е зададено</string>
-  <string name="msim_default_setting">Стандартни настройки</string>
   <string name="msim_disable_sim_card_btn_text">ОК</string>
-  <string name="msim_disable_sim_card_summary_default_card">"Понастоящем тази карта е зададена като SIM карта по подразбиране. Ако спрете да я използвате, няма да имате възможност за извършване на обаждания или връзка чрез мобилни данни. Можете да я спрете след като зададете друга SIM карта като ваша SIM карта по подразбиране."</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">Няма да имате възможност за извършване на обаждания или връзка чрез мобилни данни. Да се спре ли SIM картата %s?</string>
   <string name="msim_disable_sim_card_title">Спиране на SIM картата</string>
   <string name="msim_enable_sim">Активиране</string>
   <string name="msim_general_setting">Настройки</string>
@@ -889,7 +877,6 @@
   <string name="preference_category_ringtone">Мелодия</string>
   <string name="preference_data_usage_summary">Настройте вашия план за мобилни данни, за да контролирате разходите си</string>
   <string name="preference_data_usage_title">Настройте план за мобилни данни</string>
-  <string name="preference_dial_pad_touch_tone_default">По подразбиране</string>
   <string name="preference_dial_pad_touch_tone_off">Изкл</string>
   <string name="preference_dial_pad_touch_tone_piano">Пиано</string>
   <string name="preference_dial_pad_touch_tone_title">Тон при докосване</string>
@@ -1040,7 +1027,6 @@
   <string name="respond_via_sms_cannot_empty">Съобщението не може да бъде празно</string>
   <string name="respond_via_sms_confirmation_format">До %s бе изпратено съобщение.</string>
   <string name="respond_via_sms_edittext_dialog_title">Бърз отговор</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Възстанови прил. по подразбиране</string>
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Бързи отговори</string>
   <string name="response_error">Неочакван отговор от мрежата.</string>
@@ -1100,7 +1086,6 @@
   <string name="sim_card_num">SIM%s</string>
   <string name="sim_contact_name">Име</string>
   <string name="sim_contact_number">Номер</string>
-  <string name="sim_description_default">SIM карта, слот: %s</string>
   <string name="sim_description_emergency_calls">Само спешни обаждания</string>
   <string name="sim_label_emergency_calls">Спешни обаждания</string>
   <string name="sim_ndp_dismiss_text">Отхвърляне</string>
@@ -1155,7 +1140,6 @@
   <string name="sum_cfu_enabled_no_number">Номерът не е наличен</string>
   <string name="sum_cw_disabled">Да бъда уведомяван/а за вх. обаждания по време на разговор</string>
   <string name="sum_cw_enabled">Да бъда уведомяван/а за вх. обаждания по време на разговор</string>
-  <string name="sum_default_caller_id">Използване на стандартните настройки на оператора за извеждане на номера ми при изходящи обаждания.</string>
   <string name="sum_fdn">Управление на фиксираните номера за набиране</string>
   <string name="sum_fdn_change_pin">Промяна на PIN за достъп до ФНН</string>
   <string name="sum_fdn_manage_list">Управление на списъка с телефонни номера</string>
@@ -1265,7 +1249,6 @@
   <string name="voice_report_unknown_num">Неизвестен номер</string>
   <string name="voicemail">Гласова поща</string>
   <string name="voicemail_abbreviated">VM:</string>
-  <string name="voicemail_default">Моят оператор</string>
   <string name="voicemail_notification_ringtone_title">Мелодия</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Вибриране</string>
   <string name="voicemail_notification_vibrate_when_title">Вибриране</string>

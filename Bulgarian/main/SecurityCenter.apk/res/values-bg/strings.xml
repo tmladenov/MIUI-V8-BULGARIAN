@@ -25,7 +25,6 @@
   <string name="activity_title_apps_manager">Приложения</string>
   <string name="activity_title_auto_start_manager">Автостарт</string>
   <string name="activity_title_create_shortcut">Управление на преките пътища</string>
-  <string name="activity_title_default_apps_manager">Стандартни приложения</string>
   <string name="activity_title_garbage_cleanup">Почистване</string>
   <string name="activity_title_license_manager">Разрешения</string>
   <string name="activity_title_memory">Памет</string>
@@ -100,7 +99,6 @@
   <string name="apps_item_sign_dialog_content">Сигнатурата на \"%s\" е различна с тази във Play Store. Да се изтрие ли приложението и да се инсталира официалната версия? Забележка: инсталирането на приложения с конфликтна сигнатура може да предизвика загуба на данни в приложението.</string>
   <string name="apps_item_sign_dialog_title">Инсталиране на официална версия</string>
   <string name="apps_item_sign_install_button_text">Замяна</string>
-  <string name="apps_item_sms_default_set_success">Успешно зададено!</string>
   <string name="apps_item_sms_reset_button_text">По подразбиране</string>
   <string name="apps_item_sms_title">Стандартни настройки за съобщения</string>
   <string name="apps_item_summary_sms">%s има достъп до вашите съобщения. Това може да доведе до проблеми със сигурността.</string>
@@ -455,7 +453,6 @@ For more info check the message you received from your carrier"</string>
   <string name="hints_virus_app_list_item_summary">Вирус (Прил.)</string>
   <string name="hints_virus_app_summary">%s (Прил.)</string>
   <string name="hints_virus_descx_title">Описание на вируса:</string>
-  <string name="hints_virus_lib_update_default_summary">Последна актуализация: неизвестна</string>
   <string name="hints_virus_name_title">Име на вируса:</string>
   <string name="hints_virus_scan_result_descx">Това приложение е риск за вашата безопасност.</string>
   <string name="history_details_title">Датайли на историята</string>
@@ -482,7 +479,6 @@ For more info check the message you received from your carrier"</string>
   <string name="last_check_date_yesterday">"Последно сканиране: Вчера "</string>
   <string name="last_check_never_checked">Препоръчва се сканиране (за първи път)</string>
   <string name="last_checked_date2">Последното сканиране беше преди %d дни</string>
-  <string name="last_checked_default">Последното сканиране беше преди %s дни</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Празник</string>
   <string name="legal_workday_invalidate">Data expired(Currently ringing Moday to Friday)</string>
@@ -500,7 +496,6 @@ For more info check the message you received from your carrier"</string>
   <string name="lock_screen_warning_category">Известия на закл. екран</string>
   <string name="lock_screen_warning_switch_summary">Показвай предупреждения на закл. екран когато използваните данни надвишат дадена стойност</string>
   <string name="lock_screen_warning_switch_title">Показвай известия на закл. екран</string>
-  <string name="lock_screen_warning_value">Предупреждение за данни</string>
   <string name="lock_settings_title">Заключен екран и парола</string>
   <string name="lockpassword_confirm_your_password_header">Потвърдете паролата</string>
   <string name="lockpassword_confirm_your_pattern_header">Потвърдете фигурата</string>
@@ -891,7 +886,6 @@ For more info check the message you received from your carrier"</string>
   <string name="pref_traffic_saving_whitelist">Изключения</string>
   <string name="pref_traffic_saving_whitelist_hint">Използването на данни от тези приложения няма да се ограничава</string>
   <string name="pref_version">Версия %s</string>
-  <string name="pref_warning_values">Праг на предупреждение</string>
   <string name="pref_whitelist_setting">Изключения за роуминг на данни</string>
   <string name="preferred_app_entries_browser">Браузър</string>
   <string name="preferred_app_entries_camera">Камера</string>
@@ -923,9 +917,6 @@ For more info check the message you received from your carrier"</string>
   <string name="quick_optimize_no_issue_subtitle">Изглежда всичко е наред</string>
   <string name="quick_optimize_no_issue_title">Не може да се открият проблеми с батерията</string>
   <string name="quick_optimize_sub_summary_text">Добавени %s към живота на батерията</string>
-  <string name="reach_daily_limit_value_body">Ограничете използването на мобилни данни.</string>
-  <string name="reach_daily_limit_value_body_open_traffic_saving">Включване на спестяване на данни.</string>
-  <string name="reach_daily_limit_value_title">Достигнахте дневният си лимит за данни</string>
   <string name="read_number">86 статии</string>
   <string name="read_unit">" статии"</string>
   <string name="recently_reject_message">Отхвърлени инсталации на %1$s и %2$d други прил.</string>
@@ -989,7 +980,6 @@ For more info check the message you received from your carrier"</string>
   <string name="safe_result_item_info_app_sign">Няма неофициални прил.</string>
   <string name="safe_result_item_info_app_virus">Няма вируси и рискови прил.</string>
   <string name="safe_result_item_info_sms_auth">Ограничава достъпа на приложения от трети страни до кодове за потвърждение</string>
-  <string name="safe_result_item_info_sms_default">Възстановява стандартното системно Съобщения</string>
   <string name="safe_result_item_info_sms_url">Защита от злонамерени URL адреси в SMS</string>
   <string name="safe_result_item_info_system_antivirus">Защита от вируси</string>
   <string name="safe_result_item_info_system_root">ROOT защита</string>
@@ -1084,7 +1074,6 @@ For more info check the message you received from your carrier"</string>
   <string name="summary_cloud_space_full">Получи повече място в хранилището и достъп до още функции</string>
   <string name="summary_cmcc_app_check">Някой приложения не бяха проверени</string>
   <string name="summary_data_flow">Контролирайте вашият обем от данни и задайте праг за предупреждение и лимит, за по-добро управление на използваните данни.</string>
-  <string name="summary_default_app">"%s не е зададено като стандартно системно прил.</string>
   <string name="summary_dev">Предотвратяване на достъпа на приложенията до потребителските данни</string>
   <string name="summary_find_device">Локализиране и заключване на устройството ви отвсякъде</string>
   <string name="summary_flow_notification">Включете функцията за показване в лентата с известия на актуална инф-я за използваните данни.</string>
@@ -1154,7 +1143,6 @@ For more info check the message you received from your carrier"</string>
   <string name="tc_diagnostic_upload_success">Thank you for your feedback!</string>
   <string name="tc_sms_report_direction">SMS inquiry code</string>
   <string name="tc_sms_report_do_report">Send</string>
-  <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
   <string name="tc_sms_report_get_sms">Get SMS</string>
   <string name="tc_sms_report_get_sms2">Get SMS</string>
   <string name="tc_sms_report_get_sms_again">Refresh SMS</string>
@@ -1205,7 +1193,6 @@ For more info check the message you received from your carrier"</string>
   <string name="title_cloud_space_full">"Облачното хранилище е пълно, снимките не могат да се синхр."</string>
   <string name="title_cmcc_app_check">Проверката не е завършила</string>
   <string name="title_data_flow">Задай предопр. за използване на данни</string>
-  <string name="title_default_app">MIUI %s не е зададено като стандартно</string>
   <string name="title_dev_no">Опции на програмиста: вкл.</string>
   <string name="title_dev_yes">Опции на програмиста: изкл.</string>
   <string name="title_find_device">Включване на Открий устройството</string>
@@ -1237,7 +1224,6 @@ For more info check the message you received from your carrier"</string>
   <string name="title_virus_yes">Не са открити вируси</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
   <string name="toast_cleaner_cloudscan">Почистване ще използва онлайн дефинициите</string>
-  <string name="toast_default_app">"%1$s е зададено като стандартно за %2$s"</string>
   <string name="toast_flow_notification">Известията за използване на данни са вкл.</string>
   <string name="toast_garbage_lib">Авт. актуализация за Почистване е включена</string>
   <string name="toast_lockscreen_glogin_empty_password">Изисква се парола</string>
@@ -1305,7 +1291,6 @@ For more info check the message you received from your carrier"</string>
   <string name="traffic_saving_history_total_money">Общо спестени</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">"Спестени този месец: "</string>
-  <string name="traffic_saving_history_total_month_default">Средно спестяване на месец</string>
   <string name="traffic_saving_history_total_rate">Процент</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Спестени данни</string>
@@ -1471,10 +1456,7 @@ For more info check the message you received from your carrier"</string>
   <string name="optimize_result_button_to_set">Задаване</string>
   <string name="optimize_result_button_update_now">Актуализирай</string>
   <string name="optimize_result_summary_sucurity_risk">Някои елементи по сигурността са изключени. Включете ги, за да направите устройството по безопасно:</string>
-  <string name="optimize_result_summary_system_default_settings">"Използването на стандартни за MIUI приложения повишава нивото на сигурност на системата."</string>
   <string name="optimize_result_title_sucurity_risk">Открити рискове в сигурността</string>
-  <string name="optimize_result_title_system_default_settings">Стандартните настройки бяха променени</string>
-  <string name="optimize_result_toast_system_default_settings">Възстановени стандартни настройки</string>
   <string name="optimize_result_toast_system_no_item_selected">Няма избрани елементи</string>
   <string name="optmizingbar_optimize_done">Оптимизирано</string>
   <string name="optmizingbar_ready">Оптимизира се…</string>

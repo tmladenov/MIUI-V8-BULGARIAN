@@ -210,7 +210,6 @@
   <string name="paused_waiting_to_retry">Пауза, в очакване на нов опит</string>
   <string name="period_of_validity">Валидност:</string>
   <string name="play">Пусни</string>
-  <string name="pref_download_revert_default">По подразбиране</string>
   <string name="pref_download_settings_title">Лимит за размер при изтегляне</string>
   <string name="pref_download_storage_path">Създаване на нова папка за изтеглянията</string>
   <string name="pref_sniff_shortcut">Създаване на пряк път</string>
@@ -246,7 +245,6 @@
   <string name="resume_download">Поднови</string>
   <string name="retry_after_network_available">Моля повторете, когато мрежата е достъпна</string>
   <string name="retry_download">Нов опит</string>
-  <string name="revert_default">Нулиране</string>
   <string name="revert_download_path">Да се използва ли стандартната папка за изтегляния?</string>
   <string name="save_path">"Запазвай изтеглянията в: "</string>
   <string name="search_clear_history_btn">Изчистване на хронологията.</string>
@@ -341,7 +339,6 @@
   <string name="task_detail_notfound_confirm">OK</string>
   <string name="third_web_cancel">Отказ</string>
   <string name="third_web_confirm">ОК</string>
-  <string name="third_web_default">Запомни тази локация</string>
   <string name="third_web_filename_hint">Име</string>
   <string name="third_web_filesize">Размер</string>
   <string name="third_web_savepath">Локация</string>

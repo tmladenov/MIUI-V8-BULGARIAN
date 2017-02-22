@@ -4,9 +4,6 @@
   <string name="accessibility_speakerphone_enabled">Високоговорителят бе активиран.</string>
   <string name="add_vm_number_str">Добавяне на номер</string>
   <string name="can_not_dial_while_vt_prompt">"Can't dial while a video call in process"</string>
-  <string name="change_default_dialer_dialog_title">Change default Dialer app?</string>
-  <string name="change_default_dialer_no_previous_app_set_text">Use %s as your default dialer app?</string>
-  <string name="change_default_dialer_with_previous_app_set_text">Use %1$s instead of %2$s as your default dialer app?</string>
   <string name="dial_conference_fail_prompt">"Can't dial conference directly because current network doesn't support VoLTE."</string>
   <string name="dial_vt_fail_prompt">"Current network doesn't support VoLTE. Switch to regular voice call?"</string>
   <string name="duplicate_video_call_not_allowed">Call cannot be added at this time.</string>
@@ -34,7 +31,6 @@
   <string name="respond_via_sms_canned_response_4">Сега не мога да говоря. По-късно?</string>
   <string name="respond_via_sms_confirmation_format">До %s бе изпратено съобщение.</string>
   <string name="respond_via_sms_edittext_dialog_title">Бърз отговор</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Възст. на станд. настройки</string>
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Бързи отговори</string>
   <string name="respond_via_sms_setting_title_2">Редактиране на бързи отговори</string>

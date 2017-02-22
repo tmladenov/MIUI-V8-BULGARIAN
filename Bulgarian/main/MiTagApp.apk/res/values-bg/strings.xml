@@ -8,7 +8,6 @@
   <string name="alarm_config_24h">Будилник в 8:00</string>
   <string name="alarm_label">Име на будилник (по желание)</string>
   <string name="alarm_time">Час за звънене</string>
-  <string name="alarm_value">Будилник %s%%</string>
   <string name="app">Стартиране</string>
   <string name="app_center">Приложения</string>
   <string name="app_name">NFC</string>
@@ -102,7 +101,6 @@
   <string name="input_password_gain">Потвърдете паролата</string>
   <string name="input_password_warning">"Паролата ще бъде записана на маркера, не забравяйте за това!"</string>
   <string name="local_app">Изтеглени приложения</string>
-  <string name="media_value">Медия %s%%</string>
   <string name="meeting_mode">Режим среща</string>
   <string name="miui_ringer_mode">Режим звънене</string>
   <string name="mode">режим</string>
@@ -115,7 +113,6 @@
   <string name="no_available_networks_summary">Опитайте отново след като се свържете към Wi-Fi</string>
   <string name="no_available_xiaomi_shop">Неуспешно отваряне на Xiaomi маркет</string>
   <string name="not_save_btn">Не</string>
-  <string name="notification_value">Известия %s%%</string>
   <string name="null_task">Няма задачи</string>
   <string name="off">Изкл.</string>
   <string name="on">Вкл.</string>
@@ -143,7 +140,6 @@
   <string name="ringer_mode">Режим звънене</string>
   <string name="ringer_normal">Звънене</string>
   <string name="ringer_silent">Заглушено</string>
-  <string name="ringer_value">Звънене %s%%</string>
   <string name="running">се изпълнява</string>
   <string name="save_alert">Да се запише ли задачата?</string>
   <string name="save_btn">Запиши</string>
@@ -197,7 +193,6 @@
   <string name="vibrate_mode">Вибриране</string>
   <string name="vibrate_off">Вибрирането е изкл.</string>
   <string name="vibrate_on">Вибрирането е вкл.</string>
-  <string name="voice_call_value">Сила на звука при разговор %s%%</string>
   <string name="volume">Сила на звука</string>
   <string name="web_label">Име (по желание)</string>
   <string name="web_url">URL</string>

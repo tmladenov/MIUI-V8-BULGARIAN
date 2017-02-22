@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
-    <string-array name="sleep_duration_values">
-        <item>15 минути</item>
-        <item>30 минути</item>
-        <item>45 минути</item>
-        <item>1 час</item>
-    </string-array>
     <string-array name="search_category_rbds_entries">
         <item>All Stations</item>
         <item>Adult Hits</item>

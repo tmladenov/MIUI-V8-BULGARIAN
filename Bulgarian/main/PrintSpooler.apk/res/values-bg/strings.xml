@@ -35,7 +35,6 @@
   <string name="print_add_printer">Добавяне на принтер</string>
   <string name="print_button">Печат</string>
   <string name="print_dialog">Диалогов прозорец за отпечатване</string>
-  <string name="print_error_default_message">Заданието за отпечатване не можа да се генерира</string>
   <string name="print_error_printer_unavailable">"В момента този принтер не е налице."</string>
   <string name="print_error_retry">Нов опит</string>
   <string name="print_forget_printer">Забравяне на принтера</string>

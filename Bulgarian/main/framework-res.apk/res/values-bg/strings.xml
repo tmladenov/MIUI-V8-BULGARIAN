@@ -45,7 +45,6 @@
   <string name="action_bar_up_description">Придвижване нагоре</string>
   <string name="action_menu_overflow_description">Още опции</string>
   <string name="action_mode_done">Готово</string>
-  <string name="activity_chooser_view_dialog_title_default">Избор на активност</string>
   <string name="activity_chooser_view_see_all">Вижте всички</string>
   <string name="activity_list_empty">Не бяха намерени съответстващи дейности.</string>
   <string name="activity_resolver_use_always">Винаги</string>
@@ -181,11 +180,6 @@
   <string name="day">ден</string>
   <string name="days">дни</string>
   <string name="decline">Отхвърлям</string>
-  <string name="defaultVoiceMailAlphaTag">Гласова поща</string>
-  <string name="default_audio_route_category_name">Система</string>
-  <string name="default_audio_route_name">Телефон</string>
-  <string name="default_audio_route_name_dock_speakers">Докинг станц.: Високогов.</string>
-  <string name="default_audio_route_name_headphones">Слушалки</string>
   <string name="delete">Изтриване</string>
   <string name="deleteText">Изтриване</string>
   <string name="deleted_key">Изтрихте %1$s</string>
@@ -384,7 +378,6 @@
   <string name="imTypeHome">Домашен</string>
   <string name="imTypeOther">Друг</string>
   <string name="imTypeWork">Служебен</string>
-  <string name="ime_action_default">Изпълнение</string>
   <string name="ime_action_done">Готово</string>
   <string name="ime_action_go">Старт</string>
   <string name="ime_action_next">Напред</string>
@@ -409,7 +402,6 @@
   <string name="js_dialog_before_unload_positive_button">Напускане на тази страница</string>
   <string name="js_dialog_before_unload_title">Потвърждаване на придвижването</string>
   <string name="js_dialog_title">Страницата на адрес „%s“ съобщава:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Включете слушалки, за да чуете изговарянето на клавишите за паролата.</string>
   <string name="keyboard_password_character_no_headset">Точка.</string>
   <string name="keyboardview_keycode_alt">Alt</string>
@@ -523,7 +515,6 @@
   <string name="lockscreen_access_pattern_cleared">Фигурата е изчистена</string>
   <string name="lockscreen_access_pattern_detected">Фигурата е завършена</string>
   <string name="lockscreen_access_pattern_start">Фигурата е започната</string>
-  <string name="lockscreen_carrier_default">Няма покритие.</string>
   <string name="lockscreen_emergency_call">Спешно обаждане</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Направихте опит да отключите телефона неправилно %d пъти. След още %d неуспешни опита ще бъдат възстановени стандартните му фабрични настройки и всички потребителски данни ще бъдат заличени.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Начертахте неправилно фигурата си за отключване %d пъти. След още %d неуспешни опита ще бъдете помолени да отключите телефона посредством данните си за вход в Google.
@@ -1075,8 +1066,6 @@
   <string name="restr_pin_incorrect">Неправилно</string>
   <string name="restr_pin_try_later">Опитайте отново по-късно</string>
   <string name="revoke">Отмяна</string>
-  <string name="ringtone_default">Стандартна мелодия</string>
-  <string name="ringtone_default_with_actual">Стандартна мелодия (%1$s)</string>
   <string name="ringtone_picker_title">Мелодии</string>
   <string name="ringtone_silent">Без</string>
   <string name="ringtone_unknown">Неизвестна мелодия</string>
@@ -1316,7 +1305,6 @@
   <string name="wifi_calling_off_summary">Изключено</string>
   <string name="wifi_connect_alert_message">Приложението %1$s иска да се свърже с Wi-Fi мрежата „%2$s“</string>
   <string name="wifi_connect_alert_title">Да се разреши ли връзката?</string>
-  <string name="wifi_connect_default_application">Приложение</string>
   <string name="wifi_no_internet">Wi-Fi мрежата няма достъп до интернет</string>
   <string name="wifi_no_internet_detailed">Докоснете за опции</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
@@ -1331,7 +1319,6 @@
   <string name="wifi_p2p_show_pin_message">ПИН:</string>
   <string name="wifi_p2p_to_message">До:</string>
   <string name="wifi_p2p_turnon_message">Стартиране на Wi-Fi Direct. Това ще изключи клиентската програма/точката за достъп до Wi-Fi.</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Не можа да се свърже с Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" има лоша връзка с интернет."</string>
   <string name="wireless_display_route_description">Безжичен дисплей</string>
@@ -1345,9 +1332,6 @@
   <string name="years">години</string>
   <string name="yes">OK</string>
   <string name="zen_mode_alarm">До следващия будилник %1$s</string>
-  <string name="zen_mode_default_events_name">Събитие</string>
-  <string name="zen_mode_default_weekends_name">Събота и неделя</string>
-  <string name="zen_mode_default_weeknights_name">Делнична нощ</string>
   <string name="zen_mode_downtime_feature_name">Почивка</string>
   <string name="zen_mode_feature_name">Не безпокойте</string>
   <string name="zen_mode_forever">Докато не изключите това</string>

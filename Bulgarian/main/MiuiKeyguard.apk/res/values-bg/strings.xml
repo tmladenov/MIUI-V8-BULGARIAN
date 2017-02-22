@@ -4,7 +4,6 @@
   <string name="click_to_enter_text">Чукнете за преглед</string>
   <string name="confirm_pin_msg">Въведете отново PIN код</string>
   <string name="contact_carrier_message">Свържете се с мобилния си оператор ако имате допълнителни въпроси.</string>
-  <string name="default_lockscreen_unlock_hint_text">Плъзнете нагоре за отключване</string>
   <string name="delete">Изтриване</string>
   <string name="emergency_call_string">SOS</string>
   <string name="experimental_try_string">Опитайте</string>
@@ -38,7 +37,6 @@
   <string name="invalid_sim_pin_hint">PIN should contain 4 to 8 numbers</string>
   <string name="invalid_sim_puk_hint">PUK should be at least 8 numbers long</string>
   <string name="keyguard_torch_cover_text">За да остане фенерчето включено, натиснете бутон Захр.</string>
-  <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, dd MMMM</string>
   <string name="lock_screen_date_12">EE, dd MM</string>
   <string name="lockscreen_access_pattern_cell_added">Клетката е добавена</string>

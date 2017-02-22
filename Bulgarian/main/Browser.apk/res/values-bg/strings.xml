@@ -223,8 +223,6 @@
      <string name="download_btn_select_none">Размаркирай всички</string>
      <string name="download_complete">Изтеглянето завърши</string>
      <string name="download_completed">Изтеглени</string>
-     <string name="download_default_path_txt">Изтегляй в тази папка по подразбиране, без да питаш за това отново</string>
-     <string name="download_dialog_default_path_invalid">Невалидна папка за сваляне, използвай зададената по подразбиране</string>
      <string name="download_dialog_file_length_hint_txt">"Размер на файла: "</string>
      <string name="download_dialog_file_length_lessthan1kb">По-малко от 1K</string>
      <string name="download_dialog_file_length_nolength_error_txt">Неуспешно изчисляване на размера на файла</string>
@@ -489,17 +487,9 @@
      <string name="pref_enable_news">Новини</string>
      <string name="pref_enable_novels">Книги</string>
      <string name="pref_enable_videos">Видео</string>
-     <string name="pref_extras_reset_default">Нулиране до началните настройки</string>
-     <string name="pref_extras_reset_default_dlg">Искате ли да възстановите началните настройки?</string>
-     <string name="pref_extras_reset_default_summary">Възстанови началните настройки</string>
-     <string name="pref_extras_reset_default_title">Нулиране до началните настройки</string>
      <string name="pref_extras_send_feedback">Send feedback</string>
      <string name="pref_extras_title">Разширени</string>
      <string name="pref_extras_title_version">Версия</string>
-     <string name="pref_file_downlaod_save_is_reset_default_settings">Съхранявай файловете в стандартната директория за Браузъра</string>
-     <string name="pref_file_downlaod_save_reset_default_settings">Възстанови стандартната директория</string>
-     <string name="pref_file_download_default_path_prefix">Стандартна дир-я: %s</string>
-     <string name="pref_file_download_save_modify_default_path">Директория за изтеглянията</string>
      <string name="pref_file_download_save_title">Изтегляне и запис на файлове</string>
      <string name="pref_fling_on_border_enabled">Плъзгане по границата</string>
      <string name="pref_fling_on_border_enabled_title_summary">Плъзни от границата на екрана</string>
@@ -572,7 +562,6 @@
      <string name="quicklink_saved_before">Сайтът е добавен</string>
      <string name="quicklink_user_define_webpage_title">Име</string>
      <string name="quicklink_user_define_webpage_url">URL</string>
-     <string name="quicklinks_group_default_subtitle">Празно</string>
      <string name="quicklinks_management">Полезни връзки</string>
      <string name="quicklinks_most_visited">Добави на стартовата страница</string>
      <string name="quicklinks_most_visited_subtitle">Покажи най-посещаваните в Нов раздел</string>
@@ -735,7 +724,6 @@
      <string name="v5_edit_mode_title_empty">0 избрани</string>
      <string name="v5_select_all">Избери всички</string>
      <string name="version_check_button_checking">Проверка</string>
-     <string name="version_check_button_default">Проверка за актуализации</string>
      <string name="version_check_button_download_failed">Продължи изтеглянето</string>
      <string name="version_check_button_downloading">Изтегля се</string>
      <string name="version_check_button_install">Инсталирай</string>

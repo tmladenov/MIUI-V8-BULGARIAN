@@ -2,7 +2,6 @@
 <resources>
   <string name="add_frequent_phrases">Добавяне на чести фрази</string>
   <string name="alwaysUsePrompt">Запомни този избор</string>
-  <string name="android_ringtone_default_with_actual">Стандартна мелодия (%1$s)</string>
   <string name="android_ringtone_silent">Няма</string>
   <string name="android_ringtone_unknown">Неизвестна мелодия</string>
   <string name="anniversary_of_lifting_martial_law"/>

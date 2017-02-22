@@ -204,7 +204,6 @@
   <string name="custom_select_title_select_all">Избери всички</string>
   <string name="custom_select_title_select_item">Избери елементи</string>
   <string name="debugging_tip">Генериране на данни за отстр. на грешки</string>
-  <string name="default_album_name">New album</string>
   <string name="delete">Изтрий</string>
   <string name="delete_album_failed">"Албумът не може да се изтрие"</string>
   <string name="delete_album_msg_format">Изтриване на \"%2$s\" албум %1$s%3$s?</string>
@@ -612,7 +611,6 @@
   <string name="slideshow_interval_dialog_title">Интервалът от време трябва да бъде по-голям от 0 секунди</string>
   <string name="slideshow_interval_invalid">Интервалът трябва да бъде между 1 и 3600 секунди</string>
   <string name="slideshow_interval_title">Показвай всяка снимка за</string>
-  <string name="slideshow_interval_value">%1$d секунди</string>
   <string name="slim_after_backuped_summary">Замяна на снимките с висока резолюция в устройството с оптимизирани версии, след като бъдат архивирани в Mi Cloud. Снимките с висока резолюция ще бъдат на разположение в Mi Cloud. Това може да спести много място в локалното хранилище.</string>
   <string name="slim_after_backuped_title">Оптимизирай локалното хранилище след всяко успешно резервно копие</string>
   <string name="slim_introduce">Замяна на локалните снимки/видео с пълна резолюция с оптимизирани копия, след като са архивирани в Mi Cloud. Снимките с пълна резолюция остават запазени в Mi Cloud. Това може да спести повече от 90% място за съхранение(Изисква се Mi-профил).</string>
