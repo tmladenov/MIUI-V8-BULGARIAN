@@ -1,15 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
-    <string-array name="prefEntries_max_bytes_limit">
-        <item>Без ограничение</item>
-        <item>100 MБ</item>
-        <item>20 MБ</item>
-        <item>10 MБ</item>
-        <item>5 MБ</item>
-        <item>2 MБ</item>
-        <item>1 MБ</item>
-        <item>512 KБ</item>
-        <item>Винаги изчаквай за Wi-Fi</item>
-    </string-array>
 </resources>
