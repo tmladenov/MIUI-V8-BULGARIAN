@@ -34,6 +34,7 @@
   <string name="pref_category_quick_pay">Бързо плащане</string>
   <string name="pref_category_quick_settings">Бързи настройки</string>
   <string name="pref_category_system">Системни настройки</string>
+  <string name="restore_default">Възстанови по подразбиране</string>
   <string name="restore_intro">Връщане към настройки по подразбиране, включително различни функции и други. Това няма да изтрие информация от вашия телефон.</string>
   <string name="close_panel">Затвори Тъч асистент</string>
   <string name="open_panel">Отвори Тъч асистент</string>

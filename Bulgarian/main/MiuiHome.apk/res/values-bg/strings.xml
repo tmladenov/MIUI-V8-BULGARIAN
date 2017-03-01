@@ -58,6 +58,10 @@
   <string name="current_preview">Преглед</string>
   <string name="current_wallpaper">Текущ</string>
   <string name="custom_wallpaper_picker">Преглеждане</string>
+  <string name="default_folder_title_game">Игри</string>
+  <string name="default_folder_title_recommend">Препоръчителни</string>
+  <string name="default_folder_title_security">Безопасност</string>
+  <string name="default_folder_title_tools">Инструменти</string>
   <string name="delete">Изтрий</string>
   <string name="delete_screen">Изтрий бутон за екрани</string>
   <string name="delete_wallpaper_message">Да се изтрие ли избраният %1$d тапет?</string>
@@ -203,6 +207,7 @@
   <string name="preferences_general_title">Основни настройки</string>
   <string name="preferences_title">Настройка на MIUI Launcher</string>
   <string name="process"/>
+  <string name="recommend_apps_default_title">Празно</string>
   <string name="recommend_apps_notice">Препоръчани приложения</string>
   <string name="recommend_apps_switch_title">Препоръчани приложения</string>
   <string name="recommend_apps_tips">Тази функция се нуждае от връзка към интернет, за да работи нормално. Ако искате да я изключите, докоснете името на тази папка.</string>

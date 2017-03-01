@@ -6,6 +6,7 @@
   <string name="activate_auto_sms_notification_desc_2_cards">Изпратен е SMS от SIM карта %s за активиране на \"Открий устройството\"</string>
   <string name="activate_auto_sms_notification_title">Активиране на SIM карта</string>
   <string name="activate_feature_call_log_sync">Списъци с обаждания</string>
+  <string name="activate_feature_default_name">Mi services</string>
   <string name="activate_feature_find_device">Открий устройството</string>
   <string name="activate_feature_live_talk">Phone Top-up package</string>
   <string name="activate_feature_mms_sync">Синхр. на SMS съобщения</string>

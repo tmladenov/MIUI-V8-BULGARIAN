@@ -52,6 +52,7 @@
   <string name="birthday_event_description_day_before_yesterday">Завчера</string>
   <string name="birthday_event_description_days_ago">Преди %1$s дни</string>
   <string name="birthday_event_description_days_later">След %1$s дни</string>
+  <string name="birthday_event_description_default">"%2$s%3$s%4$s на %1$s"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_event_description_special">"%1$s е %3$s%4$s%5$s на %2$s"</string>
@@ -103,6 +104,7 @@
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Ден</string>
   <string name="day_view_new_event_hint">Създай събитие</string>
+  <string name="default_reminder_mode">Напомняне по подразбиране</string>
   <string name="delete_calendar">Изтриване</string>
   <string name="delete_label">Изтрий</string>
   <string name="delete_recurring_event_title">Да се изтрие ли %s?</string>
@@ -259,16 +261,21 @@
   <string name="preferences_category_general_title">Общи</string>
   <string name="preferences_clear_search_history_summary">"Премахни всички търсения до сега"</string>
   <string name="preferences_clear_search_history_title">Изтрий историята на търсене</string>
+  <string name="preferences_default_reminder_default">10</string>
+  <string name="preferences_default_reminder_dialog">Време за напомняне</string>
+  <string name="preferences_default_reminder_title">Време за напомняне</string>
   <string name="preferences_general_title">Настройки на изгледа на календар</string>
   <string name="preferences_hide_declined_title">Скрий отменени събития</string>
   <string name="preferences_history_events">Показване на минали събития</string>
   <string name="preferences_holidays">Показване на празници</string>
+  <string name="preferences_home_tz_default">Europe/Athens</string>
   <string name="preferences_home_tz_title">Часови пояс</string>
   <string name="preferences_reminder_title">Настройки на напомняния</string>
   <string name="preferences_show_week_num_title">Показване номера на седмицата</string>
   <string name="preferences_title">Календар</string>
   <string name="preferences_use_home_tz_descrip">Винаги показвай времето в календара според зададената часова зона (дори при далечно пътуване)</string>
   <string name="preferences_use_home_tz_title">Фиксирай часовата зона</string>
+  <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Начало на седмицата</string>
   <string name="preferences_week_start_day_title">Начало на седмицата</string>
   <string name="presence_label">Моят статус:</string>

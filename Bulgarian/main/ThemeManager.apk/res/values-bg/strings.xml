@@ -5,6 +5,7 @@
   <string name="account_unactivated">Профилът не е активиран</string>
   <string name="all_resources">Всички</string>
   <string name="app_name">Теми</string>
+  <string name="apply_default_font_tip">Да продължи ли да се използва текущият шрифт на системата?</string>
   <string name="apply_font_btn_exclude">Не сега</string>
   <string name="apply_font_btn_reboot">Приложи и рестартирай</string>
   <string name="apply_font_tip">Тази тема съдържа шрифт, необходимо е рестартиране на телефона за прилагането му.</string>
@@ -99,6 +100,7 @@
   <string name="online_search_hint">Търсене на информация онлайн</string>
   <string name="present_local_themes">Изтеглени</string>
   <string name="present_online_themes">Онлайн</string>
+  <string name="provision_default_theme_title">По подразбиране</string>
   <string name="provision_loading_tips">Един момент…</string>
   <string name="provision_second_title">Избор на една от петте тем по подразбиране</string>
   <string name="provision_title">Избор на тема</string>
@@ -111,6 +113,7 @@
   <string name="resource_account_login_before_action">Моля, влезте в Mi профила си.</string>
   <string name="resource_account_login_title">Вход</string>
   <string name="resource_account_switch">Превключи профила</string>
+  <string name="resource_alarm_default">Будилник</string>
   <string name="resource_app_name">Браузър ресурси</string>
   <string name="resource_apply">Приложи</string>
   <string name="resource_apply_trial">Пробвай сега</string>
@@ -132,6 +135,7 @@
   <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Добави коментар</string>
   <string name="resource_comment_edit_comment_waiting">Проверка на потребителската история…</string>
+  <string name="resource_comment_edit_text_default">Напиши коментар</string>
   <string name="resource_comment_edit_title">Редактирай коментар: %1$s</string>
   <string name="resource_comment_entry_tips">Коментари (%1$s)</string>
   <string name="resource_comment_expand_full_text">Разшири текста ▼</string>
@@ -139,6 +143,7 @@
   <string name="resource_comment_good_comments">Позитивни</string>
   <string name="resource_comment_invalid">Изберете броя на звездите</string>
   <string name="resource_comment_loading_list">Зареждане…</string>
+  <string name="resource_comment_name_default">Потребител %1$s</string>
   <string name="resource_comment_no_average_score">-.-</string>
   <string name="resource_comment_no_comment">Няма коментари</string>
   <string name="resource_comment_publish">Изпрати</string>
@@ -154,6 +159,8 @@
   <string name="resource_comment_upload_not_logined">Първо трябва да влезете</string>
   <string name="resource_comment_upload_success">Коментарът ви ще бъде показан след неговото одобрение.</string>
   <string name="resource_continue">Следващ</string>
+  <string name="resource_default">Мелодия по подразбиране</string>
+  <string name="resource_default_name">Ресурс</string>
   <string name="resource_delete">Изтриване</string>
   <string name="resource_delete_all">Сигурни ли сте, че искате да изтриете избраните ресурси (%1$d)?</string>
   <string name="resource_delete_confirm">Сигурни ли сте, че искате да изтриете ресурсите?</string>
@@ -217,6 +224,7 @@
   <string name="resource_no_match_app">Няма приложение, което поддържа това действие.</string>
   <string name="resource_no_network_text">Няма връзка с мрежата.</string>
   <string name="resource_no_result">Няма резултати</string>
+  <string name="resource_notification_default">Известия</string>
   <string name="resource_on_trial">Изпробвате: %1$s</string>
   <string name="resource_online">Онлайн</string>
   <string name="resource_pack_confirm">Вече сте закупили %1$d елемента. Но текущата им пакетна цена има отстъпка в сравнение с покупката им поотделно. Продължавате ли?</string>
@@ -234,6 +242,7 @@
   <string name="resource_ranking">Популярни</string>
   <string name="resource_ranking_free">Безплатни</string>
   <string name="resource_ranking_purchase">Платени</string>
+  <string name="resource_ringtone_default">Мелодии</string>
   <string name="resource_ringtone_playing_error">грешка при възпроизвеждане</string>
   <string name="resource_ringtone_volume_mute">Звъненето е заглушено</string>
   <string name="resource_save_to_note">Запази в бележки</string>
@@ -333,6 +342,7 @@
   <string name="theme_component_title_wallpaper">Тапет</string>
   <string name="theme_current_using_has_update">Текущата тема беше обновена, натиснете тук за да я приложите</string>
   <string name="theme_description_title_customized">По избор</string>
+  <string name="theme_description_title_default">По подразбиране</string>
   <string name="theme_empty_redirect">Обратно в магазина</string>
   <string name="theme_favorite_add_fail">Не може да означите със звезда</string>
   <string name="theme_favorite_add_success">Темата е означена със звезда</string>

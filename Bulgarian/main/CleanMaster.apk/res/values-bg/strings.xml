@@ -115,6 +115,7 @@
   <string name="deepclean_title_uninstall_apps">Рядко използвани приложения</string>
   <string name="deepclean_video_content">Изтрива вече гледани или ненужни видеота</string>
   <string name="deepclean_video_summary_empty">Всичко изглежда добре</string>
+  <string name="default_cache_type">Файлове с данни</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Изтриване и на снимките от Mi Cloud</string>
   <string name="dialog_content_delete_image_confirm">Да се изтрият ли %d снимки?</string>
   <string name="dialog_content_select_all_confirm">Да се запази ли копие на тази снимка?</string>
@@ -235,6 +236,7 @@
   <string name="long_click_dialog_summary">Дълго натискане за добавяне на изключения.</string>
   <string name="long_click_dialog_title">Известие</string>
   <string name="mainbtn_text_quick_cleanup">Почисти %s</string>
+  <string name="mainbtn_text_quick_cleanup_default">Почисти</string>
   <string name="megabyteShort">МБ</string>
   <string name="memeory_check_content">%1$d прил., памет %2$s</string>
   <string name="month_day_format">dd MMM</string>

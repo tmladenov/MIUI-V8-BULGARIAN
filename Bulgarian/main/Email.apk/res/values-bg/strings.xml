@@ -149,6 +149,7 @@
   <string name="account_setup_incoming_server_label">Сървър</string>
   <string name="account_setup_incoming_title">Настройка на профила</string>
   <string name="account_setup_incoming_username_label">Потребителско име</string>
+  <string name="account_setup_incoming_username_label_default_hint">Можете да включите домейна</string>
   <string name="account_setup_names_account_name_label">Именуване на този профил (незадължително)</string>
   <string name="account_setup_names_headline">Профилът ви е настроен и имейлите са на път!</string>
   <string name="account_setup_names_title">Настройка на профила</string>
@@ -176,6 +177,7 @@
   <string name="account_setup_options_mail_window_3days">Последните три дни</string>
   <string name="account_setup_options_mail_window_all">Всички</string>
   <string name="account_setup_options_mail_window_auto">Автоматично</string>
+  <string name="account_setup_options_mail_window_default">Стандартното за профила</string>
   <string name="account_setup_options_mail_window_label">Дни за синхронизиране</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Запази за</string>
   <string name="account_setup_options_notify_label">Известие при получаване на имейл</string>
@@ -351,6 +353,7 @@
   <string name="contact_in_filter_call_phone_str">Обаждане от %s</string>
   <string name="contact_in_filter_title">Подател</string>
   <string name="contact_info_string">Показване на информацията за връзка със: %1$s</string>
+  <string name="contact_info_string_default">Показване на информацията за връзка</string>
   <string name="contact_list_add_btn">Добавяне</string>
   <string name="contact_list_search_hint">Търсене на контакти</string>
   <string name="contact_list_title">Списък с контакти</string>
@@ -389,6 +392,9 @@
   <string name="date_message_received_today">Днес, %1$s</string>
   <string name="date_message_received_yesterday">Вчера, %1$s</string>
   <string name="debug_title">Отстраняване на грешки</string>
+  <string name="default_">СТАНДАРТНО</string>
+  <string name="default_setup">СТАНДАРТНИ НАСТРОЙКИ</string>
+  <string name="default_signature">Изпратено чрез MIUI</string>
   <string name="del_account_questionnair_hint">Бихте ли ни казали причината да премахнете този профил?</string>
   <string name="delete">Изтриване</string>
   <string name="delete_conversation_hint_message">Изтрити: %1$d %2$s</string>
@@ -599,6 +605,7 @@
   <string name="meeting_where">Къде: %s</string>
   <string name="megabytes">%s МБ</string>
   <string name="menu_att_mgr">Прикачени файлове</string>
+  <string name="menu_att_mgr_order_default">Скорошни</string>
   <string name="menu_att_mgr_order_mime">По формат</string>
   <string name="menu_att_mgr_order_name">По име</string>
   <string name="menu_att_mgr_order_rev_date">По време</string>

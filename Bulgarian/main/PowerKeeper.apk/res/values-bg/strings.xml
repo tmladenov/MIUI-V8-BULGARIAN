@@ -42,6 +42,7 @@
   <string name="hide_mode_ultimate_desc">Режим оптимизиране е вкл. Приложенията на заден план ще бъдат замразени. Изключете Икономия на батерия за да излезете от режим Оптимизиране.</string>
   <string name="high">Производителност</string>
   <string name="hints_loading_text">Един момент…</string>
+  <string name="invalid_size_value">Размера на пакета не може да се получи.</string>
   <string name="location_disable_description">Използване във фонов режим за кратък период на услугите за местоположение, след това забраняване</string>
   <string name="location_disable_title">Забранено</string>
   <string name="location_enable_description">Използване на услугите за местоположение във фонов режим</string>

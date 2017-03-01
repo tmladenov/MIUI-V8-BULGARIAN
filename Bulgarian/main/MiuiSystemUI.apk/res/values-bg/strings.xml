@@ -174,6 +174,7 @@
   <string name="kilobyte_per_second">К/с</string>
   <string name="label_view">Преглед</string>
   <string name="lland">L Land</string>
+  <string name="lockscreen_carrier_default">Няма покритие</string>
   <string name="long_screenshot_not_support_msg">Приложението не поддържа дълги екранни снимки.</string>
   <string name="long_screenshot_out_of_memory_error">Неуспешно, снимката е твърде голяма</string>
   <string name="long_screenshot_processing">Обработка...</string>

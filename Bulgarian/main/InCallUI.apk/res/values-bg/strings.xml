@@ -35,6 +35,7 @@
   <string name="antispam_notification_title">Неизвестен</string>
   <string name="antispam_provider">Доставчик: %s</string>
   <string name="apn_settings">Имена на точки за достъп</string>
+  <string name="areacode_set_default">Задай по подразбиране.</string>
   <string name="atr_disable">Отчетите за трафик в района са деактивирани</string>
   <string name="atr_enable">Отчетите за трафик в района са активирани</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -161,6 +162,8 @@
   <string name="custom_message_send">Изпрати</string>
   <string name="data_enable_summary">Активиране на достъп до данните в мобилната мрежа</string>
   <string name="data_enabled">Данните са активирани</string>
+  <string name="default_area_code_setting">Селищен код по подразбиране</string>
+  <string name="default_notification_description">Тон по подразбиране (%1$s)</string>
   <string name="delete_fdn_contact">Изтриване на фиксирани номера за набиране</string>
   <string name="deleting_fdn_contact">Фиксираните номера за набиране се изтриват…</string>
   <string name="description_delete_button">изтриване</string>
@@ -401,6 +404,7 @@
   <string name="modify_call_option_vt_tx">Предаване на видео</string>
   <string name="modify_call_prompt_no">Не</string>
   <string name="modify_call_prompt_yes">Да</string>
+  <string name="msim_select_default_time_left">(%d сек.)</string>
   <string name="multi_category_disable">Мултикатегорията е деактивирана</string>
   <string name="multi_category_enable">Мултикатегорията е активирана</string>
   <string name="name">Име</string>

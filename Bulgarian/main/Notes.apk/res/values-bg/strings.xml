@@ -18,6 +18,7 @@
   <string name="attachment_gallery">Галерия</string>
   <string name="button_new_note">Нова бележка</string>
   <string name="call_record_folder_name">Бележки за обаждане</string>
+  <string name="default_folder_name">Бележки</string>
   <string name="delete_folder_dialog_tile">Изтриване на папка</string>
   <string name="dlg_delete_message">Изтрива се…</string>
   <string name="dlg_desc_confirm_alarm_silent">След изключване, сигналите от аларми и бележки няма да се чуват.</string>
@@ -103,6 +104,7 @@
   <string name="sns_choose_quality_high">Високо (%1$s)</string>
   <string name="sns_choose_quality_low">Ниско</string>
   <string name="sns_choose_quality_title">Избор на качество на снимката</string>
+  <string name="sns_content_default">Сподели снимка</string>
   <string name="sns_desc_preview_wechat">Преглед на WeChat съобщение</string>
   <string name="sns_desc_preview_weibo">Преглед на Weibo съобщение</string>
   <string name="sns_footer_text">Създадено с MIUI V6</string>
@@ -119,6 +121,7 @@
   <string name="theme_title_blue">Синьо</string>
   <string name="theme_title_candy">Бонбонено</string>
   <string name="theme_title_dark">Тъмно</string>
+  <string name="theme_title_default">Стандартно</string>
   <string name="theme_title_green">Зелено</string>
   <string name="theme_title_invitation">Привличане</string>
   <string name="theme_title_red">Червено</string>

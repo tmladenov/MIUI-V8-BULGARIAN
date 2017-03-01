@@ -9,6 +9,7 @@
   <string name="bluetooth_remember_choice">Без повторно питане</string>
   <string name="bluetooth_sap_acceptance_dialog_text">%1$s иска достъп до вашата SIM карта. Разрешавате ли достъп %2$s?</string>
   <string name="bluetooth_sap_request">Заявка за Sap връзка</string>
+  <string name="defaultname">Комплект за кола</string>
   <string name="dun_acceptance_timeout_message">Времето за приемане на свързването към %1$s изтече</string>
   <string name="dun_notif_message">Докоснете за свързване с \"%1$s\".</string>
   <string name="dun_notif_ticker">Bluetooth DUN заявка</string>

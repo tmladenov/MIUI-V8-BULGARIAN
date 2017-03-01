@@ -78,6 +78,7 @@
   <string name="open">Open</string>
   <string name="open_browser">Отвори в браузъра</string>
   <string name="realtime_humidity_title">Влажност</string>
+  <string name="realtime_wind_default_title">Вятър</string>
   <string name="share">Сподели</string>
   <string name="share_btn_cancel">Отказ</string>
   <string name="share_btn_confirm">Споделяне</string>

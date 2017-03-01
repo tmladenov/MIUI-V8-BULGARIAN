@@ -5,6 +5,8 @@
   <string name="app_name">Намери устройството</string>
   <string name="captcha">Полета</string>
   <string name="change_find_device_status_failed">Не може да се отключи. %s.</string>
+  <string name="default_lock_msg_words">Това устройство е свързано със съществуващ вече профил. За вашата сигурност, вие трябва да въведете паролата си, за да потвърдите устройството.</string>
+  <string name="default_lock_msg_words_with_phone">Здравейте! Аз си загубих телефона. Бихте ли се свързали с мен? Благодаря!</string>
   <string name="device_locked">Това устройство е заключено.</string>
   <string name="device_lost">Това устройство е изгубено.</string>
   <string name="disable_find_device_error">Не може да се спре услугата Открий устройството. %1$s</string>

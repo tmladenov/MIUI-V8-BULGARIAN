@@ -37,6 +37,9 @@
   <string name="day">1 ден</string>
   <string name="day_concat">", "</string>
   <string name="days">%s дни</string>
+  <string name="default_alarm_alert">Тон по подразбиране</string>
+  <string name="default_alarm_title">Мелодия по подразбиране</string>
+  <string name="default_label">Будилник</string>
   <string name="delete">Изтрий</string>
   <string name="delete_alarm">Изтрий будилника</string>
   <string name="delete_alarm_confirm">Да се изтрие ли този будилник?</string>

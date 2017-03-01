@@ -2,6 +2,7 @@
 <resources>
   <string name="accessibility_calllog_detail">Подробности</string>
   <string name="account_container_title">От профила</string>
+  <string name="account_default">Телефон</string>
   <string name="account_phone">Само телефон, без синхронизация</string>
   <string name="account_sim">Само на SIM карта</string>
   <string name="account_sim2">SIM карта %d</string>
@@ -158,6 +159,7 @@
   <string name="clearFrequentsConfirmation_title">Да изчистя ли често използвани контакти?</string>
   <string name="clearFrequentsProgress_title">Изчистване на често използваните контакти...</string>
   <string name="clear_copy_number_description">Изчисти копираните номера</string>
+  <string name="clear_default">Изтрий настройки по подразбиране</string>
   <string name="clear_digits">Изтрий телефонен номер</string>
   <string name="click_close">Натиснете, за да затворите</string>
   <string name="clip_dialog_title">Набиране на копираният номер?</string>
@@ -268,6 +270,7 @@
   <string name="date_picker_label">Напомни 3 дни преди, и в деня на рожденния ден</string>
   <string name="date_time_set">Настрой</string>
   <string name="date_year_toggle">Добави година</string>
+  <string name="default_ringtone">Мелодия по подразбиране</string>
   <string name="deleteConfirmation">Този контакт ще бъде изтрит.</string>
   <string name="deleteConfirmationDetail">\"%s\" ще бъде изтрит.</string>
   <string name="deleteConfirmation_title">Изтрий</string>
@@ -873,6 +876,7 @@
   <string name="preference_contacts_display">Преглед на контакти</string>
   <string name="preference_contacts_filter">Контакти за показване</string>
   <string name="preference_contacts_more">Други настройки</string>
+  <string name="preference_dial_pad_touch_tone_default">По подразбиране</string>
   <string name="preference_dial_pad_touch_tone_human">Човешки глас</string>
   <string name="preference_dial_pad_touch_tone_piano">Пиано</string>
   <string name="preference_dial_pad_touch_tone_switch">Звук на клавиш</string>
@@ -996,6 +1000,7 @@
   <string name="service_provider">Доставчик на услугата</string>
   <string name="service_provider_detail">Детайли за доставчик на услугата</string>
   <string name="set_data_package">Първо настройте мобилните данни</string>
+  <string name="set_default">По подразбиране</string>
   <string name="set_photo_failed_msg">Грешка при задаване на аватар</string>
   <string name="share_error">Този контакт не може да бъде споделен</string>
   <string name="share_over_limit">Над лимита, не може да се сподели</string>
@@ -1126,6 +1131,7 @@
   <string name="vcard_import_failed">"Неуспешно импортиране на визитка %s."</string>
   <string name="vcard_import_request_rejected_message">Импортирането на визитка се провали, моля опитайте по-късно.</string>
   <string name="vcard_import_will_start_message">%s ще бъде импортирана скоро.</string>
+  <string name="vcard_import_will_start_message_with_default_name">Файлът ще бъде импортиран скоро.</string>
   <string name="vcard_info_send_error">Грешка при изпращането</string>
   <string name="vcard_unknown_filename">контакт</string>
   <string name="video_call">Видео обаждане</string>
